@@ -5,4 +5,4 @@
 	exit 1;
 }
 
-supybot BerryPunch.conf
+tmux new -ds ircbot 'supybot /home/berry-punch/BerryPunch.conf'
