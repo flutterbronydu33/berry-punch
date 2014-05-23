@@ -1,0 +1,80 @@
+user 1
+  name adriens33
+  ignore False
+  secure False
+  hashed True
+  password b47afe60|9847c9184d3041f1a133204d83df217a6dbff33d
+  capability owner
+  capability admin
+  capability #bronycub,op
+  hostmask adriens33!~arthur33@homer.art-software.fr
+  hostmask adriens33!adriens33@*
+  hostmask 'adriens33!*@*'
+
+user 2
+  name heuzef
+  ignore False
+  secure False
+  hashed True
+  password 5b00c9c7|3ea43561cc41d1ca0a6aaac8b244e6d80cbb9705
+  hostmask 'heuzef!*@*'
+  hostmask heuzef!heuzef@*
+  hostmask heuzef!~Thunderbi@main.firewall-services.com
+
+user 3
+  name Gordfang
+  ignore False
+  secure False
+  hashed True
+  password 54d96465|c4196e04e603086a4e69a57af726362e88d1b4c8
+  hostmask Gordfang!*@*
+  hostmask Gordfang!Gordfang@*
+  hostmask 'Gordfang!*@*'
+
+user 4
+  name Rei
+  ignore False
+  secure False
+  hashed True
+  password bc866d92|32943be4125e6a62effc76082ce229cb48fba68a
+  hostmask Rei!*@gateway/web/cgi-irc/kiwiirc.com/*
+
+user 5
+  name ValCab33
+  ignore False
+  secure False
+  hashed True
+  password 3ffc81f4|b3549fefe1282cf4544de612f206b5f32c4dd636
+  hostmask ValCab33!*@*
+
+user 6
+  name Eclipse2212
+  ignore False
+  secure False
+  hashed True
+  password 49125cb0|4b53358b0c0edb140b7d9adb6a2cd15c29101fe1
+  hostmask Eclipse2212!*@*
+
+user 7
+  name wildfier
+  ignore False
+  secure False
+  hashed True
+  password dceffbc2|2bdc4b2d0f5911a91e176c8aa233ff314f4de20b
+  hostmask wildfier!*@*
+
+user 8
+  name ELiDYROS
+  ignore False
+  secure False
+  hashed True
+  password cf1f7d79|24637a3d9943fd773dad284cf057c555b85a1fce
+  hostmask ELiDYROS!*@*
+
+user 9
+  name ragator
+  ignore False
+  secure False
+  hashed True
+  password 060e3934|9f9fe9610bdbf62321b604558ea647aebb9060df
+

@@ -1,0 +1,1048 @@
+2014-05-22T20:51:36  *** BerryPunchBot has joined #bronycub
+2014-05-22T20:52:18  *** ChanServ sets mode: +o BerryPunchBot
+2014-05-22T20:52:48  <arthur33> !help
+2014-05-22T20:52:48  <BerryPunchBot> arthur33: (help [<plugin>] [<command>]) -- This command gives a useful description of what <command> does. <plugin> is only necessary if the command is in more than one plugin.
+2014-05-22T20:52:53  <arthur33> !list
+2014-05-22T20:52:53  <BerryPunchBot> arthur33: Admin, Alias, Channel, ChannelLogger, ChannelStats, Config, Misc, Network, Owner, Protector, Quote, RSS, Reply, Seen, Services, Status, Time, Todo, Topic, User, and Utilities
+2014-05-22T20:53:10  <Rei> euh?..
+2014-05-22T20:53:29  <arthur33> désolé, je suis en train de tester un bot :p
+2014-05-22T20:54:30  <arthur33> !help Quote
+2014-05-22T20:54:30  <BerryPunchBot> arthur33: Error: There is no command "quote".
+2014-05-22T20:54:30  <Rei> ah XD
+2014-05-22T20:55:05  *** heuzef has joined #bronycub
+2014-05-22T20:55:32  <heuzef> BerryPunchBot ? X)
+2014-05-22T20:55:33  <BerryPunchBot> heuzef: Error: "?" is not a valid command.
+2014-05-22T20:55:49  <arthur33> ouaip, j'essaie de mettre un bot en place
+2014-05-22T20:55:54  <heuzef> Pour ?
+2014-05-22T20:55:59  <arthur33> ben pour le chan
+2014-05-22T20:56:07  <heuzef> Pour ?
+2014-05-22T20:56:33  <arthur33> déjà avoir tout le temps connecté ça évite les soucis (topic, etc)
+2014-05-22T20:56:37  <arthur33> et puis ça peut être utile
+2014-05-22T20:56:50  <Rei> *calin heusef*
+2014-05-22T20:56:57  <heuzef> Avec un z ....
+2014-05-22T20:57:14  <heuzef> Tu peux renommer le bot ?
+2014-05-22T20:57:23  <Rei> ah oui pardon ><
+2014-05-22T20:57:33  <arthur33> pourquoi, le nom est pas bon ?
+2014-05-22T20:57:33  * heuzef jette un muffin sur Rei
+2014-05-22T20:57:38  <Rei> ze te ferai des muffins quand on se verra pour me faire pardonner
+2014-05-22T20:57:45  <heuzef> "Berry Punch"
+2014-05-22T20:57:48  <heuzef> Serait mieux
+2014-05-22T20:57:52  <arthur33> je sais
+2014-05-22T20:57:54  <arthur33> déjà pris
+2014-05-22T20:57:56  <arthur33> :/
+2014-05-22T20:58:44  *** arthur33 is now known as Berry_Punch
+2014-05-22T20:58:55  *** Berry_Punch is now known as berry_punch
+2014-05-22T20:59:00  <heuzef> [Berry Punch]
+2014-05-22T20:59:12  <berry_punch> il est pris celui ci
+2014-05-22T20:59:30  <berry_punch> et je peux pas mettre d'espace
+2014-05-22T20:59:48  *** berry_punch is now known as Berry_punch
+2014-05-22T20:59:57  <heuzef> Berry_Punch dans ce cas
+2014-05-22T21:00:01  *** Berry_punch is now known as berry_punch
+2014-05-22T21:00:10  *** berry_punch is now known as Berry_Punch
+2014-05-22T21:00:14  <heuzef> Nice
+2014-05-22T21:00:16  <heuzef> Si possible
+2014-05-22T21:00:22  <Berry_Punch> celui ci est pris
+2014-05-22T21:00:27  *** Berry_Punch is now known as berry_punch
+2014-05-22T21:00:39  *** berry_punch is now known as Berry__Punch
+2014-05-22T21:01:04  *** Berry__Punch is now known as BerryPunch
+2014-05-22T21:01:12  *** BerryPunch is now known as Berry_Punch
+2014-05-22T21:01:23  *** Berry_Punch is now known as arthur33
+2014-05-22T21:01:35  <heuzef> Possible qu'elle lance des phrase aléatoires en étant bourré ?
+2014-05-22T21:01:49  <Rei> XD
+2014-05-22T21:01:52  <heuzef> Exemple :
+2014-05-22T21:02:03  *** arthur33 is now known as Berry_Punch
+2014-05-22T21:02:10  <heuzef> Hello ... *hic*  everypony !
+2014-05-22T21:02:29  <Berry_Punch> oh, sûrement :p
+2014-05-22T21:02:54  <heuzef> Glisser des *hic* n'importe ou dans ses phrases ^^
+2014-05-22T21:03:02  <Berry_Punch> :p
+2014-05-22T21:03:08  *** Berry_Punch is now known as berry_punch
+2014-05-22T21:03:16  *** berry_punch is now known as Berry_punch
+2014-05-22T21:03:39  *** Berry_punch is now known as Berry_Punch_
+2014-05-22T21:03:55  <Berry_Punch_> il te va celui ci ?
+2014-05-22T21:04:03  <Rei> nyuh
+2014-05-22T21:04:16  <heuzef> Berry_Punch pas possible ?
+2014-05-22T21:04:20  <Berry_Punch_> nope
+2014-05-22T21:04:23  <Berry_Punch_> il est pris :(
+2014-05-22T21:04:28  <heuzef> berry_punch ?
+2014-05-22T21:04:33  <Berry_Punch_> et la version en minuscule aussi
+2014-05-22T21:04:47  <Berry_Punch_> et Berry_punch aussi
+2014-05-22T21:04:52  <Rei> ta pas de chance >< essaye NombreuxAdrien1 XD
+2014-05-22T21:05:10  <heuzef> Berry.Punch
+2014-05-22T21:05:28  <Berry_Punch_> il aime pas le point
+2014-05-22T21:05:31  *** Berry_Punch_ is now known as Berry-Punch
+2014-05-22T21:05:42  <heuzef> Berry-Punch
+2014-05-22T21:05:43  <Berry-Punch> \o/
+2014-05-22T21:05:47  <heuzef> ^^
+2014-05-22T21:05:59  <Rei> Bravooooo
+2014-05-22T21:05:59  <Berry-Punch> j'le register de suite celui ci
+2014-05-22T21:07:38  <Rei> j'ai envie de faire un shadow hunter...
+2014-05-22T21:07:45  <Rei> ou une partie de ddr
+2014-05-22T21:08:56  <Rei> mais j'ai pas encore toute mes affaires chez ma mere T.T
+2014-05-22T21:10:42  *** Berry-Punch has joined #bronycub
+2014-05-22T21:10:43  <Rei> Adrien, le garçon qui change de login plus vite que son clavier
+2014-05-22T21:10:56  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T21:11:01  <arthur33> xD
+2014-05-22T21:11:35  <Rei> XD
+2014-05-22T21:12:27  <ELiDYROS> bon bah mon boulot pour My Little Karaoke semble terminé
+2014-05-22T21:12:36  <heuzef> Donc il faudrait que quand Berry parle des *hic* soit diffusé de manière aléatoire entre les mots 1 par phrase serais pas mal
+2014-05-22T21:12:39  <heuzef> Nico fait voir
+2014-05-22T21:12:51  <Rei> bravo ^^
+2014-05-22T21:12:58  <ELiDYROS> ah non va falloir attendre la sortie de l'update
+2014-05-22T21:13:08  <heuzef> Et pourquoi pâs posté le flux RSS leponeyblanc.fr en live ^^
+2014-05-22T21:13:37  <heuzef> ça donnerais quelque chose du style
+2014-05-22T21:13:49  <ELiDYROS> du coup là je suis en train de réfléchir à si je tente de me faire un peu de pub à Everfree
+2014-05-22T21:14:43  <heuzef> Berry-Punch    Enquête Brony ... *hic ... Francophone : De nouvelles données ! : <URL>
+2014-05-22T21:14:43  <Berry-Punch> heuzef: Error: "Enquête" is not a valid command.
+2014-05-22T21:15:00  <heuzef> Enfin on à compris l'idée quoi
+2014-05-22T21:15:12  <ELiDYROS> ça risque pas de vite devenir le bazar si on est déjà beaucoup à parler sur le chat ?
+2014-05-22T21:15:19  <arthur33> !rss add leponeyblanc http://feeds.feedburner.com/poneyblanc
+2014-05-22T21:15:20  <Berry-Punch> arthur33: The operation succeeded.
+2014-05-22T21:15:25  <arthur33> bonne question
+2014-05-22T21:15:43  <arthur33> mais bon on va pas tous parler en même temps
+2014-05-22T21:15:53  <heuzef> Pas vraiment, ils ne postent pas des articles toutes les 5 min sur LPB quand même
+2014-05-22T21:16:08  <arthur33> sur #archlinux-fr y'a 182 personnes et 1 bot
+2014-05-22T21:16:22  <arthur33> c'est pas tant le bazar que ça (en fait parfois c'est même un peu désert)
+2014-05-22T21:16:57  <arthur33> !rss announce add leponeyblanc
+2014-05-22T21:16:58  <Berry-Punch> arthur33: Error: You don't have the #bronycub,op capability. If you think that you should have this capability, be sure that you are identified before trying again. The 'whoami' command can tell you if you're identified.
+2014-05-22T21:17:29  *** ChanServ sets mode: +o arthur33
+2014-05-22T21:17:39  <arthur33> (comment je me fais jeter par mon propre bot…)
+2014-05-22T21:17:43  <arthur33> !rss announce add leponeyblanc
+2014-05-22T21:17:44  <Berry-Punch> arthur33: Error: You don't have the #bronycub,op capability. If you think that you should have this capability, be sure that you are identified before trying again. The 'whoami' command can tell you if you're identified.
+2014-05-22T21:17:58  <heuzef> ChanServ c'est où ?
+2014-05-22T21:18:11  <arthur33> comment ça ?
+2014-05-22T21:18:45  <heuzef> C'est quoi et ou ?
+2014-05-22T21:20:08  *** Berry-Punch has joined #bronycub
+2014-05-22T21:20:08  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T21:20:08  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T21:20:11  <heuzef> Il me dis [403] Server, No such channel  :/
+2014-05-22T21:20:17  <arthur33> ben tu peux lui demander un tas de truc avec /msg ChanServ oui
+2014-05-22T21:20:21  <heuzef> J'ai du mal à comprendre
+2014-05-22T21:20:26  <arthur33> !rss announce add leponeyblanc
+2014-05-22T21:20:27  <Berry-Punch> arthur33: Error: You don't have the #bronycub,op capability. If you think that you should have this capability, be sure that you are identified before trying again. The 'whoami' command can tell you if you're identified.
+2014-05-22T21:25:44  *** Berry-Punch has joined #bronycub
+2014-05-22T21:25:44  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T21:25:44  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T21:26:00  <arthur33> !rss announce add leponeyblanc
+2014-05-22T21:26:01  <Berry-Punch> arthur33: Error: You don't have the #bronycub,op capability. If you think that you should have this capability, be sure that you are identified before trying again. The 'whoami' command can tell you if you're identified.
+2014-05-22T21:28:19  *** Berry-Punch has joined #bronycub
+2014-05-22T21:28:19  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T21:28:19  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T21:28:25  <arthur33> !rss announce add leponeyblanc
+2014-05-22T21:28:26  <Berry-Punch> arthur33: Error: You don't have the #bronycub,op capability. If you think that you should have this capability, be sure that you are identified before trying again. The 'whoami' command can tell you if you're identified.
+2014-05-22T21:28:32  <arthur33> mméééheu
+2014-05-22T21:28:41  <arthur33> !help
+2014-05-22T21:28:41  <Berry-Punch> arthur33: (help [<plugin>] [<command>]) -- This command gives a useful description of what <command> does. <plugin> is only necessary if the command is in more than one plugin.
+2014-05-22T21:28:50  *** ChanServ sets mode: +o arthur33
+2014-05-22T21:29:32  <arthur33> !capability
+2014-05-22T21:29:32  <Berry-Punch> arthur33: Error: "capability" is not a valid command.
+2014-05-22T21:29:41  *** ValCab33 has joined #bronycub
+2014-05-22T21:29:50  <ValCab33> Re-hello
+2014-05-22T21:30:18  <arthur33> !list
+2014-05-22T21:30:18  <Berry-Punch> arthur33: Admin, Alias, Channel, ChannelLogger, ChannelStats, Config, Misc, Network, Owner, Protector, Quote, RSS, Reply, Seen, Services, Status, Time, Todo, Topic, User, and Utilities
+2014-05-22T21:30:31  <arthur33> !admin
+2014-05-22T21:30:31  <Berry-Punch> arthur33: Error: "admin" is not a valid command.
+2014-05-22T21:31:09  <arthur33> !user register arthur33 t9bymttj
+2014-05-22T21:31:09  <Berry-Punch> arthur33: Error: That operation cannot be done in a channel.
+2014-05-22T21:31:13  <arthur33> oups
+2014-05-22T21:31:26  <ValCab33> Watt
+2014-05-22T21:32:03  <heuzef> Il tente de programmer Berry-Punch ^^ Un robot pour le chan
+2014-05-22T21:32:20  <ValCab33> Ah ok
+2014-05-22T21:32:49  <arthur33> !config capabilities
+2014-05-22T21:32:49  <Berry-Punch> arthur33: -owner -admin -trusted
+2014-05-22T21:33:18  <arthur33> !admin capability add arthur33 #bronycub,op
+2014-05-22T21:33:18  <Berry-Punch> arthur33: Error: You don't have the admin capability. If you think that you should have this capability, be sure that you are identified before trying again. The 'whoami' command can tell you if you're identified.
+2014-05-22T21:33:42  <arthur33> !whoami
+2014-05-22T21:33:42  <Berry-Punch> arthur33: I don't recognize you.
+2014-05-22T21:33:48  <arthur33> ah ben merci.
+2014-05-22T21:33:52  <ValCab33> x)
+2014-05-22T21:35:26  *** Berry-Punch has joined #bronycub
+2014-05-22T21:35:26  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T21:35:26  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T21:35:30  <heuzef> !whoami
+2014-05-22T21:35:30  <Berry-Punch> heuzef: I don't recognize you.
+2014-05-22T21:35:44  <heuzef> *hic*
+2014-05-22T21:35:46  <arthur33> Berry-Punch: t'as trop bu !
+2014-05-22T21:35:46  <Berry-Punch> arthur33: Error: "t'as" is not a valid command.
+2014-05-22T21:35:51  <ValCab33> !whoami
+2014-05-22T21:35:52  <Berry-Punch> ValCab33: I don't recognize you.
+2014-05-22T21:36:01  <arthur33> !config capabilities
+2014-05-22T21:36:01  <Berry-Punch> arthur33: -owner -admin -trusted
+2014-05-22T21:36:09  <arthur33> !admin capability add arthur33 #bronycub,op
+2014-05-22T21:36:09  <Berry-Punch> arthur33: Error: You don't have the admin capability. If you think that you should have this capability, be sure that you are identified before trying again. The 'whoami' command can tell you if you're identified.
+2014-05-22T21:36:19  <arthur33> !whoami
+2014-05-22T21:36:19  <Berry-Punch> arthur33: I don't recognize you.
+2014-05-22T21:36:22  *** Ragator has joined #bronycub
+2014-05-22T21:36:30  <ValCab33> Kom t pa op
+2014-05-22T21:36:52  <heuzef> ça tourne avec quoi un bot au faite ?
+2014-05-22T21:36:54  <arthur33> !identify arthur33
+2014-05-22T21:36:54  <Berry-Punch> arthur33: Error: That operation cannot be done in a channel.
+2014-05-22T21:37:13  * heuzef jette un muffin sur Ragator
+2014-05-22T21:37:23  <Ragator> Mais...
+2014-05-22T21:37:41  <ValCab33> Muffins ?
+2014-05-22T21:38:04  * Ragator garde le muffin pour lui
+2014-05-22T21:38:17  <arthur33> !user help
+2014-05-22T21:38:17  <Berry-Punch> arthur33: Error: I can't find help in my user database. If you didn't give a user name, then I might not know what your user is, and you'll need to identify before this command might work.
+2014-05-22T21:38:28  <arthur33> !identify
+2014-05-22T21:38:28  <Berry-Punch> arthur33: Error: That operation cannot be done in a channel.
+2014-05-22T21:38:43  <arthur33> !user list
+2014-05-22T21:38:43  <Berry-Punch> arthur33: arthur33
+2014-05-22T21:39:00  <arthur33> !user hostnask add
+2014-05-22T21:39:00  <Berry-Punch> arthur33: Error: I can't find hostnask in my user database. If you didn't give a user name, then I might not know what your user is, and you'll need to identify before this command might work.
+2014-05-22T21:39:01  <heuzef> Shinsaber: ?
+2014-05-22T21:39:10  <arthur33> !user hostmask add
+2014-05-22T21:39:10  <Berry-Punch> arthur33: Error: That operation cannot be done in a channel.
+2014-05-22T21:42:29  *** Berry-Punch has joined #bronycub
+2014-05-22T21:42:29  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T21:42:29  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T21:42:41  <Shinsaber> Je suis pas encor rajouter sur le site ^^
+2014-05-22T21:43:01  <arthur33> !whoami
+2014-05-22T21:43:01  <Berry-Punch> arthur33: arthur33
+2014-05-22T21:43:04  <arthur33> yay
+2014-05-22T21:43:05  <arthur33> bon
+2014-05-22T21:43:07  <arthur33> en fait
+2014-05-22T21:43:15  <arthur33> pour s'identifier auprès de ce cher bot
+2014-05-22T21:43:27  <arthur33> c'est /msg Berry-Punch identify nom pass
+2014-05-22T21:43:33  <arthur33> (pour que ça passe en privé)
+2014-05-22T21:43:51  <arthur33> !admin capability add arthur33 #bronycub,op
+2014-05-22T21:43:51  <Berry-Punch> arthur33: The operation succeeded.
+2014-05-22T21:44:05  <arthur33> ah, ben là ça montre un peu de respect !
+2014-05-22T21:44:11  <heuzef> Shinsaber = Adrien Audemar OK et effectivement je t'es pas ajouté au site car tu ne m'à toujours pas envoyé ce qu'il faut
+2014-05-22T21:44:21  <arthur33> !rss announce add leponeyblanc
+2014-05-22T21:44:22  <Berry-Punch> arthur33: The operation succeeded.
+2014-05-22T21:44:34  <Shinsaber> oui dsl, pas encor pris le temps !
+2014-05-22T21:44:45  <heuzef> Shinsaber au faite du nouveau pour ton stage ?
+2014-05-22T21:44:57  <arthur33> @heuzef: moi à la base je voulais prendre arthur33 mais sur gravatar il était déjà pris :(
+2014-05-22T21:45:40  <Shinsaber> je continue de chercher une qui pourais me prendre en alternance, mais je pence que je vais dire oui pour vous
+2014-05-22T21:46:01  <heuzef> Shinsaber: ok =)
+2014-05-22T21:46:09  <heuzef> arthur33: tu peux pas te renommer en Adriens33 ?
+2014-05-22T21:46:22  <Ragator> Hey, Shinsaber, c'est pas avec toi que je suis rentré en tram jusqu'à Cenon gare ?
+2014-05-22T21:46:39  <Shinsaber> surement ^^
+2014-05-22T21:46:44  <arthur33> @heuzef: je vais essayer
+2014-05-22T21:47:06  <Ragator> Yay :D Moi qui ne me rappelais justement plus ton prénom
+2014-05-22T21:47:11  *** arthur33 is now known as adriens33
+2014-05-22T21:47:14  <Shinsaber> XD
+2014-05-22T21:47:25  <heuzef> Ha ba voila on commence à y voir claire
+2014-05-22T21:47:43  <heuzef> ValCab33 tu m'avais envoyé ta bio ?
+2014-05-22T21:48:08  <heuzef> Désolé je commence à avoir du mal à organiser tous ça tous seul
+2014-05-22T21:48:12  *** ChanServ sets mode: -o adriens33
+2014-05-22T21:48:12  <Ragator> Oui, il est sur le site...
+2014-05-22T21:48:21  <Ragator> C'est lui qui a organisé le meet-up à ce que je sache.
+2014-05-22T21:48:55  <Shinsaber> heuzef : demain j'ai 8h de microsoft Exchange en cour, j'aurais le temps de tenvoyer les info qui manque ^^
+2014-05-22T21:49:30  <ValCab33> Il faut que j'en refasse une correcte mais j'ai pas teop eu le temps cette semaine entre le lycée, le déménagement qui se prépare et le permis moto 125 que je passe demain
+2014-05-22T21:50:03  <heuzef> Ragator tu confond Yolteotl et ValCab33 la ... m'embrouille pas plus !
+2014-05-22T21:50:06  *** BerryPunchBot has joined #bronycub
+2014-05-22T21:50:10  *** BerryPunchBot is now known as arthur33
+2014-05-22T21:50:22  *** ChanServ sets mode: +o arthur33
+2014-05-22T21:50:23  <Ragator> Ya deux Valentin ?
+2014-05-22T21:50:28  <heuzef> Oui -_-
+2014-05-22T21:50:31  <ValCab33> @ragator: Non moi c'est l'autre valentin
+2014-05-22T21:51:19  *** ChanServ sets mode: +o adriens33
+2014-05-22T21:51:21  *** Ragator has left #bronycub
+2014-05-22T21:51:36  <heuzef> Ok donc Shinsaber et ValCab33 j'attend vos bio pour vous ajouter au site
+2014-05-22T21:52:07  <ValCab33> Ok, je te passe ca ce WE
+2014-05-22T21:52:54  *** arthur33 has quit IRC
+2014-05-22T21:55:55  *** Berry-Punch has joined #bronycub
+2014-05-22T21:55:55  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T21:55:55  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T21:58:43  *** heuzef has quit IRC
+2014-05-22T21:59:58  *** ValCab33 has joined #bronycub
+2014-05-22T22:00:20  <ValCab33> Hében voilà
+2014-05-22T22:00:33  <adriens33> :)
+2014-05-22T22:01:01  <ValCab33> Il me semblait bien que j'avait DL un client irc un jour
+2014-05-22T22:01:21  <adriens33> sinon tu peux demander à Berry-Punch, comme ça: channel nicks
+2014-05-22T22:01:34  <adriens33> Berry-Punch: channel nicks
+2014-05-22T22:01:34  <Berry-Punch> adriens33: adriens33, Berry-Punch, ELiDYROS, ValCab33, and wildfier
+2014-05-22T22:01:46  <adriens33> (ou avec !)
+2014-05-22T22:01:49  <adriens33> !channel nicks
+2014-05-22T22:01:49  <Berry-Punch> adriens33: adriens33, Berry-Punch, ELiDYROS, ValCab33, and wildfier
+2014-05-22T22:02:02  *** heuzef has joined #bronycub
+2014-05-22T22:02:06  <ValCab33> Okay
+2014-05-22T22:02:29  *** ChanServ sets mode: +o heuzef
+2014-05-22T22:02:42  <heuzef> re
+2014-05-22T22:02:47  <ValCab33> Rheu
+2014-05-22T22:02:55  <adriens33> rheu
+2014-05-22T22:03:24  <heuzef> Tu t'en sort pour le bot ?
+2014-05-22T22:04:04  *** heuzef1 has joined #bronycub
+2014-05-22T22:04:45  *** heuzef1 has left #bronycub
+2014-05-22T22:05:09  *** GLaDOS_ has joined #bronycub
+2014-05-22T22:05:11  <adriens33> ça vient doucement
+2014-05-22T22:05:50  <adriens33> déjà j'ai réussi à ouvrir un canal privé, pour éviter de vous flooder pour rien :p
+2014-05-22T22:08:58  *** heuzef has quit IRC
+2014-05-22T22:12:29  *** Berry-Punch has joined #bronycub
+2014-05-22T22:12:29  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T22:12:29  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T22:14:09  *** heuzef has joined #bronycub
+2014-05-22T22:19:27  <heuzef> ValCab33 ?
+2014-05-22T22:19:43  <ValCab33> C'est moi
+2014-05-22T22:19:57  <heuzef> Je vais t'ajouter sur la liste
+2014-05-22T22:20:38  <ValCab33> Sur le site ?
+2014-05-22T22:22:18  *** Berry-Punch has joined #bronycub
+2014-05-22T22:22:18  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T22:22:18  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T22:23:37  <ValCab33> Ah ouais, en mode Latin x)
+2014-05-22T22:24:09  *** Rei has joined #bronycub
+2014-05-22T22:24:21  <heuzef> Et pour ton adresse j'ai noté celle de Villenave
+2014-05-22T22:24:27  <adriens33> !deop adriens33
+2014-05-22T22:24:27  *** Berry-Punch sets mode: -o adriens33
+2014-05-22T22:24:30  <heuzef> C'est bien celle de ton père ?
+2014-05-22T22:24:34  <adriens33> !op adriens33
+2014-05-22T22:24:34  <heuzef> Je suis complétement perdu
+2014-05-22T22:24:35  *** Berry-Punch sets mode: +o adriens33
+2014-05-22T22:24:39  <Rei> re
+2014-05-22T22:24:45  <adriens33> re
+2014-05-22T22:24:49  <heuzef> plop
+2014-05-22T22:25:28  <Rei> ca va tjr?
+2014-05-22T22:25:38  <ValCab33> Hi
+2014-05-22T22:25:55  <Rei> Hello^^
+2014-05-22T22:26:58  <heuzef> ValCab33: bref je compte sur toi pour m'envoyer tous ça vite, c'est mauvais pour le referencement du lorem
+2014-05-22T22:27:26  <ValCab33> Du quoi ?
+2014-05-22T22:27:41  <heuzef> lorem ipsum dolor sit amet :P
+2014-05-22T22:27:53  <ValCab33> Bien sur
+2014-05-22T22:28:25  <heuzef> ;)
+2014-05-22T22:28:36  <Rei> ma conseillere de la mission locale va m'en vouloir a mort demain XD
+2014-05-22T22:29:01  <heuzef> ?
+2014-05-22T22:29:48  <GLaDOS_> Want some cake ?
+2014-05-22T22:29:52  *** GLaDOS_ has quit IRC
+2014-05-22T22:30:16  <ELiDYROS> It's a lie
+2014-05-22T22:30:22  <ValCab33> The cake is a lie
+2014-05-22T22:30:30  <Rei> j'peu pas me lever de mon lit depuis ce matin XD elle m'a inscrit a un atelier et je dois lui amener un papier demain XD
+2014-05-22T22:31:16  <adriens33> !reply reply ELiDYROS: où ça un cake ?
+2014-05-22T22:31:16  <Berry-Punch> adriens33: ELiDYROS: où ça un cake ?
+2014-05-22T22:31:30  <adriens33> !echo test
+2014-05-22T22:31:30  <Berry-Punch> test
+2014-05-22T22:31:37  <heuzef> !echo prout
+2014-05-22T22:31:37  <Berry-Punch> prout
+2014-05-22T22:31:46  <heuzef> !echo HIC !
+2014-05-22T22:31:46  <Berry-Punch> HIC !
+2014-05-22T22:32:09  <ValCab33> !echo
+2014-05-22T22:32:09  <Berry-Punch> ValCab33: (echo <text>) -- Returns the arguments given it. Uses our standard substitute on the string(s) given to it; $nick (or $who), $randomNick, $randomInt, $botnick, $channel, $user, $host, $today, $now, and $randomDate are all handled appropriately.
+2014-05-22T22:32:09  <heuzef> Rei: Atelier de quoi ?
+2014-05-22T22:32:18  <ValCab33> Ok
+2014-05-22T22:32:23  <Rei> sur l'alternance
+2014-05-22T22:32:54  <heuzef> Rei: tu te dois d'être rigoureuse avec la ML
+2014-05-22T22:32:57  <heuzef> un conseil
+2014-05-22T22:33:03  <Rei> ca doit etre une reunion d'info
+2014-05-22T22:33:08  <heuzef> !echo $randomNick
+2014-05-22T22:33:08  <Berry-Punch> Rei
+2014-05-22T22:33:19  <heuzef> !echo $randomNick
+2014-05-22T22:33:19  <Berry-Punch> wildfier
+2014-05-22T22:33:26  <adriens33> !echo $randomNick [quote random]
+2014-05-22T22:33:26  <Berry-Punch> Rei Quote #1: "How is *hic* everypony today ?" (added by adriens33 at 10:14 PM, May 22, 2014)
+2014-05-22T22:33:42  <Rei> non mais je le sais flo, je suis super rigoureuse avec elle et tout, mais la tu vois, je suis malade mec XD j'ai une fucking de gastro
+2014-05-22T22:34:24  <adriens33> !herald get
+2014-05-22T22:34:24  <Berry-Punch> adriens33: Coucou toi !
+2014-05-22T22:34:30  <heuzef> !echo Rei tu devrais *hic* boire un grog ... c'est bon *hic* pour la santée
+2014-05-22T22:34:30  <Berry-Punch> Rei tu devrais *hic* boire un grog ... c'est bon *hic* pour la santée
+2014-05-22T22:34:35  <adriens33> :p
+2014-05-22T22:34:47  <Rei> BIERE!!!! *v*
+2014-05-22T22:35:01  <heuzef> Notre mascotte ivre commence à naître <3
+2014-05-22T22:35:27  <ELiDYROS> ça me rappelle berrytube
+2014-05-22T22:35:57  <adriens33> !echo $randomNick je  sais *hic* pas quoi dire *hic*, adriens33 est nul en programmage de bot
+2014-05-22T22:35:57  <Berry-Punch> ELiDYROS je sais *hic* pas quoi dire *hic*, adriens33 est nul en programmage de bot
+2014-05-22T22:36:41  *** wildfier has quit IRC
+2014-05-22T22:37:24  *** GLaDOS_ has joined #bronycub
+2014-05-22T22:38:00  <adriens33> quote get 2
+2014-05-22T22:38:03  <adriens33> !quote get 2
+2014-05-22T22:38:03  <Berry-Punch> adriens33: Quote #2: "$randomNick Tu devrais *hic* boire un bon gros grog… *hic* c'est bon pour la santé !" (added by adriens33 at 10:37 PM, May 22, 2014)
+2014-05-22T22:38:27  <adriens33> !echo [quote get 2]
+2014-05-22T22:38:27  <Berry-Punch> Quote #2: "heuzef Tu devrais *hic* boire un bon gros grog… *hic* c'est bon pour la santé !" (added by adriens33 at 10:37 PM, May 22, 2014)
+2014-05-22T22:38:42  <adriens33> !echo [quote random]
+2014-05-22T22:38:42  <Berry-Punch> Quote #2: "heuzef Tu devrais *hic* boire un bon gros grog… *hic* c'est bon pour la santé !" (added by adriens33 at 10:37 PM, May 22, 2014)
+2014-05-22T22:38:47  <ELiDYROS> d'ailleurs vous avez pas peur qu'on soit assimilé à berrytube justement ?
+2014-05-22T22:39:03  <heuzef> adriens33:  c'est jouable de la faire reagire a chaque fois qu'un nom d'alchool est prononcé ? ^^
+2014-05-22T22:39:14  <GLaDOS_> Je suis mieux programmée que Berry-Punch
+2014-05-22T22:39:16  <adriens33> heuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+2014-05-22T22:39:18  *** GLaDOS_ has quit IRC
+2014-05-22T22:39:29  <adriens33> peut être
+2014-05-22T22:39:37  <adriens33> faut que je me plonge dedans :p
+2014-05-22T22:40:07  <ELiDYROS> parce que je tilte qu'on a la même mascotte
+2014-05-22T22:41:13  *** Berry-Punch has joined #bronycub
+2014-05-22T22:41:13  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T22:41:13  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T22:42:44  <heuzef> ELiDYROS: je m'inquiete plus pour Hasbro que BerryTube
+2014-05-22T22:42:59  <heuzef> Et hasbro ne m'inquiete pas du tous :/
+2014-05-22T22:43:21  <ELiDYROS> je dis ça car chez berrytube c'est "spécial"
+2014-05-22T22:43:39  <Rei> *se transforme en fluffle puff pour demander des calins a tout le monde* pffffluuuffff
+2014-05-22T22:48:44  *** Berry-Punch has joined #bronycub
+2014-05-22T22:48:44  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T22:48:44  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T22:52:09  <heuzef> On est pas des soiaffard nous ^^
+2014-05-22T22:52:37  <Rei> XD
+2014-05-22T22:52:43  <ELiDYROS> ceci dit ils ont l'air très drole
+2014-05-22T22:52:48  <ELiDYROS> ça délire bien
+2014-05-22T22:53:35  <heuzef> La c'est le moment ou je vous fait buger
+2014-05-22T22:53:36  <heuzef> https://www.youtube.com/watch?v=k5dNC5SV7gE
+2014-05-22T22:55:49  <adriens33> oké…
+2014-05-22T22:56:00  <heuzef> XD
+2014-05-22T22:56:26  <heuzef> Je suis sur que vous ressemblez à ça en ce moment
+2014-05-22T22:56:27  <heuzef> https://www.youtube.com/watch?v=pOPvlA8jZjQ
+2014-05-22T22:56:43  *** ValCab33 has quit IRC
+2014-05-22T22:56:51  <ELiDYROS> non ça va
+2014-05-22T22:57:05  <ELiDYROS> j'ai vu pire disons
+2014-05-22T22:57:10  <heuzef> Sweeptybloom Sweeptybloom Sweeptybloom Sweeptybloom
+2014-05-22T22:57:12  <heuzef> XD
+2014-05-22T22:57:17  *** ValCab33 has joined #bronycub
+2014-05-22T22:59:49  <heuzef> $randomNick
+2014-05-22T23:00:22  <heuzef> !$RandomNick
+2014-05-22T23:00:23  <Berry-Punch> heuzef: Error: "Rei" is not a valid command.
+2014-05-22T23:00:36  <heuzef> $RandomNick
+2014-05-22T23:00:40  <Rei> ?
+2014-05-22T23:01:05  <adriens33> !echo $randomNick
+2014-05-22T23:01:19  <adriens33> zut
+2014-05-22T23:01:19  <heuzef> !echo $RandomNick
+2014-05-22T23:01:19  <Berry-Punch> ValCab33
+2014-05-22T23:01:34  <ValCab33> Oui ?
+2014-05-22T23:01:34  <adriens33> comment elle m'ignore parce que je lui ai trop parlé :o
+2014-05-22T23:01:45  <Rei> qui moi?
+2014-05-22T23:01:46  <adriens33> comment y'a aucun respect de l'autorité pas du tout compétente :p
+2014-05-22T23:01:55  <adriens33> (je parle de Berry-Punchà
+2014-05-22T23:01:57  <adriens33> *)
+2014-05-22T23:01:57  <heuzef> !echo /me met une Twicane à $randomNick
+2014-05-22T23:01:57  <Berry-Punch> /me met une Twicane à Berry-Punch
+2014-05-22T23:01:59  <Rei> Ahh
+2014-05-22T23:02:03  <heuzef> MDR !
+2014-05-22T23:02:07  <adriens33> faut faire apply
+2014-05-22T23:02:09  <Rei> XD
+2014-05-22T23:02:14  <adriens33> !apply /me
+2014-05-22T23:02:19  <heuzef> Power of the Twicane tu peux pas test
+2014-05-22T23:02:27  <ELiDYROS> bon. je tourne en rond
+2014-05-22T23:02:29  <heuzef> https://www.youtube.com/watch?v=v6xTq-tv6UM
+2014-05-22T23:02:40  <Rei> un peu pareil, je tourne en rond XD
+2014-05-22T23:03:04  <Rei> fb fait de la grosse merde ce soir
+2014-05-22T23:03:38  *** Berry-Punch has joined #bronycub
+2014-05-22T23:03:38  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T23:03:38  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T23:04:20  *** Berry-Punch has joined #bronycub
+2014-05-22T23:04:20  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T23:04:20  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T23:04:37  <ELiDYROS> réseau social où les gens se regardent le nombril
+2014-05-22T23:04:54  <Rei> facebook XD
+2014-05-22T23:04:54  <heuzef> OMG NAON !
+2014-05-22T23:04:59  <heuzef> http://fc09.deviantart.net/fs70/f/2013/014/8/7/fluffle_puff_tales__screaming_by_hellbronyxendor-d5rikr5.gif
+2014-05-22T23:05:17  <Rei> j'étais entrain de rp quand la messagerie instant" a bugger T.T
+2014-05-22T23:06:16  <Rei> rahhh je peux pas voir le gif t.t connexion pas assez puissante
+2014-05-22T23:07:22  <heuzef> Ha ouais en effet c'est grave
+2014-05-22T23:07:35  <heuzef> Et bertrand il pète pas un plomb ?
+2014-05-22T23:07:44  <Rei> je suis pas a talence
+2014-05-22T23:07:49  <Rei> je suis chez ma mere
+2014-05-22T23:07:58  <heuzef> ADSL ?
+2014-05-22T23:08:08  <Rei> et chez elle, le temps qu'elle puisse se payer une box j'ai que des codes sfr wifi..
+2014-05-22T23:08:19  <heuzef> .......
+2014-05-22T23:08:42  <heuzef> T'as pas un android sous la main ?
+2014-05-22T23:09:27  <Rei> mon telephone c'est meme pas un samsumg player one, il a 7 ans et j'ai pas de forfait internet
+2014-05-22T23:09:47  <Rei> ma mere a un iphone mais elle a pas internet et il bug a mort
+2014-05-22T23:10:04  <heuzef> Ok .....
+2014-05-22T23:10:23  *** Berry-Punch has joined #bronycub
+2014-05-22T23:10:23  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T23:10:23  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T23:11:37  *** Berry-Punch has joined #bronycub
+2014-05-22T23:11:37  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T23:11:37  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T23:11:52  <Rei> mais je peux pas XD c'est le wifi de leur box et faut leur mot de passe
+2014-05-22T23:12:17  <heuzef> Soit tu leur demande soit tu le crack
+2014-05-22T23:13:28  *** Berry-Punch has joined #bronycub
+2014-05-22T23:13:28  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T23:13:28  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T23:13:33  <Rei> il est a talence, et il le fera jamais XD
+2014-05-22T23:13:43  <Rei> fin bref tkt, je me débrouille
+2014-05-22T23:13:46  <heuzef> ok
+2014-05-22T23:15:23  <heuzef> Bon allez jvais faire dodotage
+2014-05-22T23:15:27  <Rei> ne nuiiii
+2014-05-22T23:15:34  <ValCab33> Neunuit
+2014-05-22T23:16:39  <heuzef> A bientôt tous le monde =) On va bien s'amuser avec ce tchat je le sens :P
+2014-05-22T23:19:01  <adriens33> nenuit :p
+2014-05-22T23:19:07  <ValCab33> D'ailleurs je vais aussi go dodo, faudrait pas que je soit a moitié endormi sur la moto pour le permis :p
+2014-05-22T23:19:24  <ValCab33> Et en plus ma batterie m'engueule
+2014-05-22T23:20:29  <Rei> bonne nuit valcab'
+2014-05-22T23:27:24  *** Berry-Punch has joined #bronycub
+2014-05-22T23:27:24  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T23:27:24  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T23:27:27  <Berry-Punch> An error has occurred and has been logged. Please contact this bot's administrator for more information.
+2014-05-22T23:29:21  *** Berry-Punch has joined #bronycub
+2014-05-22T23:29:21  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T23:29:21  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T23:29:24  <Berry-Punch> An error has occurred and has been logged. Please contact this bot's administrator for more information.
+2014-05-22T23:30:42  *** Berry-Punch has joined #bronycub
+2014-05-22T23:30:42  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T23:30:42  *** ChanServ sets mode: +o Berry-Punch
+2014-05-22T23:30:45  <Berry-Punch> Salut Berry-Punch *hic*
+2014-05-22T23:30:49  <adriens33> xD
+2014-05-22T23:30:51  <adriens33> loooooooooooool
+2014-05-22T23:31:14  <adriens33> le bot qui se dit bonjour à elle même
+2014-05-22T23:31:17  <adriens33> je test
+2014-05-22T23:31:20  *** adriens33 has left #bronycub
+2014-05-22T23:31:24  *** adriens33 has joined #bronycub
+2014-05-22T23:31:24  <Berry-Punch> Salut adriens33 *hic*
+2014-05-22T23:31:24  *** ChanServ sets mode: +o adriens33
+2014-05-22T23:31:28  <adriens33> yay
+2014-05-22T23:31:39  <Rei> bravo^^
+2014-05-22T23:31:46  <adriens33> un truc qui marche :p
+2014-05-22T23:34:00  <adriens33> Berry-Punch ?
+2014-05-22T23:34:00  <Berry-Punch> adriens33: Error: "?" is not a valid command.
+2014-05-22T23:34:01  <Berry-Punch> Test
+2014-05-22T23:34:03  <ELiDYROS> moi je propose une fonction pour le bot, qu'il ressorte les logs des instants honteux et blagues qui n'ont pas marché
+2014-05-22T23:34:07  <adriens33> xD
+2014-05-22T23:34:11  <adriens33> why not
+2014-05-22T23:34:53  <adriens33> !config reply.whenNotCommand false
+2014-05-22T23:34:53  <Berry-Punch> adriens33: The operation succeeded.
+2014-05-22T23:35:03  <adriens33> Berry-Punch ?
+2014-05-22T23:35:03  <Berry-Punch> Test
+2014-05-22T23:36:08  <adriens33> Berry-Punch ?
+2014-05-22T23:36:08  <Berry-Punch> Oui *hic* ?
+2014-05-22T23:36:37  <ELiDYROS> Berry-Punch: aime les patates
+2014-05-22T23:36:37  <Berry-Punch> Oui *hic* ?
+2014-05-22T23:36:49  <adriens33> Berry-Punch ?
+2014-05-22T23:36:49  <Berry-Punch> Oui *hic* ?
+2014-05-22T23:36:50  <adriens33> Berry-Punch ?
+2014-05-22T23:36:50  <Berry-Punch> Oui *hic* ?
+2014-05-22T23:36:52  <adriens33> Berry-Punch ?
+2014-05-22T23:36:52  <Berry-Punch> Oui *hic* ?
+2014-05-22T23:37:58  <Rei> nyuh
+2014-05-22T23:38:38  <ELiDYROS> nouille
+2014-05-22T23:40:44  <Rei> je m'ennui
+2014-05-22T23:41:32  <ELiDYROS> pareil
+2014-05-22T23:41:53  <Rei> mes rp sont pas interessants T.T
+2014-05-22T23:42:01  <ELiDYROS> rp ?
+2014-05-22T23:42:11  <adriens33> !ding
+2014-05-22T23:42:11  <Berry-Punch> adriens33: Oui *hic* ?
+2014-05-22T23:42:20  <adriens33> !ding
+2014-05-22T23:42:20  <Berry-Punch> adriens33: Oui *hic* ?
+2014-05-22T23:42:22  <adriens33> !ding
+2014-05-22T23:42:22  <Berry-Punch> adriens33: Oui *hic* ?
+2014-05-22T23:42:27  <adriens33> !ding
+2014-05-22T23:42:27  <Berry-Punch> adriens33: Oui *hic* ?
+2014-05-22T23:42:46  <Rei> rp c'est une histoire que tu écrit avec un partenaire en incarnant chacun un personnage
+2014-05-22T23:42:55  <ELiDYROS> roleplay ?
+2014-05-22T23:43:06  <Rei> oui ça viens de la XD
+2014-05-22T23:43:09  <adriens33> !ding
+2014-05-22T23:43:09  <Berry-Punch> adriens33: Qui veut un *hic* verre ?
+2014-05-22T23:43:12  <adriens33> !ding
+2014-05-22T23:43:12  <Berry-Punch> adriens33: Qui veut un *hic* verre ?
+2014-05-22T23:43:43  <adriens33> !ding
+2014-05-22T23:43:43  <Berry-Punch> adriens33: Oui *hic* ?
+2014-05-22T23:43:46  <adriens33> !ding
+2014-05-22T23:43:46  <Berry-Punch> adriens33: Qui me *hic* parle ?
+2014-05-22T23:43:52  <adriens33> mieux
+2014-05-22T23:44:45  <Rei> bon je déco du irc bisou
+2014-05-22T23:45:05  *** Rei has quit IRC
+2014-05-22T23:46:03  <adriens33> !bye
+2014-05-22T23:46:19  <adriens33> !alias bye echo "Salut !"
+2014-05-22T23:46:21  <adriens33> !bye
+2014-05-22T23:46:31  <adriens33> !alias add bye echo "Salut !"
+2014-05-22T23:46:31  <Berry-Punch> adriens33: The operation succeeded.
+2014-05-22T23:46:33  <adriens33> !bye
+2014-05-22T23:46:33  <Berry-Punch> Salut !
+2014-05-22T23:46:42  <adriens33> !alias add bye echo "Tchao !"
+2014-05-22T23:46:42  <Berry-Punch> adriens33: The operation succeeded.
+2014-05-22T23:46:48  <adriens33> !bye
+2014-05-22T23:46:48  <Berry-Punch> Tchao !
+2014-05-22T23:47:03  <adriens33> je crois que je vais y aller aussi :p
+2014-05-22T23:47:11  <adriens33> bonne nuit ELiDYROS :)
+2014-05-22T23:47:17  <adriens33> bonne nuit Berry-Punch
+2014-05-22T23:47:17  <Berry-Punch> adriens33: Qui veut un *hic* verre ?
+2014-05-22T23:47:34  *** adriens33 has left #bronycub
+2014-05-23T00:00:40  <Berry-Punch> New news from leponeyblanc: [L'heure de l'invité][Fiction]Cheese Takes Manehattan
+2014-05-23T00:46:01  *** ELiDYROS has left #bronycub
+2014-05-23T05:25:02  *** Letarumavza has joined #bronycub
+2014-05-23T05:25:02  <Berry-Punch> Salut Letarumavza *hic*
+2014-05-23T05:34:53  *** [1]Letarumavza has joined #bronycub
+2014-05-23T05:34:53  <Berry-Punch> Salut [1]Letarumavza *hic*
+2014-05-23T05:35:07  *** Letarumavza has quit IRC
+2014-05-23T05:35:07  *** [1]Letarumavza is now known as Letarumavza
+2014-05-23T05:41:55  *** Letarumavza has left #bronycub
+2014-05-23T05:42:35  *** Letarumavza has joined #bronycub
+2014-05-23T05:42:35  <Berry-Punch> Salut Letarumavza *hic*
+2014-05-23T07:30:02  *** Eclipse2212 has joined #bronycub
+2014-05-23T07:30:02  <Berry-Punch> Salut Eclipse2212 *hic*
+2014-05-23T07:30:09  <Eclipse2212> Salut!
+2014-05-23T07:31:29  *** Eclipse2212 has quit IRC
+2014-05-23T07:42:58  *** ValCab33 has joined #bronycub
+2014-05-23T07:42:58  <Berry-Punch> Salut ValCab33 *hic*
+2014-05-23T07:43:05  <ValCab33> Salut
+2014-05-23T07:45:35  *** ValCab33 has quit IRC
+2014-05-23T08:16:24  *** adriens33 has joined #bronycub
+2014-05-23T08:16:24  <Berry-Punch> Salut adriens33 *hic*
+2014-05-23T08:16:24  *** ChanServ sets mode: +o adriens33
+2014-05-23T08:16:48  <adriens33> !channel list
+2014-05-23T08:16:48  <Berry-Punch> adriens33: Error: 'supybot.list' is not a valid configuration variable.
+2014-05-23T08:17:20  <adriens33> !list Channel
+2014-05-23T08:17:20  <Berry-Punch> adriens33: alert, ban add, ban list, ban remove, capability add, capability list, capability remove, capability set, capability setdefault, capability unset, cycle, dehalfop, deop, devoice, disable, enable, halfop, ignore add, ignore list, ignore remove, invite, kban, key, kick, limit, lobotomy add, lobotomy list, lobotomy remove, mode, moderate, nicks, op, unban, unmoderate, and voice
+2014-05-23T08:18:03  <adriens33> !channel nicks
+2014-05-23T08:18:03  <Berry-Punch> adriens33: adriens33, Berry-Punch, and Letarumavza
+2014-05-23T08:18:35  <adriens33> !last
+2014-05-23T08:18:35  <Berry-Punch> adriens33: [08:18:03] <adriens33> !channel nicks
+2014-05-23T08:28:06  <adriens33> @Letarumavza hello
+2014-05-23T08:35:14  *** Berry-Punch changes topic to "BronyCUB — Le collectif de bronies de la Communauté Urbaine de Bordeaux – http://bronycub.org — BroHoof ! /) || (\ (adriens33)"
+2014-05-23T08:41:55  *** adriens33 has quit IRC
+2014-05-23T08:42:25  *** adriens33 has joined #bronycub
+2014-05-23T08:42:25  <Berry-Punch> Coucou toi !
+2014-05-23T08:42:26  <Berry-Punch> Salut adriens33 *hic*
+2014-05-23T08:44:27  *** ChanServ sets mode: +o adriens33
+2014-05-23T08:45:15  *** adriens33 has quit IRC
+2014-05-23T08:45:23  *** adriens33 has joined #bronycub
+2014-05-23T08:45:23  <Berry-Punch> Salut adriens33 *hic*
+2014-05-23T08:45:37  *** adriens33 has left #bronycub
+2014-05-23T09:10:22  *** heuzef has joined #bronycub
+2014-05-23T09:10:23  <Berry-Punch> Salut heuzef *hic*
+2014-05-23T09:10:51  <heuzef> Salut Berry-Punch ^^
+2014-05-23T09:10:51  <Berry-Punch> heuzef: Qui me *hic* parle ?
+2014-05-23T09:13:02  <heuzef> Letarumavza: plop =)
+2014-05-23T09:22:43  *** adriens33 has joined #bronycub
+2014-05-23T09:22:43  <Berry-Punch> Salut adriens33 *hic*
+2014-05-23T09:22:43  *** ChanServ sets mode: +o adriens33
+2014-05-23T09:23:57  <adriens33> hello tout le monde
+2014-05-23T09:24:02  <heuzef> plop =)
+2014-05-23T09:24:13  <heuzef> Bien joué pour le bot ^^ C'est sympa
+2014-05-23T09:24:21  <adriens33> faudra que je trouve comment la faire réagir à certains mots
+2014-05-23T09:24:26  <adriens33> ça peut être marrant
+2014-05-23T09:24:32  <adriens33> hier soir quand j'ai commencé à la conf
+2014-05-23T09:24:40  <adriens33> j'ai ajouté le fait qu'elle dise bonjour aux arrivants
+2014-05-23T09:24:44  <adriens33> là je la relance
+2014-05-23T09:25:01  <adriens33> et elle se dit bonjour à elle-même en mode complètement bourré
+2014-05-23T09:27:10  <adriens33> !deop
+2014-05-23T09:27:10  <Berry-Punch> adriens33: Error: You don't have the #bronycub,op capability. If you think that you should have this capability, be sure that you are identified before trying again. The 'whoami' command can tell you if you're identified.
+2014-05-23T09:27:34  <heuzef> Petite fautes dans le sujet au faite : " Le collectif de*s* bronies"
+2014-05-23T09:27:53  <adriens33> ow
+2014-05-23T09:27:58  <adriens33> !topic restore
+2014-05-23T09:27:58  *** Berry-Punch changes topic to "BronyCUB — Le collectif de bronies de la Communauté Urbaine de Bordeaux – http://bronycub.org — BroHoof ! /) || (\ (adriens33)"
+2014-05-23T09:28:05  <adriens33> hum
+2014-05-23T09:28:38  <adriens33> !topic BronyCUB – Le collectif des bronies de la Communauté Urbaine de Bordeaux – http://bronycub.org – BroHoof ! /) (\
+2014-05-23T09:28:38  <Berry-Punch> adriens33: (topic [<channel>]) -- Returns the topic for <channel>. <channel> is only necessary if the message isn't sent in the channel itself.
+2014-05-23T09:28:43  <adriens33> !topic topic BronyCUB – Le collectif des bronies de la Communauté Urbaine de Bordeaux – http://bronycub.org – BroHoof ! /) (\
+2014-05-23T09:28:43  <Berry-Punch> adriens33: (topic topic [<channel>]) -- Returns the topic for <channel>. <channel> is only necessary if the message isn't sent in the channel itself.
+2014-05-23T09:28:48  <adriens33> !topic set BronyCUB – Le collectif des bronies de la Communauté Urbaine de Bordeaux – http://bronycub.org – BroHoof ! /) (\
+2014-05-23T09:28:48  *** Berry-Punch changes topic to "BronyCUB – Le collectif des bronies de la Communauté Urbaine de Bordeaux – http://bronycub.org – BroHoof ! /) (\"
+2014-05-23T09:29:15  <heuzef> Tant que t'es dessus ^^ Les sabots sont à l'envers
+2014-05-23T09:29:27  <adriens33> gné ?
+2014-05-23T09:30:54  <heuzef> "BroHoof ! /) (\."  => "Brohoof ! /)"
+2014-05-23T09:31:14  <adriens33> !topic set BronyCUB – Le collectif des bronies de la Communauté Urbaine de Bordeaux – http://bronycub.org – BroHoof ! /)
+2014-05-23T09:31:14  *** Berry-Punch changes topic to "BronyCUB – Le collectif des bronies de la Communauté Urbaine de Bordeaux – http://bronycub.org – BroHoof ! /)"
+2014-05-23T09:31:27  <adriens33> comme ça ?
+2014-05-23T09:31:38  <adriens33> !topic set BronyCUB – Le collectif des bronies de la Communauté Urbaine de Bordeaux – http://bronycub.org – Brohoof ! /)
+2014-05-23T09:31:38  *** Berry-Punch changes topic to "BronyCUB – Le collectif des bronies de la Communauté Urbaine de Bordeaux – http://bronycub.org – Brohoof ! /)"
+2014-05-23T09:32:08  <heuzef> Yep, sans le point a la limite et c'est parfait
+2014-05-23T09:33:47  <adriens33> !topic set BronyCUB – Le collectif des bronies de la Communauté Urbaine de Bordeaux – http://bronycub.org – Brohoof /)
+2014-05-23T09:33:47  *** Berry-Punch changes topic to "BronyCUB – Le collectif des bronies de la Communauté Urbaine de Bordeaux – http://bronycub.org – Brohoof /)"
+2014-05-23T09:33:55  <adriens33> comme ça tu veux dire ?
+2014-05-23T09:34:35  <heuzef> La commande topic semble ajouter d'elle même le point finale
+2014-05-23T09:34:39  <heuzef> Pas grave
+2014-05-23T09:34:46  <adriens33> je vois pas de point moi
+2014-05-23T09:34:59  <adriens33> !topic set BronyCUB – Le collectif des bronies de la Communauté Urbaine de Bordeaux – http://bronycub.org – Brohoof ! /)
+2014-05-23T09:34:59  *** Berry-Punch changes topic to "BronyCUB – Le collectif des bronies de la Communauté Urbaine de Bordeaux – http://bronycub.org – Brohoof ! /)"
+2014-05-23T09:35:07  <heuzef> !topic set BronyCUB – Le collectif des bronies de la Communauté Urbaine de Bordeaux – http://bronycub.org – Brohoof ! /)
+2014-05-23T09:35:07  *** Berry-Punch changes topic to "BronyCUB – Le collectif des bronies de la Communauté Urbaine de Bordeaux – http://bronycub.org – Brohoof ! /)"
+2014-05-23T09:39:24  <heuzef> Bon ça irra
+2014-05-23T09:40:34  *** heuzef has quit IRC
+2014-05-23T09:40:52  *** heuzef has joined #bronycub
+2014-05-23T09:40:52  <Berry-Punch> Salut heuzef *hic*
+2014-05-23T09:41:04  <heuzef> Re Berry-Punch ^^
+2014-05-23T09:41:04  <Berry-Punch> heuzef: Qui veut un *hic* verre ?
+2014-05-23T09:41:19  <heuzef> Berry-Punch: tu picole trop !
+2014-05-23T09:41:19  <Berry-Punch> heuzef: Oui *hic* ?
+2014-05-23T09:41:50  <heuzef> Je parle avec un bot -_-
+2014-05-23T09:42:09  <adriens33> xD
+2014-05-23T09:46:46  <adriens33> !config plugins.MessageParser True
+2014-05-23T09:46:47  <Berry-Punch> adriens33: Error: 'supybot.plugins.MessageParser' is not a valid configuration variable.
+2014-05-23T09:47:47  *** Berry-Punch has joined #bronycub
+2014-05-23T09:47:47  *** ChanServ sets mode: +o Berry-Punch
+2014-05-23T09:47:47  *** ChanServ sets mode: +o Berry-Punch
+2014-05-23T09:47:50  <Berry-Punch> Salut Berry-Punch *hic*
+2014-05-23T09:47:56  <heuzef> lol
+2014-05-23T09:50:59  *** adriens33 has left #bronycub
+2014-05-23T09:51:03  *** adriens33 has joined #bronycub
+2014-05-23T09:51:03  <Berry-Punch> Coucou toi !
+2014-05-23T09:51:03  *** ChanServ sets mode: +o adriens33
+2014-05-23T09:51:04  <Berry-Punch> An error has occurred and has been logged. Please contact this bot's administrator for more information.
+2014-05-23T09:55:32  *** adriens33 has left #bronycub
+2014-05-23T09:55:34  *** adriens33 has joined #bronycub
+2014-05-23T09:55:34  <Berry-Punch> An error has occurred and has been logged. Please contact this bot's administrator for more information.
+2014-05-23T09:55:34  *** ChanServ sets mode: +o adriens33
+2014-05-23T09:57:51  *** adriens33 has left #bronycub
+2014-05-23T09:57:57  *** adriens33 has joined #bronycub
+2014-05-23T09:57:57  <Berry-Punch> An error has occurred and has been logged. Please contact this bot's administrator for more information.
+2014-05-23T09:57:57  *** ChanServ sets mode: +o adriens33
+2014-05-23T10:04:49  *** Berry-Punch has joined #bronycub
+2014-05-23T10:04:49  *** ChanServ sets mode: +o Berry-Punch
+2014-05-23T10:04:49  *** ChanServ sets mode: +o Berry-Punch
+2014-05-23T10:04:52  <Berry-Punch> Ooh *hic... Ca fait longtemps qu'on s'est pas vus Berry-Punch !
+2014-05-23T10:04:55  <adriens33> xD
+2014-05-23T10:05:06  <adriens33> bon déjà ça c'est fait.
+2014-05-23T10:06:33  *** Berry-Punch has joined #bronycub
+2014-05-23T10:06:33  *** ChanServ sets mode: +o Berry-Punch
+2014-05-23T10:06:34  *** ChanServ sets mode: +o Berry-Punch
+2014-05-23T10:06:36  <Berry-Punch> Tu veux un verre Berry-Punch ?
+2014-05-23T10:08:57  <adriens33> bière
+2014-05-23T10:08:57  <Berry-Punch> Miam :p j'en veux !
+2014-05-23T10:09:02  <adriens33> yay
+2014-05-23T10:09:54  <heuzef> bière
+2014-05-23T10:09:54  <Berry-Punch> Miam :p j'en veux !
+2014-05-23T10:09:58  <heuzef> vodka
+2014-05-23T10:10:02  <adriens33> Berry-Punch: t'as trop bu !
+2014-05-23T10:10:02  <Berry-Punch> adriens33: Qui me *hic* parle ?
+2014-05-23T10:10:13  <heuzef> biére
+2014-05-23T10:10:19  <heuzef> biere
+2014-05-23T10:10:39  <adriens33> T'as trop bu BerryPunch
+2014-05-23T10:10:39  <Berry-Punch> Non c'est pas *hic* vrai !
+2014-05-23T10:10:49  <heuzef> ^^
+2014-05-23T10:11:09  <heuzef> C'est le bot le plus alcoolique qui existe
+2014-05-23T10:11:09  <Berry-Punch> Miam :p j'en veux !
+2014-05-23T10:26:16  *** Madfox40 has joined #bronycub
+2014-05-23T10:26:16  <Berry-Punch> Ooh *hic... Ca fait longtemps qu'on s'est pas vus Madfox40 !
+2014-05-23T10:26:40  <heuzef> C'est vrais ça ^^
+2014-05-23T10:27:53  <Madfox40> salut tous le monde
+2014-05-23T10:28:04  <heuzef> Madfox40: ;)
+2014-05-23T10:28:21  <adriens33> salut Madfox40
+2014-05-23T10:28:40  <heuzef> Tu pourrais utiliser le même pseudo que sur le site pour qu'on puisse facilement savoir qui tu es ?
+2014-05-23T10:29:33  <Madfox40> j'utilise pas Madfox?
+2014-05-23T10:29:48  <heuzef> Madfox = inconnu
+2014-05-23T10:29:49  <Madfox40> ah non
+2014-05-23T10:29:54  *** Madfox40 is now known as Gordfang
+2014-05-23T10:29:58  <Gordfang> la c'est le bon
+2014-05-23T10:30:11  <heuzef> Baptiste ! ^^
+2014-05-23T10:30:34  <heuzef> Comment va ?
+2014-05-23T10:31:54  <Gordfang> bien et toi ^^
+2014-05-23T10:32:14  <adriens33> !deop
+2014-05-23T10:32:14  *** Berry-Punch sets mode: -o adriens33
+2014-05-23T10:33:44  <Gordfang> berry-punch faudra qu'on m'explique un jour pourquoi c'est le logo de la brony cub :p
+2014-05-23T10:33:53  <adriens33> !ding
+2014-05-23T10:33:53  <Berry-Punch> adriens33: Oui *hic* ?
+2014-05-23T10:34:01  <adriens33> !welcome Gordfang
+2014-05-23T10:34:05  <adriens33> rhâ
+2014-05-23T10:34:17  <adriens33> !welcome Gordfang
+2014-05-23T10:34:27  <Gordfang> XD
+2014-05-23T10:34:59  <heuzef> Gordfang:  c'est simple
+2014-05-23T10:35:01  <adriens33> !welcome Gordfang
+2014-05-23T10:35:01  <Berry-Punch> Salut Gordfang ! Bienvenue sur le chan de *hic*... de bronycub ! Amuse-toi bien *hic* !
+2014-05-23T10:35:08  <adriens33> mieux.
+2014-05-23T10:36:06  *** Gordfang has quit IRC
+2014-05-23T10:36:25  <adriens33> biere
+2014-05-23T10:36:25  <Berry-Punch> Miam :p j'en veux !
+2014-05-23T10:36:34  <heuzef> Gordfang: Lauren Faust aurait souhaitez que Berry s'appel en faite Pinot Noir, car c'est son vins favoris.
+2014-05-23T10:36:34  <heuzef> Cependant elle à préfèré le petit nom du fandom (histoire identique avec Derpy hooves / Ditzy Doo
+2014-05-23T10:36:44  <adriens33> il est parti
+2014-05-23T10:37:01  <heuzef> Bordeaux = vin, fête, pinot noir = Berry Punch
+2014-05-23T10:37:08  <heuzef> Grrr
+2014-05-23T10:37:13  <adriens33> bah c'est pas dur à deviner de toute façon
+2014-05-23T10:37:13  <heuzef> Je parle dans le vide
+2014-05-23T10:37:19  <adriens33> bordeaux c'est la ville du vin
+2014-05-23T10:37:21  <adriens33> :p
+2014-05-23T10:37:30  <heuzef> Autant parler à un bot :/ Hein Berry-Punch
+2014-05-23T10:37:30  <Berry-Punch> heuzef: Qui me *hic* parle ?
+2014-05-23T10:37:35  <adriens33> !list alias
+2014-05-23T10:37:35  <Berry-Punch> adriens33: add, bye, ding, lock, remove, unlock, and welcome
+2014-05-23T10:37:44  <heuzef> Berry-Punch oui toi au moins tu me répond ^^
+2014-05-23T10:37:44  <Berry-Punch> heuzef: Qui veut un *hic* verre ?
+2014-05-23T10:37:48  <adriens33> xD
+2014-05-23T10:44:41  *** Gordfang has joined #bronycub
+2014-05-23T10:44:41  <Berry-Punch> Bonjour !
+2014-05-23T10:44:47  <Gordfang> re
+2014-05-23T10:44:53  <Gordfang> j'ai étais deco
+2014-05-23T10:45:44  <adriens33> re
+2014-05-23T10:46:56  <heuzef> Gordfang: oui, pendant ce temps la je t'es expliqué en détails le pourquoi du comment de notre mascotte
+2014-05-23T10:48:21  <heuzef> 10:36:34 - heuzef : Gordfang: Lauren Faust aurait souhaité que Berry s'appelle en faite Pinot Noir, car c'est son vin favoris.
+2014-05-23T10:48:21  <heuzef> 10:36:34 - heuzef : Cependant elle a préféré le petit nom du fandom (histoire identique avec Derpy Hooves vs Ditzy Doo
+2014-05-23T10:48:21  <heuzef> 10:36:45 - adriens33 : il est parti
+2014-05-23T10:48:21  <heuzef> 10:37:01 - heuzef : Bordeaux = vin, fête, pinot noir = Berry Punch
+2014-05-23T10:48:21  <heuzef> 10:37:09 - heuzef : Grrr
+2014-05-23T10:48:21  <heuzef> 10:37:13 - heuzef : Je parle dans le vide
+2014-05-23T10:48:21  <heuzef> 10:37:14 - adriens33 : bah c'est pas dur à deviner de toute façon
+2014-05-23T10:48:22  <heuzef> 10:37:20 - adriens33 : bordeaux c'est la ville du vin
+2014-05-23T10:48:22  <heuzef> 10:37:22 - adriens33 : :p
+2014-05-23T10:49:43  <Gordfang> ok merci
+2014-05-23T10:49:55  <Gordfang> ouai vu comme ca c'est logique
+2014-05-23T10:49:57  <adriens33> sinon maintenant y'a une commande pour ça
+2014-05-23T10:49:59  <adriens33> !why
+2014-05-23T10:49:59  <Berry-Punch> En fait *hic* à la base je devais m'appeler Pinot noir *hic*, c'est le vin favori de Lauren Faust. *hic* Mais elle a préféré le nom que les fans m'ont donnée *hic*. Et comme Bordeaux c'est la ville du vin ben la mascotte c'est moi ! *hic*
+2014-05-23T10:50:15  <heuzef> Trop bon !
+2014-05-23T10:50:20  <heuzef> ^^
+2014-05-23T10:50:28  <Gordfang> ^^
+2014-05-23T10:50:51  <Gordfang> elle a quoi comme autre commande notre petite alchoolique
+2014-05-23T10:50:57  <adriens33> en plus sur mon client irc son pseudo a pile la bonne couleur :p
+2014-05-23T10:50:59  <adriens33> !list alias
+2014-05-23T10:50:59  <Berry-Punch> adriens33: add, bye, ding, lock, remove, unlock, welcome, and why
+2014-05-23T10:51:03  <adriens33> !ding
+2014-05-23T10:51:03  <Berry-Punch> adriens33: Qui veut un *hic* verre ?
+2014-05-23T10:51:05  <adriens33> !ding
+2014-05-23T10:51:05  <Berry-Punch> adriens33: Qui me *hic* parle ?
+2014-05-23T10:51:06  <Gordfang> k
+2014-05-23T10:51:09  <adriens33> !welcome
+2014-05-23T10:51:09  <Berry-Punch> adriens33: (welcome <an alias, 1 argument>) -- Alias for "echo Salut $1 ! Bienvenue sur le chan de *hic*... de bronycub ! Amuse-toi bien *hic* !".
+2014-05-23T10:51:16  <adriens33> !welcome machin
+2014-05-23T10:51:16  <Berry-Punch> Salut machin ! Bienvenue sur le chan de *hic*... de bronycub ! Amuse-toi bien *hic* !
+2014-05-23T10:51:23  <adriens33> qui veut une vodka ?
+2014-05-23T10:51:23  <Berry-Punch> Vous me donnez soif les gens !
+2014-05-23T10:51:29  <Gordfang> XD
+2014-05-23T10:51:36  <Gordfang> vodka
+2014-05-23T10:51:36  <Berry-Punch> Vous me donnez soif les gens !
+2014-05-23T10:51:36  <adriens33> to bois trop berry-punch ><
+2014-05-23T10:51:47  <Gordfang> sa marche avec tous les alchool?
+2014-05-23T10:51:56  <adriens33> tu bois trop berry-punch ><
+2014-05-23T10:52:02  <adriens33> tu bois trop berry-punch ><
+2014-05-23T10:52:02  <Berry-Punch> Non c'est pas *hic* vrai !
+2014-05-23T10:52:08  <adriens33> bah
+2014-05-23T10:52:13  <adriens33> faut les ajouter :)
+2014-05-23T10:52:13  <heuzef> Remplacer par => Vous me donnez soif *hic* les gens !
+2014-05-23T10:52:40  <Gordfang> ok
+2014-05-23T10:52:52  <heuzef> http://famille.menot.free.fr/gastro/cocktail1.htm
+2014-05-23T10:52:55  <adriens33> vodka ou whisky Berry Punch ?
+2014-05-23T10:52:55  <Berry-Punch> Vous me donnez soif *hic* les gens !
+2014-05-23T10:52:56  <Berry-Punch> Vous me donnez soif *hic* les gens !
+2014-05-23T10:53:18  <heuzef> Mais il ne faut surtout pas oublier le plus important => AppleJack Daniel
+2014-05-23T10:53:19  <Gordfang> y a pas de limite a un message donc
+2014-05-23T10:53:26  <Gordfang> XD
+2014-05-23T10:53:32  <Gordfang> vodka vodka vodka
+2014-05-23T10:53:32  <Berry-Punch> Vous me donnez soif *hic* les gens !
+2014-05-23T10:53:33  <Berry-Punch> Vous me donnez soif *hic* les gens !
+2014-05-23T10:53:34  <Berry-Punch> Vous me donnez soif *hic* les gens !
+2014-05-23T10:53:37  <Gordfang> :p
+2014-05-23T10:53:49  <heuzef> Bière Bière Bière
+2014-05-23T10:54:03  <heuzef> bière
+2014-05-23T10:54:07  <Gordfang> whisky
+2014-05-23T10:54:07  <Berry-Punch> Vous me donnez soif *hic* les gens !
+2014-05-23T10:54:09  <Gordfang> whisky
+2014-05-23T10:54:09  <Berry-Punch> Vous me donnez soif *hic* les gens !
+2014-05-23T10:54:20  <adriens33> verre
+2014-05-23T10:54:20  <Berry-Punch> Miam:p j'en veux !
+2014-05-23T10:54:22  <adriens33> bierre
+2014-05-23T10:54:24  <adriens33> biere
+2014-05-23T10:54:24  <Berry-Punch> Miam:p j'en veux !
+2014-05-23T10:54:27  <adriens33> bière
+2014-05-23T10:54:31  <adriens33> ?
+2014-05-23T10:54:33  <Gordfang> pas d'accent
+2014-05-23T10:54:43  <adriens33> bah c'est sensé marcher
+2014-05-23T10:55:05  <Gordfang> apparemment non ^^
+2014-05-23T10:55:08  <adriens33> bière
+2014-05-23T10:55:08  <Berry-Punch> Miam:p j'en veux !
+2014-05-23T10:55:10  <adriens33> mieux.
+2014-05-23T10:55:14  <Gordfang> sake saké
+2014-05-23T10:55:24  <Gordfang> ah? pas si loin :)
+2014-05-23T10:59:20  <adriens33> !todo add Mettre plus d'alcools
+2014-05-23T10:59:20  <Berry-Punch> adriens33: The operation succeeded.  (Todo #2 added)
+2014-05-23T10:59:30  <Gordfang> !list
+2014-05-23T10:59:30  <Berry-Punch> Gordfang: Admin, Alias, Channel, ChannelLogger, ChannelStats, Config, Herald, MessageParser, Misc, Network, Owner, Protector, Quote, RSS, Reply, Seen, Services, Status, String, Time, Todo, Topic, Trigger, User, and Utilities
+2014-05-23T10:59:34  <Gordfang> houla
+2014-05-23T10:59:39  <Gordfang> !todo
+2014-05-23T10:59:39  <Berry-Punch> Gordfang: Error: You must be registered to use this command. If you are already registered, you must either identify (using the identify command) or add a hostmask matching your current hostmask (using the "hostmask add" command).
+2014-05-23T10:59:45  <Gordfang> :p
+2014-05-23T11:06:57  *** Gordfang has quit IRC
+2014-05-23T11:08:17  <adriens33> !todo list
+2014-05-23T11:08:17  <Berry-Punch> adriens33: Error: 'list' is not a valid task id.
+2014-05-23T11:08:20  <adriens33> !todo
+2014-05-23T11:08:20  <Berry-Punch> adriens33: Todo for adriens33: #2: Mettre plus d'alcools
+2014-05-23T11:08:23  *** Gordfang has joined #bronycub
+2014-05-23T11:08:23  <Berry-Punch> Oh ! Y'a quelqu'un !
+2014-05-23T11:08:27  <Gordfang> re
+2014-05-23T11:08:36  <Gordfang> y a pas un bouton pour se reco sur kiwi irc?
+2014-05-23T11:08:47  <heuzef> Pour ce reco ?
+2014-05-23T11:09:33  <Gordfang> ouai je me fait souvent deco et je recharge la page
+2014-05-23T11:10:40  <heuzef> souvent deco, cad ?
+2014-05-23T11:10:58  <heuzef> Si tu laisse la page ouverte il te deco tous seul toutes les 2 minutes ?
+2014-05-23T11:11:17  <adriens33> !do test
+2014-05-23T11:12:00  * Berry-Punch test
+2014-05-23T11:12:17  * Berry-Punch boit un coup
+2014-05-23T11:12:34  <heuzef> !do aime AppleJack Daniel's
+2014-05-23T11:12:34  <Berry-Punch> heuzef: Error: You must be registered to use this command. If you are already registered, you must either identify (using the identify command) or add a hostmask matching your current hostmask (using the "hostmask add" command).
+2014-05-23T11:12:54  <heuzef> Wouaaaat... ?
+2014-05-23T11:14:07  <heuzef> C'est qui ce message d'erreur ? oO
+2014-05-23T11:14:11  <heuzef> quoi*
+2014-05-23T11:14:14  <adriens33> t'es pas enregistré
+2014-05-23T11:14:17  <adriens33> sur le bot
+2014-05-23T11:14:19  <heuzef> ??
+2014-05-23T11:14:21  <adriens33> du coup il te reconnait pas
+2014-05-23T11:14:25  <adriens33> j'ai eu le même souci au débit
+2014-05-23T11:14:28  <adriens33> *début
+2014-05-23T11:14:32  <heuzef> ??
+2014-05-23T11:15:02  * heuzef est dubitatif
+2014-05-23T11:15:04  <adriens33> !help user register
+2014-05-23T11:15:04  <Berry-Punch> adriens33: (user register <name> <password>) -- Registers <name> with the given password <password> and the current hostmask of the person registering. You shouldn't register twice; if you're not recognized as a user but you've already registered, use the hostmask add command to add another hostmask to your already-registered user, or use the identify command to identify just for a session. This command (1 more message)
+2014-05-23T11:15:18  <adriens33> !help user hostmask add
+2014-05-23T11:15:18  <Berry-Punch> adriens33: (user hostmask add [<name>] [<hostmask>] [<password>]) -- Adds the hostmask <hostmask> to the user specified by <name>. The <password> may only be required if the user is not recognized by hostmask. <password> is also not required if an owner user is giving the command on behalf of some other user. If <hostmask> is not given, it defaults to your current hostmask. If <name> is not given, it (1 more message)
+2014-05-23T11:16:09  <adriens33> !do #bronycub dort
+2014-05-23T11:16:09  * Berry-Punch dort
+2014-05-23T11:16:14  <heuzef> !why
+2014-05-23T11:16:14  <Berry-Punch> En fait *hic* à la base je devais m'appeler Pinot noir *hic*, c'est le vin favori de Lauren Faust. *hic* Mais elle a préféré le nom que les fans m'ont donnée *hic*. Et comme Bordeaux c'est la ville du vin ben la mascotte c'est moi ! *hic*
+2014-05-23T11:16:21  <heuzef> !do picole
+2014-05-23T11:16:21  <Berry-Punch> heuzef: Error: You must be registered to use this command. If you are already registered, you must either identify (using the identify command) or add a hostmask matching your current hostmask (using the "hostmask add" command).
+2014-05-23T11:16:29  <adriens33> !do #bronycub picole
+2014-05-23T11:16:29  * Berry-Punch picole
+2014-05-23T11:16:46  <heuzef> !do #bronycub picole du AppleJack Daniel's
+2014-05-23T11:16:46  <Berry-Punch> heuzef: Error: You must be registered to use this command. If you are already registered, you must either identify (using the identify command) or add a hostmask matching your current hostmask (using the "hostmask add" command).
+2014-05-23T11:17:11  <adriens33> !help user register
+2014-05-23T11:17:11  <Berry-Punch> adriens33: (user register <name> <password>) -- Registers <name> with the given password <password> and the current hostmask of the person registering. You shouldn't register twice; if you're not recognized as a user but you've already registered, use the hostmask add command to add another hostmask to your already-registered user, or use the identify command to identify just for a session. This command (1 more message)
+2014-05-23T11:17:15  <adriens33> !help user hostmask add
+2014-05-23T11:17:15  <Berry-Punch> adriens33: (user hostmask add [<name>] [<hostmask>] [<password>]) -- Adds the hostmask <hostmask> to the user specified by <name>. The <password> may only be required if the user is not recognized by hostmask. <password> is also not required if an owner user is giving the command on behalf of some other user. If <hostmask> is not given, it defaults to your current hostmask. If <name> is not given, it (1 more message)
+2014-05-23T11:17:52  <adriens33> (en gros !user register heuzef tonmdp)
+2014-05-23T11:18:33  <heuzef> !user register heuzef test
+2014-05-23T11:18:33  <Berry-Punch> heuzef: Error: That operation cannot be done in a channel.
+2014-05-23T11:18:54  <adriens33> (pardon /msg Berry-Punch register heuzef tonmdp)
+2014-05-23T11:18:54  <Berry-Punch> adriens33: Qui me *hic* parle ?
+2014-05-23T11:18:58  <adriens33> (zut)
+2014-05-23T11:19:42  <heuzef> The operation succeeded.
+2014-05-23T11:19:44  <heuzef> ^^
+2014-05-23T11:19:54  <heuzef> !do #bronycub picole du AppleJack Daniel's
+2014-05-23T11:19:54  * Berry-Punch picole du AppleJack Daniel's
+2014-05-23T11:20:46  <heuzef> !do test
+2014-05-23T11:20:46  * Berry-Punch test
+2014-05-23T11:20:51  <heuzef> Tu vois ma commande ?
+2014-05-23T11:21:23  <Gordfang> re
+2014-05-23T11:21:30  <Gordfang> enfin attendez
+2014-05-23T11:22:10  <adriens33> !do attend
+2014-05-23T11:22:10  * Berry-Punch attend
+2014-05-23T11:22:17  <heuzef> !do fait un câlin à Gordfang
+2014-05-23T11:22:17  * Berry-Punch fait un câlin à Gordfang
+2014-05-23T11:22:18  <heuzef> !do a soif
+2014-05-23T11:22:19  * Berry-Punch a soif
+2014-05-23T11:23:38  <adriens33> si tu met !whoami elle te sort quoi ?
+2014-05-23T11:23:43  <Gordfang> re
+2014-05-23T11:23:49  <Gordfang> !whoami
+2014-05-23T11:23:49  <Berry-Punch> Gordfang: I don't recognize you.
+2014-05-23T11:23:56  <Gordfang> i don't reconize you
+2014-05-23T11:24:15  <adriens33> @heuzef ?
+2014-05-23T11:24:18  <Gordfang> (j'avais la prof derrière moi j'ai préférer éviter d'aller sur irc ^^)
+2014-05-23T11:25:12  <Gordfang> donc ouai je suis pas reconnue apparemment
+2014-05-23T11:26:02  <heuzef> adriens33: oui ?
+2014-05-23T11:26:11  <adriens33> @heuzef tu peux faire !whoami ?
+2014-05-23T11:26:18  <adriens33> @Gordfang réessaie stp
+2014-05-23T11:26:22  <heuzef> !whoami
+2014-05-23T11:26:22  <Berry-Punch> heuzef: heuzef
+2014-05-23T11:26:36  <Gordfang> !whoami
+2014-05-23T11:26:37  <Berry-Punch> Gordfang: I don't recognize you.
+2014-05-23T11:26:41  <Gordfang> toujour pareil
+2014-05-23T11:27:08  <heuzef> !do fait un câlin à /me
+2014-05-23T11:27:08  * Berry-Punch fait un câlin à /me
+2014-05-23T11:27:09  <heuzef> !do fait un câlin à !whoami
+2014-05-23T11:27:09  <heuzef> !do fait un câlin à $me
+2014-05-23T11:27:11  * Berry-Punch fait un câlin à !whoami
+2014-05-23T11:27:12  * Berry-Punch fait un câlin à $me
+2014-05-23T11:27:15  <heuzef> :/
+2014-05-23T11:27:27  <adriens33> !do $nick
+2014-05-23T11:27:27  * Berry-Punch $nick
+2014-05-23T11:27:45  <adriens33> @Gordfang tu peux réessayer ?
+2014-05-23T11:27:57  <Gordfang> !whoami
+2014-05-23T11:27:57  <Berry-Punch> Gordfang: Gordfang
+2014-05-23T11:28:00  <adriens33> yay
+2014-05-23T11:28:02  <Gordfang> ah cool :D
+2014-05-23T11:28:08  <Gordfang> je suis plus un inconnue!
+2014-05-23T11:28:23  <adriens33> faut que je fasse la même pour tout le monde maintenant
+2014-05-23T11:28:40  <adriens33> heureusement avec les hostmask y'a moyen qu'elle reconnaisse les gens automagiquement
+2014-05-23T11:28:43  <heuzef> Tu peux pas utiliser un *
+2014-05-23T11:28:49  <heuzef> ^^
+2014-05-23T11:28:53  <adriens33> ben justement
+2014-05-23T11:29:07  <adriens33> mais faut que je le fassep our chaque user
+2014-05-23T11:33:32  <Gordfang> y a qui qui est reconnue pour l'instant 4-6 personne?
+2014-05-23T11:33:51  <adriens33> !user list
+2014-05-23T11:33:51  <Berry-Punch> adriens33: adriens33, Eclipse2212, Gordfang, heuzef, Rei, and ValCab33
+2014-05-23T11:34:01  <adriens33> je suis en train de fouiller le log
+2014-05-23T11:35:05  <Gordfang> oh sa va
+2014-05-23T11:35:11  <Gordfang> manque plus que euh... 24?
+2014-05-23T11:36:13  <adriens33> xD
+2014-05-23T11:36:43  *** strycore has joined #bronycub
+2014-05-23T11:36:43  <Berry-Punch> Tu veux un verre strycore ?
+2014-05-23T11:36:45  <strycore> https://warosu.org/data/biz/img/0003/06/1398697923979.jpg
+2014-05-23T11:36:47  *** strycore has left #bronycub
+2014-05-23T11:36:51  <heuzef> :D
+2014-05-23T11:37:00  <heuzef> mdr
+2014-05-23T11:37:24  <heuzef> (C'est un pote à moi, un hater du chan #giroll)
+2014-05-23T11:37:29  <adriens33> ah
+2014-05-23T11:37:41  <adriens33> pourquoi un hater ?
+2014-05-23T11:38:13  <heuzef> Va savoir :D
+2014-05-23T11:38:42  <heuzef> Du coup on se troll mutuellement
+2014-05-23T11:38:55  <adriens33> :p
+2014-05-23T11:39:05  *** strycore has joined #bronycub
+2014-05-23T11:39:05  <Berry-Punch> Ooh *hic... Ca fait longtemps qu'on s'est pas vus strycore !
+2014-05-23T11:39:06  <strycore> http://www.feralnetwork.com/wp-content/uploads/2013/05/sdBtKpz.jpg
+2014-05-23T11:39:09  *** strycore has left #bronycub
+2014-05-23T11:39:18  <heuzef> lol !!
+2014-05-23T11:39:47  <heuzef> Je dois avouer qu'elle est violente cette image là xD
+2014-05-23T11:39:52  <Gordfang> hmmm
+2014-05-23T11:39:57  <Gordfang> sfw ou nsfw?
+2014-05-23T11:40:20  <Gordfang> ah je la connais celle la
+2014-05-23T11:47:11  <adriens33> bon les gens je vais aller nourrir mon estomac, je vous laisse avec Berry Punch :)
+2014-05-23T11:48:09  <Berry-Punch> bon app'
+2014-05-23T11:48:54  <heuzef> ^^
+2014-05-23T11:50:01  <Gordfang> ou comment s'ammusé avec un bot :p
+2014-05-23T11:50:19  <heuzef> http://i0.kym-cdn.com/photos/images/original/000/209/718/099.gif
+2014-05-23T11:50:20  <heuzef> ^^
+2014-05-23T11:51:53  <Gordfang> classique celle la ^^
+2014-05-23T11:53:16  *** ValCab33 has joined #bronycub
+2014-05-23T11:53:16  <Berry-Punch> Oh ! Y'a quelqu'un !
+2014-05-23T11:53:29  <ValCab33> Hi
+2014-05-23T11:54:27  <heuzef> Plop
+2014-05-23T11:55:03  <Gordfang> yo
+2014-05-23T11:55:21  <heuzef> ValCab33: j'attend toujours ton mail ça fait tâche sur le site ^^
+2014-05-23T11:55:54  <ValCab33> Je te fait ca ce soir t'inqiète
+2014-05-23T11:56:35  *** heuzef has quit IRC
+2014-05-23T11:56:42  <Gordfang> ah bas il a quit
+2014-05-23T11:57:30  <Gordfang> tu le dernier inscrit c'est ça?
+2014-05-23T11:58:08  <ValCab33> Il me semble oui
+2014-05-23T11:59:11  <Gordfang> ok, alors re-bienvenue a toi ^^
+2014-05-23T12:00:31  <ValCab33> Merci ^^
+2014-05-23T12:01:31  <Gordfang> je suis Baptiste au passage
+2014-05-23T12:06:52  <Berry-Punch> New news from leponeyblanc: [Documentaire] Le mouvement brony et l’interview du réalisateur
+2014-05-23T12:07:05  <Gordfang> ah c'est cool ce systeme la
+2014-05-23T12:14:01  *** Gordfang has quit IRC
+2014-05-23T12:15:51  *** ValCab33 has quit IRC
+2014-05-23T12:28:15  *** heuzef has joined #bronycub
+2014-05-23T12:28:15  <Berry-Punch> Salut *hic* heuzef !
+2014-05-23T12:39:39  *** Gordfang has joined #bronycub
+2014-05-23T12:39:39  <Berry-Punch> Bonjour !
+2014-05-23T12:39:46  <Gordfang> re
+2014-05-23T13:16:29  *** Gordfang has quit IRC
+2014-05-23T13:18:50  <adriens33> re tout le monde
+2014-05-23T13:27:35  *** Berry-Punch has joined #bronycub
+2014-05-23T13:27:35  *** ChanServ sets mode: +o Berry-Punch
+2014-05-23T13:27:35  *** ChanServ sets mode: +o Berry-Punch
+2014-05-23T13:27:38  <Berry-Punch> Ooh *hic... Ca fait longtemps qu'on s'est pas vus Berry-Punch !
+2014-05-23T13:28:13  <heuzef> Y'a une faute sur cette phrase tiens
+2014-05-23T13:28:29  <heuzef> D'ailleur ça serais bien que tu m'apprennent à les editers
+2014-05-23T13:30:48  <adriens33> une faute ? où ça ?
+2014-05-23T13:30:53  <adriens33> ah, le * qui manque ?
+2014-05-23T13:30:56  <heuzef> Oui
+2014-05-23T13:31:06  <adriens33> !config list plugins.Trigger.triggers
+2014-05-23T13:31:06  <Berry-Punch> adriens33: #highlight, #join, #kick, #nick, #notice, #part, #privmsg, #quit, and connect
+2014-05-23T13:31:14  <adriens33> !config plugins.Trigger.triggers.join
+2014-05-23T13:31:29  <adriens33> !config config plugins.Trigger.triggers.join
+2014-05-23T13:31:42  *** Gordfang has joined #bronycub
+2014-05-23T13:31:42  <Berry-Punch> Bonjour !
+2014-05-23T13:31:44  <adriens33> c'est un peu crado la façon dont je l'ai fait
+2014-05-23T13:31:58  <Gordfang> (j'adore arriver en plein milieu des discution)
+2014-05-23T13:32:13  <adriens33> c'est fait à la bourrin avec du base 64
+2014-05-23T13:32:15  <adriens33> :p
+2014-05-23T13:32:36  <adriens33> parce que le truc qui prend une phrase random s'il y a des espace il coupe
+2014-05-23T13:32:54  <Gordfang> code de?
+2014-05-23T13:33:11  <heuzef> Si je veux t'aider à dev le bot ça ce passe comment ?
+2014-05-23T13:33:17  <adriens33> la conf pour ce que Berry-Punch dit quand quelqu'un se connecte
+2014-05-23T13:33:17  <Berry-Punch> adriens33: Qui veut un *hic* verre ?
+2014-05-23T13:34:02  <adriens33> @heuzef ben faut ouvrir un PV avec elle déjà (/msg Berry-Punch help par exemple), faut que je te mette les droits (ça c'est pas trop dur)
+2014-05-23T13:34:02  <Berry-Punch> adriens33: Oui *hic* ?
+2014-05-23T13:34:26  <adriens33> mais faudrait que t'ais accès à mon serveur pour pouvoir éditer la conf' directement aussi
+2014-05-23T13:34:48  <adriens33> (ça peut se faire avec config sinon)
+2014-05-23T13:35:18  <heuzef> Le bot tourne sur ton serveur perso ?
+2014-05-23T13:35:49  <adriens33> yup
+2014-05-23T13:36:43  <adriens33> d'ailleurs faudra que je nettoie un peu le setup, faire un user exprès etc
+2014-05-23T13:36:52  <heuzef> Tu prend donc en charge la maintenance du tchat dans son ensemble
+2014-05-23T13:37:06  <heuzef> Il faut que tu maintienne ça dans le temps
+2014-05-23T13:37:36  <Gordfang> !whoami
+2014-05-23T13:37:36  <Berry-Punch> Gordfang: Gordfang
+2014-05-23T13:37:39  <adriens33> no soucy
+2014-05-23T13:37:43  <adriens33> ^^
+2014-05-23T13:37:43  <Gordfang> (juste pour check)
+2014-05-23T13:37:55  <adriens33> elle reconnaît à ton nick
+2014-05-23T13:38:04  <adriens33> y'a plus besoin de s'identifier maintenant
+2014-05-23T13:38:09  <adriens33> juste lui dire qui est qui
+2014-05-23T13:38:50  <heuzef> adriens33: y'a moyen de git le bot sur le repo de bronycub ?
+2014-05-23T13:38:58  <Gordfang> k
+2014-05-23T13:40:20  *** Gordfang has quit IRC
+2014-05-23T13:41:47  <adriens33> @heuzef heuuu pourquoi pas oui
+2014-05-23T13:42:03  <adriens33> je clean juste sa config et je te met ça
+2014-05-23T13:42:07  <adriens33> je fais une branche à part ?
+2014-05-23T13:43:30  <heuzef> adriens33: https://github.com/bronycub/berry-punch
+2014-05-23T13:44:51  <adriens33> oui, un autre dépôt c'est plus propre :)
+2014-05-23T13:53:15  *** Berry-Punch has joined #bronycub
+2014-05-23T13:53:15  *** ChanServ sets mode: +o Berry-Punch
+2014-05-23T13:53:15  *** ChanServ sets mode: +o Berry-Punch
+2014-05-23T13:53:18  <Berry-Punch> Salut *hic* Berry-Punch !
+2014-05-23T13:53:28  <adriens33> bon déjà le déplacement de la conf est ok
+2014-05-23T13:53:32  <adriens33> plus qu'à versioner
+2014-05-23T13:53:34  <adriens33> *versionner
+2014-05-23T13:53:47  <adriens33> par contre comme y'a des mdp dans le fichier de conf je vais devoir les cacher :)
