@@ -2375,3 +2375,1617 @@ INFO 2014-05-23T13:53:54 supybot Killing Irc objects.
 INFO 2014-05-23T13:53:54 supybot Writing registry file to BerryPunch.conf
 INFO 2014-05-23T13:53:54 supybot Finished writing registry file.
 INFO 2014-05-23T13:53:55 supybot Shutdown complete.
+INFO 2014-05-23T14:13:56 supybot Creating new Irc for freenode.
+INFO 2014-05-23T14:13:56 supybot Sending PASS command, not logging the password.
+INFO 2014-05-23T14:13:56 supybot Connecting to irc.freenode.net:6667.
+INFO 2014-05-23T14:13:57 supybot Loading plugins (connecting to freenode).
+INFO 2014-05-23T14:14:02 supybot Server asimov.freenode.net has version ircd-seven-1.1.3
+INFO 2014-05-23T14:14:03 supybot Got end of MOTD from asimov.freenode.net
+INFO 2014-05-23T14:14:03 supybot Sending identify (current nick: Berry-Punch)
+INFO 2014-05-23T14:14:03 supybot Received "Password accepted" from NickServ on freenode.
+INFO 2014-05-23T14:14:08 supybot utilities shuffle called by "Berry-Punch!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:14:08 supybot apply called by "Berry-Punch!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:14:08 supybot utilities last called by "Berry-Punch!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:14:08 supybot string decode called by "Berry-Punch!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:14:08 supybot apply called by "Berry-Punch!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:14:08 supybot echo called by "Berry-Punch!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:14:08 supybot Requesting op from ChanServ in #bronycub on freenode.
+INFO 2014-05-23T14:14:08 supybot Received op from ChanServ in #bronycub on freenode.
+INFO 2014-05-23T14:14:09 supybot Received op from ChanServ in #bronycub on freenode.
+INFO 2014-05-23T14:14:10 supybot Join to #bronycub on freenode synced in 2.15 seconds.
+INFO 2014-05-23T14:14:16 supybot list called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T14:14:17 supybot list called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T14:14:28 supybot welcome called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T14:14:28 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T14:30:29 supybot Creating new Irc for freenode.
+INFO 2014-05-23T14:30:29 supybot Sending PASS command, not logging the password.
+INFO 2014-05-23T14:30:29 supybot Connecting to irc.freenode.net:6667.
+INFO 2014-05-23T14:30:29 supybot Loading plugins (connecting to freenode).
+INFO 2014-05-23T14:30:33 supybot Got 433: Berry-Punch is in use.  Trying Berry-Punch`.
+INFO 2014-05-23T14:30:34 supybot Server asimov.freenode.net has version ircd-seven-1.1.3
+INFO 2014-05-23T14:30:35 supybot Got end of MOTD from asimov.freenode.net
+INFO 2014-05-23T14:30:35 supybot Sending ghost (current nick: Berry-Punch`; ghosting: Berry-Punch)
+INFO 2014-05-23T14:30:35 supybot Sending ghost (current nick: Berry-Punch`; ghosting: Berry-Punch)
+WARNING 2014-05-23T14:30:40 supybot Refusing to send GHOST more than once every 60 seconds.
+INFO 2014-05-23T14:30:40 supybot utilities shuffle called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:40 supybot apply called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:40 supybot utilities last called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:40 supybot string decode called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:40 supybot apply called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:40 supybot echo called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:40 supybot utilities shuffle called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:40 supybot apply called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:40 supybot utilities last called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:40 supybot string decode called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:40 supybot apply called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:40 supybot echo called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+WARNING 2014-05-23T14:30:40 supybot Error message from freenode: Closing Link: 2001:41d0:a:1308::1 (Disconnected by services)
+INFO 2014-05-23T14:30:40 supybot Reconnecting to freenode.
+INFO 2014-05-23T14:30:40 supybot Sending PASS command, not logging the password.
+INFO 2014-05-23T14:30:40 supybot Connecting to irc.freenode.net:6667.
+INFO 2014-05-23T14:30:41 supybot Sending identify (current nick: Berry-Punch)
+INFO 2014-05-23T14:30:42 supybot Got 433: Berry-Punch is in use.  Trying Berry-Punch`.
+INFO 2014-05-23T14:30:42 supybot Received "Password accepted" from NickServ on freenode.
+INFO 2014-05-23T14:30:42 supybot Requesting op from ChanServ in #bronycub on freenode.
+INFO 2014-05-23T14:30:42 supybot Received op from ChanServ in #bronycub on freenode.
+INFO 2014-05-23T14:30:43 supybot Server asimov.freenode.net has version ircd-seven-1.1.3
+INFO 2014-05-23T14:30:43 supybot Received op from ChanServ in #bronycub on freenode.
+INFO 2014-05-23T14:30:43 supybot Got end of MOTD from asimov.freenode.net
+INFO 2014-05-23T14:30:43 supybot Sending ghost (current nick: Berry-Punch`; ghosting: Berry-Punch)
+INFO 2014-05-23T14:30:43 supybot Sending ghost (current nick: Berry-Punch`; ghosting: Berry-Punch)
+INFO 2014-05-23T14:30:44 supybot Join to #bronycub on freenode synced in 4.07 seconds.
+WARNING 2014-05-23T14:30:49 supybot Refusing to send GHOST more than once every 60 seconds.
+INFO 2014-05-23T14:30:49 supybot utilities shuffle called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:49 supybot apply called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:49 supybot utilities last called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:49 supybot string decode called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:49 supybot apply called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:49 supybot echo called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:49 supybot utilities shuffle called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:49 supybot apply called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:49 supybot utilities last called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:49 supybot string decode called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:49 supybot apply called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:49 supybot echo called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+WARNING 2014-05-23T14:30:49 supybot Error message from freenode: Closing Link: 2001:41d0:a:1308::1 (Disconnected by services)
+INFO 2014-05-23T14:30:49 supybot Reconnecting to freenode.
+INFO 2014-05-23T14:30:49 supybot Sending PASS command, not logging the password.
+INFO 2014-05-23T14:30:49 supybot Connecting to irc.freenode.net:6667.
+INFO 2014-05-23T14:30:50 supybot Sending identify (current nick: Berry-Punch)
+INFO 2014-05-23T14:30:51 supybot Got 433: Berry-Punch is in use.  Trying Berry-Punch`.
+INFO 2014-05-23T14:30:51 supybot Received "Password accepted" from NickServ on freenode.
+INFO 2014-05-23T14:30:51 supybot Requesting op from ChanServ in #bronycub on freenode.
+INFO 2014-05-23T14:30:51 supybot Received op from ChanServ in #bronycub on freenode.
+INFO 2014-05-23T14:30:52 supybot Server asimov.freenode.net has version ircd-seven-1.1.3
+INFO 2014-05-23T14:30:52 supybot Received op from ChanServ in #bronycub on freenode.
+INFO 2014-05-23T14:30:52 supybot Got end of MOTD from asimov.freenode.net
+INFO 2014-05-23T14:30:52 supybot Sending ghost (current nick: Berry-Punch`; ghosting: Berry-Punch)
+INFO 2014-05-23T14:30:52 supybot Sending ghost (current nick: Berry-Punch`; ghosting: Berry-Punch)
+INFO 2014-05-23T14:30:53 supybot Join to #bronycub on freenode synced in 4.07 seconds.
+WARNING 2014-05-23T14:30:58 supybot Refusing to send GHOST more than once every 60 seconds.
+INFO 2014-05-23T14:30:58 supybot utilities shuffle called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:58 supybot apply called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:58 supybot utilities last called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:58 supybot string decode called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:58 supybot apply called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:58 supybot echo called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:58 supybot utilities shuffle called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+WARNING 2014-05-23T14:30:58 supybot Error message from freenode: Closing Link: 2001:41d0:a:1308::1 (Disconnected by services)
+INFO 2014-05-23T14:30:58 supybot Reconnecting to freenode.
+INFO 2014-05-23T14:30:58 supybot apply called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:58 supybot Sending PASS command, not logging the password.
+INFO 2014-05-23T14:30:58 supybot Connecting to irc.freenode.net:6667.
+INFO 2014-05-23T14:30:58 supybot utilities last called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:58 supybot string decode called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:58 supybot apply called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:58 supybot echo called by "Berry-Punch`!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:30:59 supybot Sending identify (current nick: Berry-Punch)
+INFO 2014-05-23T14:30:59 supybot Exiting due to Ctrl-C.  If the bot doesn't exit within a few seconds, feel free to press Ctrl-C again to make it exit without flushing its message queues.
+INFO 2014-05-23T14:30:59 supybot Flushers flushed and garbage collected.
+INFO 2014-05-23T14:30:59 supybot Driver for Irc object for freenode dying.
+INFO 2014-05-23T14:30:59 supybot Irc object for freenode dying.
+INFO 2014-05-23T14:30:59 supybot Driver for Irc object for freenode dying.
+WARNING 2014-05-23T14:31:00 supybot Disconnect from irc.freenode.net:6667: error: [Errno 9] Bad file descriptor.
+INFO 2014-05-23T14:31:00 supybot Reconnecting to freenode at 2014-05-23T14:31:10.
+INFO 2014-05-23T14:31:00 supybot Removing driver SocketDriver(Irc object for freenode).
+INFO 2014-05-23T14:31:00 supybot Total uptime: 31 seconds.
+INFO 2014-05-23T14:31:00 supybot Total CPU time taken: 6.38 seconds.
+INFO 2014-05-23T14:31:00 supybot No more Irc objects, exiting.
+INFO 2014-05-23T14:31:00 supybot Shutdown initiated.
+INFO 2014-05-23T14:31:00 supybot Killing Driver objects.
+INFO 2014-05-23T14:31:00 supybot Killing Irc objects.
+INFO 2014-05-23T14:31:00 supybot Writing registry file to BerryPunch.conf
+INFO 2014-05-23T14:31:00 supybot Got 433: Berry-Punch is in use.  Trying Berry-Punch`.
+INFO 2014-05-23T14:31:00 supybot Finished writing registry file.
+INFO 2014-05-23T14:31:00 supybot Shutdown complete.
+INFO 2014-05-23T14:31:01 supybot Server asimov.freenode.net has version ircd-seven-1.1.3
+INFO 2014-05-23T14:31:01 supybot Got end of MOTD from asimov.freenode.net
+INFO 2014-05-23T14:31:01 supybot Sending ghost (current nick: Berry-Punch`; ghosting: Berry-Punch)
+INFO 2014-05-23T14:31:01 supybot Sending ghost (current nick: Berry-Punch`; ghosting: Berry-Punch)
+INFO 2014-05-23T14:31:07 supybot Sending identify (current nick: Berry-Punch)
+INFO 2014-05-23T14:31:07 supybot utilities shuffle called by "Berry-Punch!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:31:07 supybot apply called by "Berry-Punch!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:31:07 supybot utilities last called by "Berry-Punch!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:31:07 supybot string decode called by "Berry-Punch!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:31:07 supybot apply called by "Berry-Punch!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:31:07 supybot echo called by "Berry-Punch!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:31:07 supybot Received "Password accepted" from NickServ on freenode.
+INFO 2014-05-23T14:31:07 supybot Requesting op from ChanServ in #bronycub on freenode.
+INFO 2014-05-23T14:31:07 supybot Received op from ChanServ in #bronycub on freenode.
+INFO 2014-05-23T14:31:08 supybot Received op from ChanServ in #bronycub on freenode.
+INFO 2014-05-23T14:31:11 supybot Join to #bronycub on freenode synced in 4.46 seconds.
+INFO 2014-05-23T14:31:24 supybot Exiting due to Signal #15.
+INFO 2014-05-23T14:31:24 supybot Total uptime: 17 minutes and 28 seconds.
+INFO 2014-05-23T14:31:24 supybot Total CPU time taken: 8.35 seconds.
+INFO 2014-05-23T14:31:24 supybot No more Irc objects, exiting.
+INFO 2014-05-23T14:31:24 supybot Shutdown initiated.
+INFO 2014-05-23T14:31:24 supybot Killing Driver objects.
+INFO 2014-05-23T14:31:24 supybot Driver for Irc object for freenode dying.
+INFO 2014-05-23T14:31:24 supybot Killing Irc objects.
+INFO 2014-05-23T14:31:24 supybot Writing registry file to BerryPunch.conf
+INFO 2014-05-23T14:31:24 supybot Finished writing registry file.
+INFO 2014-05-23T14:31:25 supybot Shutdown complete.
+INFO 2014-05-23T14:31:33 supybot Creating new Irc for freenode.
+INFO 2014-05-23T14:31:33 supybot Sending PASS command, not logging the password.
+INFO 2014-05-23T14:31:33 supybot Connecting to irc.freenode.net:6667.
+INFO 2014-05-23T14:31:33 supybot Loading plugins (connecting to freenode).
+INFO 2014-05-23T14:31:38 supybot Server asimov.freenode.net has version ircd-seven-1.1.3
+INFO 2014-05-23T14:31:39 supybot Got end of MOTD from asimov.freenode.net
+INFO 2014-05-23T14:31:39 supybot Sending identify (current nick: Berry-Punch)
+INFO 2014-05-23T14:31:39 supybot Received "Password accepted" from NickServ on freenode.
+INFO 2014-05-23T14:31:44 supybot utilities shuffle called by "Berry-Punch!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:31:44 supybot apply called by "Berry-Punch!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:31:44 supybot utilities last called by "Berry-Punch!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:31:44 supybot string decode called by "Berry-Punch!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:31:44 supybot apply called by "Berry-Punch!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:31:44 supybot echo called by "Berry-Punch!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T14:31:44 supybot Requesting op from ChanServ in #bronycub on freenode.
+INFO 2014-05-23T14:31:44 supybot Received op from ChanServ in #bronycub on freenode.
+INFO 2014-05-23T14:31:45 supybot Received op from ChanServ in #bronycub on freenode.
+INFO 2014-05-23T14:31:46 supybot Join to #bronycub on freenode synced in 2.10 seconds.
+INFO 2014-05-23T14:35:01 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T15:01:40 supybot Checking for announcements at <http://feeds.feedburner.com/poneyblanc>
+INFO 2014-05-23T15:14:04 supybot ding called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T15:14:04 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T15:14:04 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T15:14:04 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T15:14:04 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T15:14:40 supybot do called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T15:14:40 supybot Performing "s'endort" in #bronycub due to adriens33!~arthur33@homer.art-software.fr.
+INFO 2014-05-23T15:18:57 supybot Not replying to ?, not a command.
+INFO 2014-05-23T15:18:57 supybot ding called by "heuzef!~Thunderbi@81-64-200-66.rev.numericable.fr".
+INFO 2014-05-23T15:18:57 supybot utilities shuffle called by "heuzef!~Thunderbi@81-64-200-66.rev.numericable.fr".
+INFO 2014-05-23T15:18:57 supybot apply called by "heuzef!~Thunderbi@81-64-200-66.rev.numericable.fr".
+INFO 2014-05-23T15:18:57 supybot utilities last called by "heuzef!~Thunderbi@81-64-200-66.rev.numericable.fr".
+INFO 2014-05-23T15:18:57 supybot string decode called by "heuzef!~Thunderbi@81-64-200-66.rev.numericable.fr".
+INFO 2014-05-23T15:31:37 supybot Flushers flushed and garbage collected.
+INFO 2014-05-23T15:31:42 supybot utilities shuffle called by "Gordfang!2eda2324@gateway/web/cgi-irc/kiwiirc.com/ip.46.218.35.36".
+INFO 2014-05-23T15:31:42 supybot apply called by "Gordfang!2eda2324@gateway/web/cgi-irc/kiwiirc.com/ip.46.218.35.36".
+INFO 2014-05-23T15:31:42 supybot utilities last called by "Gordfang!2eda2324@gateway/web/cgi-irc/kiwiirc.com/ip.46.218.35.36".
+INFO 2014-05-23T15:31:42 supybot string decode called by "Gordfang!2eda2324@gateway/web/cgi-irc/kiwiirc.com/ip.46.218.35.36".
+INFO 2014-05-23T15:31:42 supybot apply called by "Gordfang!2eda2324@gateway/web/cgi-irc/kiwiirc.com/ip.46.218.35.36".
+INFO 2014-05-23T15:31:42 supybot echo called by "Gordfang!2eda2324@gateway/web/cgi-irc/kiwiirc.com/ip.46.218.35.36".
+INFO 2014-05-23T15:31:46 supybot Checking for announcements at <http://feeds.feedburner.com/poneyblanc>
+INFO 2014-05-23T15:49:13 supybot utilities shuffle called by "Gordfang!2eda2324@gateway/web/cgi-irc/kiwiirc.com/ip.46.218.35.36".
+INFO 2014-05-23T15:49:13 supybot apply called by "Gordfang!2eda2324@gateway/web/cgi-irc/kiwiirc.com/ip.46.218.35.36".
+INFO 2014-05-23T15:49:13 supybot utilities last called by "Gordfang!2eda2324@gateway/web/cgi-irc/kiwiirc.com/ip.46.218.35.36".
+INFO 2014-05-23T15:49:13 supybot string decode called by "Gordfang!2eda2324@gateway/web/cgi-irc/kiwiirc.com/ip.46.218.35.36".
+INFO 2014-05-23T15:49:13 supybot apply called by "Gordfang!2eda2324@gateway/web/cgi-irc/kiwiirc.com/ip.46.218.35.36".
+INFO 2014-05-23T15:49:13 supybot echo called by "Gordfang!2eda2324@gateway/web/cgi-irc/kiwiirc.com/ip.46.218.35.36".
+INFO 2014-05-23T15:58:37 supybot do called by "heuzef!~Thunderbi@81-64-200-66.rev.numericable.fr".
+INFO 2014-05-23T15:58:37 supybot Performing "vide sa bouteille" in #bronycub due to heuzef!~Thunderbi@81-64-200-66.rev.numericable.fr.
+INFO 2014-05-23T15:58:55 supybot ding called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T15:58:55 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T15:58:55 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T15:58:55 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T15:58:55 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T15:59:16 supybot Not replying to est, not a command.
+INFO 2014-05-23T15:59:17 supybot do called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T15:59:17 supybot Performing "en cherche une autre" in #bronycub due to adriens33!~arthur33@homer.art-software.fr.
+INFO 2014-05-23T16:01:17 supybot bye called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T16:01:17 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T16:01:49 supybot Checking for announcements at <http://feeds.feedburner.com/poneyblanc>
+INFO 2014-05-23T16:31:38 supybot Flushers flushed and garbage collected.
+INFO 2014-05-23T16:31:59 supybot Checking for announcements at <http://feeds.feedburner.com/poneyblanc>
+INFO 2014-05-23T16:58:06 supybot utilities shuffle called by "heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66".
+INFO 2014-05-23T16:58:06 supybot apply called by "heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66".
+INFO 2014-05-23T16:58:06 supybot utilities last called by "heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66".
+INFO 2014-05-23T16:58:06 supybot string decode called by "heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66".
+INFO 2014-05-23T16:58:06 supybot apply called by "heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66".
+INFO 2014-05-23T16:58:06 supybot echo called by "heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66".
+INFO 2014-05-23T17:02:05 supybot Checking for announcements at <http://feeds.feedburner.com/poneyblanc>
+INFO 2014-05-23T17:15:35 supybot ding called by "heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66".
+INFO 2014-05-23T17:15:35 supybot utilities shuffle called by "heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66".
+INFO 2014-05-23T17:15:35 supybot apply called by "heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66".
+INFO 2014-05-23T17:15:35 supybot utilities last called by "heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66".
+INFO 2014-05-23T17:15:35 supybot string decode called by "heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66".
+INFO 2014-05-23T17:16:03 supybot ding called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:16:03 supybot utilities shuffle called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:16:03 supybot apply called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:16:03 supybot utilities last called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:16:03 supybot string decode called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:16:46 supybot config called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:16:52 supybot config called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:16:54 supybot config called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:19:35 supybot messageparser add called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:20:27 supybot Not replying to bB, not a command.
+INFO 2014-05-23T17:20:27 supybot Not replying to \-, not a command.
+INFO 2014-05-23T17:20:27 supybot Not replying to pP, not a command.
+INFO 2014-05-23T17:20:27 supybot messageparser add called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:20:37 supybot messageparser add called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:21:00 supybot ding called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:21:00 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:21:00 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:21:00 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:21:00 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+ERROR 2014-05-23T17:21:53 supybot Uncaught exception:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/log.py", line 351, in m
+    return f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/irclib.py", line 132, in __call__
+    method(irc, msg)
+  File "/home/berry-punch/plugins/MessageParser/plugin.py", line 161, in doPrivmsg
+    thisaction = re.sub(r'\$' + str(i+1), match.group(i+1), thisaction)
+  File "/usr/lib/python2.7/re.py", line 151, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "/usr/lib/python2.7/re.py", line 270, in _subx
+    template = _compile_repl(template, pattern)
+  File "/usr/lib/python2.7/re.py", line 255, in _compile_repl
+    p = sre_parse.parse_template(repl, pattern)
+  File "/usr/lib/python2.7/sre_parse.py", line 706, in parse_template
+    s = Tokenizer(source)
+  File "/usr/lib/python2.7/sre_parse.py", line 181, in __init__
+    self.__next()
+  File "/usr/lib/python2.7/sre_parse.py", line 183, in __next
+    if self.index >= len(self.string):
+TypeError: object of type 'NoneType' has no len()
+ERROR 2014-05-23T17:21:53 supybot Exception id: 0x38b53
+INFO 2014-05-23T17:22:11 supybot ding called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:22:11 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:22:11 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:22:11 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:22:11 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:22:14 supybot ding called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:22:14 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:22:14 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:22:14 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:22:14 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:22:43 supybot ding called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:22:43 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:22:43 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:22:43 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:22:43 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:23:13 supybot ding called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:23:13 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:23:13 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:23:13 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:23:13 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:23:28 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:23:50 supybot ding called by "heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66".
+INFO 2014-05-23T17:23:50 supybot utilities shuffle called by "heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66".
+INFO 2014-05-23T17:23:50 supybot apply called by "heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66".
+INFO 2014-05-23T17:23:50 supybot utilities last called by "heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66".
+INFO 2014-05-23T17:23:50 supybot string decode called by "heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66".
+INFO 2014-05-23T17:29:09 supybot list called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:30:21 supybot say called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:30:26 supybot say called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:30:26 supybot Saying "attention aux trolls, Letarumavza…" in #bronycub due to adriens33!~arthur33@homer.art-software.fr.
+INFO 2014-05-23T17:30:53 supybot ding called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:30:53 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:30:53 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:30:53 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:30:53 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:31:39 supybot Flushers flushed and garbage collected.
+INFO 2014-05-23T17:32:09 supybot Checking for announcements at <http://feeds.feedburner.com/poneyblanc>
+ERROR 2014-05-23T17:32:24 supybot Uncaught exception:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/log.py", line 351, in m
+    return f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/irclib.py", line 132, in __call__
+    method(irc, msg)
+  File "/home/berry-punch/plugins/MessageParser/plugin.py", line 161, in doPrivmsg
+    thisaction = re.sub(r'\$' + str(i+1), match.group(i+1), thisaction)
+  File "/usr/lib/python2.7/re.py", line 151, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "/usr/lib/python2.7/re.py", line 270, in _subx
+    template = _compile_repl(template, pattern)
+  File "/usr/lib/python2.7/re.py", line 255, in _compile_repl
+    p = sre_parse.parse_template(repl, pattern)
+  File "/usr/lib/python2.7/sre_parse.py", line 706, in parse_template
+    s = Tokenizer(source)
+  File "/usr/lib/python2.7/sre_parse.py", line 181, in __init__
+    self.__next()
+  File "/usr/lib/python2.7/sre_parse.py", line 183, in __next
+    if self.index >= len(self.string):
+TypeError: object of type 'NoneType' has no len()
+ERROR 2014-05-23T17:32:24 supybot Exception id: 0x38b53
+ERROR 2014-05-23T17:32:36 supybot Uncaught exception:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/log.py", line 351, in m
+    return f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/irclib.py", line 132, in __call__
+    method(irc, msg)
+  File "/home/berry-punch/plugins/MessageParser/plugin.py", line 161, in doPrivmsg
+    thisaction = re.sub(r'\$' + str(i+1), match.group(i+1), thisaction)
+  File "/usr/lib/python2.7/re.py", line 151, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "/usr/lib/python2.7/re.py", line 270, in _subx
+    template = _compile_repl(template, pattern)
+  File "/usr/lib/python2.7/re.py", line 255, in _compile_repl
+    p = sre_parse.parse_template(repl, pattern)
+  File "/usr/lib/python2.7/sre_parse.py", line 706, in parse_template
+    s = Tokenizer(source)
+  File "/usr/lib/python2.7/sre_parse.py", line 181, in __init__
+    self.__next()
+  File "/usr/lib/python2.7/sre_parse.py", line 183, in __next
+    if self.index >= len(self.string):
+TypeError: object of type 'NoneType' has no len()
+ERROR 2014-05-23T17:32:36 supybot Exception id: 0x38b53
+INFO 2014-05-23T17:32:39 supybot do called by "heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66".
+ERROR 2014-05-23T17:32:39 supybot Uncaught exception:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/log.py", line 351, in m
+    return f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/irclib.py", line 132, in __call__
+    method(irc, msg)
+  File "/home/berry-punch/plugins/MessageParser/plugin.py", line 161, in doPrivmsg
+    thisaction = re.sub(r'\$' + str(i+1), match.group(i+1), thisaction)
+  File "/usr/lib/python2.7/re.py", line 151, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "/usr/lib/python2.7/re.py", line 270, in _subx
+    template = _compile_repl(template, pattern)
+  File "/usr/lib/python2.7/re.py", line 255, in _compile_repl
+    p = sre_parse.parse_template(repl, pattern)
+  File "/usr/lib/python2.7/sre_parse.py", line 706, in parse_template
+    s = Tokenizer(source)
+  File "/usr/lib/python2.7/sre_parse.py", line 181, in __init__
+    self.__next()
+  File "/usr/lib/python2.7/sre_parse.py", line 183, in __next
+    if self.index >= len(self.string):
+TypeError: object of type 'NoneType' has no len()
+ERROR 2014-05-23T17:32:39 supybot Exception id: 0x38b53
+INFO 2014-05-23T17:32:48 supybot ding called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:32:48 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:32:48 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:32:48 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:32:48 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:33:04 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:33:04 supybot do called by "heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66".
+INFO 2014-05-23T17:33:11 supybot do called by "heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66".
+INFO 2014-05-23T17:33:11 supybot Performing "aime bien quand Letarumavza à de bonne idées, ça le rend sexy" in #bronycub due to heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66.
+INFO 2014-05-23T17:33:37 supybot ding called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:33:37 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:33:37 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:33:37 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:33:37 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:33:42 supybot bye called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:33:42 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+ERROR 2014-05-23T17:33:57 supybot Uncaught exception:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/log.py", line 351, in m
+    return f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/irclib.py", line 132, in __call__
+    method(irc, msg)
+  File "/home/berry-punch/plugins/MessageParser/plugin.py", line 161, in doPrivmsg
+    thisaction = re.sub(r'\$' + str(i+1), match.group(i+1), thisaction)
+  File "/usr/lib/python2.7/re.py", line 151, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "/usr/lib/python2.7/re.py", line 270, in _subx
+    template = _compile_repl(template, pattern)
+  File "/usr/lib/python2.7/re.py", line 255, in _compile_repl
+    p = sre_parse.parse_template(repl, pattern)
+  File "/usr/lib/python2.7/sre_parse.py", line 706, in parse_template
+    s = Tokenizer(source)
+  File "/usr/lib/python2.7/sre_parse.py", line 181, in __init__
+    self.__next()
+  File "/usr/lib/python2.7/sre_parse.py", line 183, in __next
+    if self.index >= len(self.string):
+TypeError: object of type 'NoneType' has no len()
+ERROR 2014-05-23T17:33:57 supybot Exception id: 0x38b53
+INFO 2014-05-23T17:34:21 supybot ding called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:34:21 supybot utilities shuffle called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:34:21 supybot apply called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:34:21 supybot utilities last called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:34:21 supybot string decode called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:34:37 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+ERROR 2014-05-23T17:34:43 supybot Uncaught exception:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/log.py", line 351, in m
+    return f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/irclib.py", line 132, in __call__
+    method(irc, msg)
+  File "/home/berry-punch/plugins/MessageParser/plugin.py", line 161, in doPrivmsg
+    thisaction = re.sub(r'\$' + str(i+1), match.group(i+1), thisaction)
+  File "/usr/lib/python2.7/re.py", line 151, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "/usr/lib/python2.7/re.py", line 270, in _subx
+    template = _compile_repl(template, pattern)
+  File "/usr/lib/python2.7/re.py", line 255, in _compile_repl
+    p = sre_parse.parse_template(repl, pattern)
+  File "/usr/lib/python2.7/sre_parse.py", line 706, in parse_template
+    s = Tokenizer(source)
+  File "/usr/lib/python2.7/sre_parse.py", line 181, in __init__
+    self.__next()
+  File "/usr/lib/python2.7/sre_parse.py", line 183, in __next
+    if self.index >= len(self.string):
+TypeError: object of type 'NoneType' has no len()
+ERROR 2014-05-23T17:34:43 supybot Exception id: 0x38b53
+INFO 2014-05-23T17:34:53 supybot messageparser list called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:35:07 supybot unload called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:35:12 supybot load called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:35:18 supybot load called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:35:21 supybot messageparser list called by "adriens33!~arthur33@homer.art-software.fr".
+ERROR 2014-05-23T17:35:30 supybot Uncaught exception:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/log.py", line 351, in m
+    return f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/irclib.py", line 132, in __call__
+    method(irc, msg)
+  File "/home/berry-punch/plugins/MessageParser/plugin.py", line 161, in doPrivmsg
+    thisaction = re.sub(r'\$' + str(i+1), match.group(i+1), thisaction)
+  File "/usr/lib/python2.7/re.py", line 151, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "/usr/lib/python2.7/re.py", line 270, in _subx
+    template = _compile_repl(template, pattern)
+  File "/usr/lib/python2.7/re.py", line 255, in _compile_repl
+    p = sre_parse.parse_template(repl, pattern)
+  File "/usr/lib/python2.7/sre_parse.py", line 706, in parse_template
+    s = Tokenizer(source)
+  File "/usr/lib/python2.7/sre_parse.py", line 181, in __init__
+    self.__next()
+  File "/usr/lib/python2.7/sre_parse.py", line 183, in __next
+    if self.index >= len(self.string):
+TypeError: object of type 'NoneType' has no len()
+ERROR 2014-05-23T17:35:30 supybot Exception id: 0x38b53
+INFO 2014-05-23T17:36:02 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+ERROR 2014-05-23T17:36:36 supybot Uncaught exception:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/log.py", line 351, in m
+    return f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/irclib.py", line 132, in __call__
+    method(irc, msg)
+  File "/home/berry-punch/plugins/MessageParser/plugin.py", line 161, in doPrivmsg
+    thisaction = re.sub(r'\$' + str(i+1), match.group(i+1), thisaction)
+  File "/usr/lib/python2.7/re.py", line 151, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+  File "/usr/lib/python2.7/re.py", line 270, in _subx
+    template = _compile_repl(template, pattern)
+  File "/usr/lib/python2.7/re.py", line 255, in _compile_repl
+    p = sre_parse.parse_template(repl, pattern)
+  File "/usr/lib/python2.7/sre_parse.py", line 706, in parse_template
+    s = Tokenizer(source)
+  File "/usr/lib/python2.7/sre_parse.py", line 181, in __init__
+    self.__next()
+  File "/usr/lib/python2.7/sre_parse.py", line 183, in __next
+    if self.index >= len(self.string):
+TypeError: object of type 'NoneType' has no len()
+ERROR 2014-05-23T17:36:36 supybot Exception id: 0x38b53
+ERROR 2014-05-23T17:36:46 supybot Uncaught exception:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/log.py", line 351, in m
+    return f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/irclib.py", line 132, in __call__
+    method(irc, msg)
+  File "/home/berry-punch/plugins/MessageParser/plugin.py", line 156, in doPrivmsg
+    for match in re.finditer(regexp, msg.args[1]):
+  File "/usr/lib/python2.7/re.py", line 186, in finditer
+    return _compile(pattern, flags).finditer(string)
+  File "/usr/lib/python2.7/re.py", line 242, in _compile
+    raise error, v # invalid expression
+error: unexpected end of regular expression
+ERROR 2014-05-23T17:36:46 supybot Exception id: 0xdb219
+ERROR 2014-05-23T17:36:50 supybot Uncaught exception:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/log.py", line 351, in m
+    return f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/irclib.py", line 132, in __call__
+    method(irc, msg)
+  File "/home/berry-punch/plugins/MessageParser/plugin.py", line 156, in doPrivmsg
+    for match in re.finditer(regexp, msg.args[1]):
+  File "/usr/lib/python2.7/re.py", line 186, in finditer
+    return _compile(pattern, flags).finditer(string)
+  File "/usr/lib/python2.7/re.py", line 242, in _compile
+    raise error, v # invalid expression
+error: unexpected end of regular expression
+ERROR 2014-05-23T17:36:50 supybot Exception id: 0xdb219
+ERROR 2014-05-23T17:36:52 supybot Uncaught exception:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/log.py", line 351, in m
+    return f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/irclib.py", line 132, in __call__
+    method(irc, msg)
+  File "/home/berry-punch/plugins/MessageParser/plugin.py", line 156, in doPrivmsg
+    for match in re.finditer(regexp, msg.args[1]):
+  File "/usr/lib/python2.7/re.py", line 186, in finditer
+    return _compile(pattern, flags).finditer(string)
+  File "/usr/lib/python2.7/re.py", line 242, in _compile
+    raise error, v # invalid expression
+error: unexpected end of regular expression
+ERROR 2014-05-23T17:36:52 supybot Exception id: 0xdb219
+ERROR 2014-05-23T17:37:02 supybot Uncaught exception:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/log.py", line 351, in m
+    return f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/irclib.py", line 132, in __call__
+    method(irc, msg)
+  File "/home/berry-punch/plugins/MessageParser/plugin.py", line 156, in doPrivmsg
+    for match in re.finditer(regexp, msg.args[1]):
+  File "/usr/lib/python2.7/re.py", line 186, in finditer
+    return _compile(pattern, flags).finditer(string)
+  File "/usr/lib/python2.7/re.py", line 242, in _compile
+    raise error, v # invalid expression
+error: unexpected end of regular expression
+ERROR 2014-05-23T17:37:02 supybot Exception id: 0xdb219
+ERROR 2014-05-23T17:37:09 supybot Uncaught exception:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/log.py", line 351, in m
+    return f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/irclib.py", line 132, in __call__
+    method(irc, msg)
+  File "/home/berry-punch/plugins/MessageParser/plugin.py", line 156, in doPrivmsg
+    for match in re.finditer(regexp, msg.args[1]):
+  File "/usr/lib/python2.7/re.py", line 186, in finditer
+    return _compile(pattern, flags).finditer(string)
+  File "/usr/lib/python2.7/re.py", line 242, in _compile
+    raise error, v # invalid expression
+error: unexpected end of regular expression
+ERROR 2014-05-23T17:37:09 supybot Exception id: 0xdb219
+INFO 2014-05-23T17:37:18 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:39:07 supybot say called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:39:07 supybot Saying "Banished to the Moon !!" in #bronycub due to adriens33!~arthur33@homer.art-software.fr.
+INFO 2014-05-23T17:39:47 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:39:49 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:40:18 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:40:18 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:40:29 supybot utilities shuffle called by "ValCab33!~androirc@ABordeaux-651-1-89-55.w90-5.abo.wanadoo.fr".
+INFO 2014-05-23T17:40:29 supybot apply called by "ValCab33!~androirc@ABordeaux-651-1-89-55.w90-5.abo.wanadoo.fr".
+INFO 2014-05-23T17:40:29 supybot utilities last called by "ValCab33!~androirc@ABordeaux-651-1-89-55.w90-5.abo.wanadoo.fr".
+INFO 2014-05-23T17:40:29 supybot string decode called by "ValCab33!~androirc@ABordeaux-651-1-89-55.w90-5.abo.wanadoo.fr".
+INFO 2014-05-23T17:40:29 supybot apply called by "ValCab33!~androirc@ABordeaux-651-1-89-55.w90-5.abo.wanadoo.fr".
+INFO 2014-05-23T17:40:29 supybot echo called by "ValCab33!~androirc@ABordeaux-651-1-89-55.w90-5.abo.wanadoo.fr".
+INFO 2014-05-23T17:40:50 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:40:50 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:40:50 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:40:50 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:41:00 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:41:00 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:41:00 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:41:00 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:42:49 supybot echo called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:42:49 supybot ding called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:42:49 supybot utilities shuffle called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:42:49 supybot apply called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:42:49 supybot utilities last called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:42:49 supybot string decode called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:48:20 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:48:20 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:48:20 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:48:20 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:48:23 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:48:23 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:48:23 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:48:23 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:48:47 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:48:47 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:48:47 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:48:47 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:48:50 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:48:50 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:48:50 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:48:50 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:48:51 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:48:51 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:48:51 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:48:51 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:48:53 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:48:53 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:48:53 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:48:53 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:50:54 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:50:54 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:50:54 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:50:54 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:51:12 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:51:12 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:51:12 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:51:12 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:51:19 supybot utilities shuffle called by "ValCab33!~androirc@ABordeaux-651-1-89-55.w90-5.abo.wanadoo.fr".
+INFO 2014-05-23T17:51:19 supybot apply called by "ValCab33!~androirc@ABordeaux-651-1-89-55.w90-5.abo.wanadoo.fr".
+INFO 2014-05-23T17:51:19 supybot utilities last called by "ValCab33!~androirc@ABordeaux-651-1-89-55.w90-5.abo.wanadoo.fr".
+INFO 2014-05-23T17:51:20 supybot echo called by "ValCab33!~androirc@ABordeaux-651-1-89-55.w90-5.abo.wanadoo.fr".
+INFO 2014-05-23T17:51:27 supybot ding called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:51:27 supybot utilities shuffle called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:51:27 supybot apply called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:51:27 supybot utilities last called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:51:28 supybot string decode called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+ERROR 2014-05-23T17:51:43 supybot Uncaught exception:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/log.py", line 351, in m
+    return f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/irclib.py", line 132, in __call__
+    method(irc, msg)
+  File "/home/berry-punch/plugins/MessageParser/plugin.py", line 165, in doPrivmsg
+    self._runCommandFunction(irc, msg, action)
+  File "/home/berry-punch/plugins/MessageParser/plugin.py", line 120, in _runCommandFunction
+    tokens = callbacks.tokenize(command)
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 353, in tokenize
+    ret = Tokenizer(brackets=brackets,pipe=pipe,quotes=quotes).tokenize(s)
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 328, in tokenize
+    'as nested commands.' % self.right
+SyntaxError: Spurious "]".  You may want to quote your arguments with double quotes in order to prevent extra brackets from being evaluated as nested commands.
+ERROR 2014-05-23T17:51:43 supybot Exception id: 0x8f1a8
+INFO 2014-05-23T17:52:10 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:52:10 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:52:10 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:52:10 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:52:15 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:52:15 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:52:15 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+ERROR 2014-05-23T17:52:15 supybot Uncaught exception in ['string', 'decode'].
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1180, in _callCommand
+    self.callCommand(command, irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/utils/python.py", line 86, in g
+    f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1166, in callCommand
+    method(irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/commands.py", line 913, in newf
+    f(self, irc, msg, args, *state.args, **state.kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/plugins/String/plugin.py", line 82, in decode
+    irc.reply(text.decode(encoding).encode('utf-8'))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 10: ordinal not in range(128)
+ERROR 2014-05-23T17:52:15 supybot Exception id: 0xc37de
+INFO 2014-05-23T17:52:15 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:52:31 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:52:31 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+ERROR 2014-05-23T17:52:31 supybot Uncaught exception in ['string', 'decode'].
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1180, in _callCommand
+    self.callCommand(command, irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/utils/python.py", line 86, in g
+    f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1166, in callCommand
+    method(irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/commands.py", line 913, in newf
+    f(self, irc, msg, args, *state.args, **state.kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/plugins/String/plugin.py", line 82, in decode
+    irc.reply(text.decode(encoding).encode('utf-8'))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xba in position 0: ordinal not in range(128)
+ERROR 2014-05-23T17:52:31 supybot Exception id: 0xc37de
+INFO 2014-05-23T17:52:31 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:52:33 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:52:33 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+ERROR 2014-05-23T17:52:33 supybot Uncaught exception in ['string', 'decode'].
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1180, in _callCommand
+    self.callCommand(command, irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/utils/python.py", line 86, in g
+    f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1166, in callCommand
+    method(irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/commands.py", line 913, in newf
+    f(self, irc, msg, args, *state.args, **state.kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/plugins/String/plugin.py", line 82, in decode
+    irc.reply(text.decode(encoding).encode('utf-8'))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xba in position 0: ordinal not in range(128)
+ERROR 2014-05-23T17:52:33 supybot Exception id: 0xc37de
+INFO 2014-05-23T17:52:33 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:52:47 supybot ding called by "ValCab33!~androirc@ABordeaux-651-1-89-55.w90-5.abo.wanadoo.fr".
+INFO 2014-05-23T17:52:47 supybot utilities shuffle called by "ValCab33!~androirc@ABordeaux-651-1-89-55.w90-5.abo.wanadoo.fr".
+INFO 2014-05-23T17:52:47 supybot apply called by "ValCab33!~androirc@ABordeaux-651-1-89-55.w90-5.abo.wanadoo.fr".
+INFO 2014-05-23T17:52:47 supybot utilities last called by "ValCab33!~androirc@ABordeaux-651-1-89-55.w90-5.abo.wanadoo.fr".
+INFO 2014-05-23T17:52:47 supybot string decode called by "ValCab33!~androirc@ABordeaux-651-1-89-55.w90-5.abo.wanadoo.fr".
+INFO 2014-05-23T17:53:17 supybot utilities shuffle called by "Gordfang!55459a78@gateway/web/cgi-irc/kiwiirc.com/ip.85.69.154.120".
+INFO 2014-05-23T17:53:17 supybot apply called by "Gordfang!55459a78@gateway/web/cgi-irc/kiwiirc.com/ip.85.69.154.120".
+INFO 2014-05-23T17:53:17 supybot utilities last called by "Gordfang!55459a78@gateway/web/cgi-irc/kiwiirc.com/ip.85.69.154.120".
+INFO 2014-05-23T17:53:17 supybot string decode called by "Gordfang!55459a78@gateway/web/cgi-irc/kiwiirc.com/ip.85.69.154.120".
+INFO 2014-05-23T17:53:17 supybot apply called by "Gordfang!55459a78@gateway/web/cgi-irc/kiwiirc.com/ip.85.69.154.120".
+INFO 2014-05-23T17:53:17 supybot echo called by "Gordfang!55459a78@gateway/web/cgi-irc/kiwiirc.com/ip.85.69.154.120".
+INFO 2014-05-23T17:53:41 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:53:41 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+ERROR 2014-05-23T17:53:41 supybot Uncaught exception in ['string', 'decode'].
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1180, in _callCommand
+    self.callCommand(command, irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/utils/python.py", line 86, in g
+    f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1166, in callCommand
+    method(irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/commands.py", line 913, in newf
+    f(self, irc, msg, args, *state.args, **state.kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/plugins/String/plugin.py", line 82, in decode
+    irc.reply(text.decode(encoding).encode('utf-8'))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xba in position 0: ordinal not in range(128)
+ERROR 2014-05-23T17:53:41 supybot Exception id: 0xc37de
+INFO 2014-05-23T17:53:41 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:53:48 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:53:48 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+ERROR 2014-05-23T17:53:48 supybot Uncaught exception in ['string', 'decode'].
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1180, in _callCommand
+    self.callCommand(command, irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/utils/python.py", line 86, in g
+    f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1166, in callCommand
+    method(irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/commands.py", line 913, in newf
+    f(self, irc, msg, args, *state.args, **state.kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/plugins/String/plugin.py", line 82, in decode
+    irc.reply(text.decode(encoding).encode('utf-8'))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xba in position 0: ordinal not in range(128)
+ERROR 2014-05-23T17:53:48 supybot Exception id: 0xc37de
+INFO 2014-05-23T17:53:48 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:53:55 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:53:55 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+ERROR 2014-05-23T17:53:55 supybot Uncaught exception in ['string', 'decode'].
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1180, in _callCommand
+    self.callCommand(command, irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/utils/python.py", line 86, in g
+    f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1166, in callCommand
+    method(irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/commands.py", line 913, in newf
+    f(self, irc, msg, args, *state.args, **state.kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/plugins/String/plugin.py", line 82, in decode
+    irc.reply(text.decode(encoding).encode('utf-8'))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xba in position 0: ordinal not in range(128)
+ERROR 2014-05-23T17:53:55 supybot Exception id: 0xc37de
+INFO 2014-05-23T17:53:55 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:54:03 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:54:03 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:54:03 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:54:03 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:54:18 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:54:18 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:54:18 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:54:18 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:54:56 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:54:56 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:54:56 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+ERROR 2014-05-23T17:54:56 supybot Uncaught exception in ['string', 'decode'].
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1180, in _callCommand
+    self.callCommand(command, irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/utils/python.py", line 86, in g
+    f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1166, in callCommand
+    method(irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/commands.py", line 913, in newf
+    f(self, irc, msg, args, *state.args, **state.kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/plugins/String/plugin.py", line 82, in decode
+    irc.reply(text.decode(encoding).encode('utf-8'))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 10: ordinal not in range(128)
+ERROR 2014-05-23T17:54:56 supybot Exception id: 0xc37de
+INFO 2014-05-23T17:54:56 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:55:20 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:55:20 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:55:20 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:55:20 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:55:34 supybot utilities shuffle called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:55:34 supybot utilities last called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:55:34 supybot string decode called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:55:34 supybot echo called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:55:41 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:56:13 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:56:13 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:56:13 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+ERROR 2014-05-23T17:56:13 supybot Uncaught exception in ['string', 'decode'].
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1180, in _callCommand
+    self.callCommand(command, irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/utils/python.py", line 86, in g
+    f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1166, in callCommand
+    method(irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/commands.py", line 913, in newf
+    f(self, irc, msg, args, *state.args, **state.kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/plugins/String/plugin.py", line 82, in decode
+    irc.reply(text.decode(encoding).encode('utf-8'))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 10: ordinal not in range(128)
+ERROR 2014-05-23T17:56:13 supybot Exception id: 0xc37de
+INFO 2014-05-23T17:56:13 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:56:33 supybot Not replying to alias, not a command.
+INFO 2014-05-23T17:56:42 supybot config called by "adriens33!~arthur33@homer.art-software.fr".
+ERROR 2014-05-23T17:56:42 supybot Uncaught exception in ['config'].
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1180, in _callCommand
+    self.callCommand(command, irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/utils/python.py", line 86, in g
+    f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/plugins/Config/plugin.py", line 113, in callCommand
+    super(Config, self).callCommand(command, irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/utils/python.py", line 86, in g
+    f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1166, in callCommand
+    method(irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/commands.py", line 913, in newf
+    f(self, irc, msg, args, *state.args, **state.kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/plugins/Config/plugin.py", line 221, in config
+    self._getValue(irc, msg, group, addChannel=group.channelValue)
+  File "/usr/lib/python2.7/site-packages/supybot/registry.py", line 210, in __getattr__
+    self.__nonExistentEntry(attr)
+  File "/usr/lib/python2.7/site-packages/supybot/registry.py", line 193, in __nonExistentEntry
+    raise NonExistentRegistryEntry, s
+NonExistentRegistryEntry: channelValue is not a valid entry in supybot.plugins.Alias.aliases.ding
+ERROR 2014-05-23T17:56:42 supybot Exception id: 0x9c96
+INFO 2014-05-23T17:57:15 supybot utilities shuffle called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:57:15 supybot utilities last called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:57:15 supybot string decode called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:57:15 supybot echo called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:58:02 supybot ding called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:58:02 supybot utilities shuffle called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:58:02 supybot apply called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:58:02 supybot utilities last called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:58:02 supybot string decode called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:58:23 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:58:23 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:58:23 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:58:23 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:58:28 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:58:28 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:58:28 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:58:28 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:58:30 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:58:30 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:58:30 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:58:30 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:58:32 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:58:32 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:58:32 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:58:32 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:58:34 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:58:34 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:58:34 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:58:34 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:59:03 supybot ding called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:59:03 supybot utilities shuffle called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:59:03 supybot apply called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:59:03 supybot utilities last called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:59:03 supybot string decode called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T17:59:25 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:59:25 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:59:25 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:59:25 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:59:27 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:59:27 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:59:27 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:59:27 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+ERROR 2014-05-23T17:59:27 supybot Uncaught exception in ['string', 'decode'].
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1180, in _callCommand
+    self.callCommand(command, irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/utils/python.py", line 86, in g
+    f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1166, in callCommand
+    method(irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/commands.py", line 913, in newf
+    f(self, irc, msg, args, *state.args, **state.kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/plugins/String/plugin.py", line 82, in decode
+    irc.reply(text.decode(encoding).encode('utf-8'))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 10: ordinal not in range(128)
+ERROR 2014-05-23T17:59:27 supybot Exception id: 0xc37de
+INFO 2014-05-23T17:59:29 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:59:29 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:59:29 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:59:29 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:59:32 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:59:32 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:59:32 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T17:59:32 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:01 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:03 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:08 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:22 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:22 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:22 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:22 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:22 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:35 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:35 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:35 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:35 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:35 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:35 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:37 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:37 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:37 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:37 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+ERROR 2014-05-23T18:00:37 supybot Uncaught exception in ['string', 'decode'].
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1180, in _callCommand
+    self.callCommand(command, irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/utils/python.py", line 86, in g
+    f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1166, in callCommand
+    method(irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/commands.py", line 913, in newf
+    f(self, irc, msg, args, *state.args, **state.kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/plugins/String/plugin.py", line 82, in decode
+    irc.reply(text.decode(encoding).encode('utf-8'))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 10: ordinal not in range(128)
+ERROR 2014-05-23T18:00:37 supybot Exception id: 0xc37de
+INFO 2014-05-23T18:00:37 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:37 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:44 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:44 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:44 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:44 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+ERROR 2014-05-23T18:00:44 supybot Uncaught exception in ['string', 'decode'].
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1180, in _callCommand
+    self.callCommand(command, irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/utils/python.py", line 86, in g
+    f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1166, in callCommand
+    method(irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/commands.py", line 913, in newf
+    f(self, irc, msg, args, *state.args, **state.kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/plugins/String/plugin.py", line 82, in decode
+    irc.reply(text.decode(encoding).encode('utf-8'))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 10: ordinal not in range(128)
+ERROR 2014-05-23T18:00:44 supybot Exception id: 0xc37de
+INFO 2014-05-23T18:00:44 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:44 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:55 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:55 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:55 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:55 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:55 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:55 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:57 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:57 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:57 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:57 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+ERROR 2014-05-23T18:00:57 supybot Uncaught exception in ['string', 'decode'].
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1180, in _callCommand
+    self.callCommand(command, irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/utils/python.py", line 86, in g
+    f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1166, in callCommand
+    method(irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/commands.py", line 913, in newf
+    f(self, irc, msg, args, *state.args, **state.kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/plugins/String/plugin.py", line 82, in decode
+    irc.reply(text.decode(encoding).encode('utf-8'))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 10: ordinal not in range(128)
+ERROR 2014-05-23T18:00:57 supybot Exception id: 0xc37de
+INFO 2014-05-23T18:00:57 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:00:58 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:13 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:13 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:13 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:13 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:13 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:13 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:15 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:15 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:15 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:15 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:15 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:15 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:17 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:17 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:17 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:17 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:17 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:17 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:19 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:19 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:19 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:19 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:19 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:19 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:23 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:23 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:23 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:23 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+ERROR 2014-05-23T18:01:23 supybot Uncaught exception in ['string', 'decode'].
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1180, in _callCommand
+    self.callCommand(command, irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/utils/python.py", line 86, in g
+    f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1166, in callCommand
+    method(irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/commands.py", line 913, in newf
+    f(self, irc, msg, args, *state.args, **state.kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/plugins/String/plugin.py", line 82, in decode
+    irc.reply(text.decode(encoding).encode('utf-8'))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 10: ordinal not in range(128)
+ERROR 2014-05-23T18:01:23 supybot Exception id: 0xc37de
+INFO 2014-05-23T18:01:23 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:23 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:37 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:40 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:40 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:40 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:40 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:40 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:40 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:42 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:42 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:42 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:42 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:42 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:42 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:44 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:44 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:44 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:44 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:44 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:44 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:53 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:53 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:53 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:53 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:53 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:01:53 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:08 supybot ding called by "Gordfang!55459a78@gateway/web/cgi-irc/kiwiirc.com/ip.85.69.154.120".
+INFO 2014-05-23T18:02:08 supybot utilities shuffle called by "Gordfang!55459a78@gateway/web/cgi-irc/kiwiirc.com/ip.85.69.154.120".
+INFO 2014-05-23T18:02:08 supybot apply called by "Gordfang!55459a78@gateway/web/cgi-irc/kiwiirc.com/ip.85.69.154.120".
+INFO 2014-05-23T18:02:08 supybot utilities last called by "Gordfang!55459a78@gateway/web/cgi-irc/kiwiirc.com/ip.85.69.154.120".
+INFO 2014-05-23T18:02:08 supybot string decode called by "Gordfang!55459a78@gateway/web/cgi-irc/kiwiirc.com/ip.85.69.154.120".
+INFO 2014-05-23T18:02:21 supybot Checking for announcements at <http://feeds.feedburner.com/poneyblanc>
+INFO 2014-05-23T18:02:33 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:33 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:33 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:33 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:33 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:33 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:35 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:35 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:35 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:35 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:35 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:36 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:37 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:37 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:37 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:37 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:37 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:37 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:39 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:39 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:39 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:39 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:39 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:39 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:41 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:41 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:41 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:41 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:41 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:41 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:44 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:44 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:44 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:44 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:44 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:02:44 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:03:44 supybot ding called by "heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66".
+INFO 2014-05-23T18:03:44 supybot utilities shuffle called by "heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66".
+INFO 2014-05-23T18:03:44 supybot apply called by "heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66".
+INFO 2014-05-23T18:03:44 supybot utilities last called by "heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66".
+INFO 2014-05-23T18:03:44 supybot string decode called by "heuzef!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66".
+INFO 2014-05-23T18:04:28 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:04:28 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:04:28 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:04:28 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:04:28 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:04:28 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:04:30 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:04:30 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:04:30 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:04:30 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:04:30 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:04:30 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:05:07 supybot utilities shuffle called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:05:07 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:05:07 supybot utilities last called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:05:07 supybot string decode called by "adriens33!~arthur33@homer.art-software.fr".
+ERROR 2014-05-23T18:05:07 supybot Uncaught exception in ['string', 'decode'].
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1180, in _callCommand
+    self.callCommand(command, irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/utils/python.py", line 86, in g
+    f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1166, in callCommand
+    method(irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/commands.py", line 913, in newf
+    f(self, irc, msg, args, *state.args, **state.kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/plugins/String/plugin.py", line 82, in decode
+    irc.reply(text.decode(encoding).encode('utf-8'))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 10: ordinal not in range(128)
+ERROR 2014-05-23T18:05:07 supybot Exception id: 0xc37de
+INFO 2014-05-23T18:05:07 supybot apply called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:05:07 supybot echo called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:07:58 supybot utilities shuffle called by "ELiDYROS!~ELiDYROS@54-95-190-109.dsl.ovh.fr".
+INFO 2014-05-23T18:07:58 supybot apply called by "ELiDYROS!~ELiDYROS@54-95-190-109.dsl.ovh.fr".
+INFO 2014-05-23T18:07:58 supybot utilities last called by "ELiDYROS!~ELiDYROS@54-95-190-109.dsl.ovh.fr".
+INFO 2014-05-23T18:07:58 supybot string decode called by "ELiDYROS!~ELiDYROS@54-95-190-109.dsl.ovh.fr".
+INFO 2014-05-23T18:07:58 supybot apply called by "ELiDYROS!~ELiDYROS@54-95-190-109.dsl.ovh.fr".
+INFO 2014-05-23T18:07:58 supybot echo called by "ELiDYROS!~ELiDYROS@54-95-190-109.dsl.ovh.fr".
+INFO 2014-05-23T18:09:31 supybot part called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:09:39 supybot part called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:09:50 supybot join called by "adriens33!~arthur33@homer.art-software.fr".
+INFO 2014-05-23T18:09:50 supybot utilities shuffle called by "Berry-Punch!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T18:09:50 supybot apply called by "Berry-Punch!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T18:09:50 supybot utilities last called by "Berry-Punch!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T18:09:50 supybot string decode called by "Berry-Punch!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T18:09:50 supybot apply called by "Berry-Punch!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T18:09:50 supybot echo called by "Berry-Punch!~supybot@2001:41d0:a:1308::1".
+INFO 2014-05-23T18:09:50 supybot Requesting op from ChanServ in #bronycub on freenode.
+INFO 2014-05-23T18:09:50 supybot Received op from ChanServ in #bronycub on freenode.
+INFO 2014-05-23T18:09:51 supybot Received op from ChanServ in #bronycub on freenode.
+INFO 2014-05-23T18:09:53 supybot Join to #bronycub on freenode synced in 3.29 seconds.
+INFO 2014-05-23T18:21:42 supybot utilities shuffle called by "heuzef1!~Thunderbi@81-64-200-66.rev.numericable.fr".
+INFO 2014-05-23T18:21:42 supybot apply called by "heuzef1!~Thunderbi@81-64-200-66.rev.numericable.fr".
+INFO 2014-05-23T18:21:42 supybot utilities last called by "heuzef1!~Thunderbi@81-64-200-66.rev.numericable.fr".
+INFO 2014-05-23T18:21:42 supybot string decode called by "heuzef1!~Thunderbi@81-64-200-66.rev.numericable.fr".
+INFO 2014-05-23T18:21:42 supybot apply called by "heuzef1!~Thunderbi@81-64-200-66.rev.numericable.fr".
+INFO 2014-05-23T18:21:42 supybot echo called by "heuzef1!~Thunderbi@81-64-200-66.rev.numericable.fr".
+INFO 2014-05-23T18:28:47 supybot utilities shuffle called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:28:47 supybot apply called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:28:47 supybot utilities last called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:28:47 supybot string decode called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:28:47 supybot apply called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:28:47 supybot echo called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:29:31 supybot channel nicks called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:30:17 supybot deop called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:31:39 supybot Flushers flushed and garbage collected.
+INFO 2014-05-23T18:32:27 supybot Checking for announcements at <http://feeds.feedburner.com/poneyblanc>
+INFO 2014-05-23T18:34:43 supybot utilities shuffle called by "wildfier!~wildfier@i16-lef01-ix2-212-195-71-177.ft.lns.abo.bbox.fr".
+INFO 2014-05-23T18:34:43 supybot apply called by "wildfier!~wildfier@i16-lef01-ix2-212-195-71-177.ft.lns.abo.bbox.fr".
+INFO 2014-05-23T18:34:43 supybot utilities last called by "wildfier!~wildfier@i16-lef01-ix2-212-195-71-177.ft.lns.abo.bbox.fr".
+INFO 2014-05-23T18:34:43 supybot string decode called by "wildfier!~wildfier@i16-lef01-ix2-212-195-71-177.ft.lns.abo.bbox.fr".
+INFO 2014-05-23T18:34:43 supybot apply called by "wildfier!~wildfier@i16-lef01-ix2-212-195-71-177.ft.lns.abo.bbox.fr".
+INFO 2014-05-23T18:34:43 supybot echo called by "wildfier!~wildfier@i16-lef01-ix2-212-195-71-177.ft.lns.abo.bbox.fr".
+INFO 2014-05-23T18:35:04 supybot welcome called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:35:23 supybot welcome called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:35:23 supybot echo called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:36:16 supybot config list called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:40:40 supybot config list called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:40:40 supybot help called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:40:40 supybot echo called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:40:40 supybot utilities shuffle called by "ELiDYROS!~ELiDYROS@54-95-190-109.dsl.ovh.fr".
+INFO 2014-05-23T18:40:40 supybot apply called by "ELiDYROS!~ELiDYROS@54-95-190-109.dsl.ovh.fr".
+INFO 2014-05-23T18:40:40 supybot utilities last called by "ELiDYROS!~ELiDYROS@54-95-190-109.dsl.ovh.fr".
+INFO 2014-05-23T18:40:40 supybot string decode called by "ELiDYROS!~ELiDYROS@54-95-190-109.dsl.ovh.fr".
+INFO 2014-05-23T18:40:40 supybot apply called by "ELiDYROS!~ELiDYROS@54-95-190-109.dsl.ovh.fr".
+INFO 2014-05-23T18:40:40 supybot echo called by "ELiDYROS!~ELiDYROS@54-95-190-109.dsl.ovh.fr".
+INFO 2014-05-23T18:40:40 supybot status called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:41:31 supybot utilities shuffle called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:41:31 supybot apply called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:41:31 supybot utilities last called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:41:31 supybot string decode called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:41:31 supybot apply called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:41:31 supybot echo called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:41:32 supybot ding called by "wildfier!~wildfier@i16-lef01-ix2-212-195-71-177.ft.lns.abo.bbox.fr".
+INFO 2014-05-23T18:41:32 supybot utilities shuffle called by "wildfier!~wildfier@i16-lef01-ix2-212-195-71-177.ft.lns.abo.bbox.fr".
+INFO 2014-05-23T18:41:32 supybot apply called by "wildfier!~wildfier@i16-lef01-ix2-212-195-71-177.ft.lns.abo.bbox.fr".
+INFO 2014-05-23T18:41:32 supybot utilities last called by "wildfier!~wildfier@i16-lef01-ix2-212-195-71-177.ft.lns.abo.bbox.fr".
+INFO 2014-05-23T18:41:32 supybot string decode called by "wildfier!~wildfier@i16-lef01-ix2-212-195-71-177.ft.lns.abo.bbox.fr".
+INFO 2014-05-23T18:43:08 supybot channel called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:43:29 supybot channel called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:44:01 supybot channel called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:44:32 supybot list called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:44:55 supybot help called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:55:13 supybot utilities shuffle called by "heuzef1!~Thunderbi@main.firewall-services.com".
+INFO 2014-05-23T18:55:13 supybot apply called by "heuzef1!~Thunderbi@main.firewall-services.com".
+INFO 2014-05-23T18:55:13 supybot utilities last called by "heuzef1!~Thunderbi@main.firewall-services.com".
+INFO 2014-05-23T18:55:13 supybot string decode called by "heuzef1!~Thunderbi@main.firewall-services.com".
+INFO 2014-05-23T18:55:13 supybot apply called by "heuzef1!~Thunderbi@main.firewall-services.com".
+INFO 2014-05-23T18:55:13 supybot echo called by "heuzef1!~Thunderbi@main.firewall-services.com".
+INFO 2014-05-23T18:57:45 supybot utilities shuffle called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:57:45 supybot apply called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:57:45 supybot utilities last called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:57:45 supybot string decode called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:57:45 supybot apply called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T18:57:45 supybot echo called by "adriens33!~androirc@128.20.90.92.rev.sfr.net".
+INFO 2014-05-23T19:02:32 supybot Checking for announcements at <http://feeds.feedburner.com/poneyblanc>
+INFO 2014-05-23T19:09:38 supybot utilities shuffle called by "heuzef!~Thunderbi@main.firewall-services.com".
+INFO 2014-05-23T19:09:38 supybot apply called by "heuzef!~Thunderbi@main.firewall-services.com".
+INFO 2014-05-23T19:09:38 supybot utilities last called by "heuzef!~Thunderbi@main.firewall-services.com".
+INFO 2014-05-23T19:09:38 supybot string decode called by "heuzef!~Thunderbi@main.firewall-services.com".
+INFO 2014-05-23T19:09:38 supybot apply called by "heuzef!~Thunderbi@main.firewall-services.com".
+INFO 2014-05-23T19:09:38 supybot echo called by "heuzef!~Thunderbi@main.firewall-services.com".
+INFO 2014-05-23T19:27:14 supybot ding called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T19:27:14 supybot utilities shuffle called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T19:27:14 supybot apply called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T19:27:14 supybot utilities last called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T19:27:14 supybot string decode called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T19:31:40 supybot Flushers flushed and garbage collected.
+INFO 2014-05-23T19:32:39 supybot Checking for announcements at <http://feeds.feedburner.com/poneyblanc>
+INFO 2014-05-23T19:43:56 supybot utilities shuffle called by "adriens33!~androirc@129.16.90.92.rev.sfr.net".
+INFO 2014-05-23T19:43:56 supybot apply called by "adriens33!~androirc@129.16.90.92.rev.sfr.net".
+INFO 2014-05-23T19:43:56 supybot utilities last called by "adriens33!~androirc@129.16.90.92.rev.sfr.net".
+INFO 2014-05-23T19:43:56 supybot string decode called by "adriens33!~androirc@129.16.90.92.rev.sfr.net".
+INFO 2014-05-23T19:43:56 supybot apply called by "adriens33!~androirc@129.16.90.92.rev.sfr.net".
+INFO 2014-05-23T19:43:56 supybot echo called by "adriens33!~androirc@129.16.90.92.rev.sfr.net".
+INFO 2014-05-23T19:44:33 supybot ding called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T19:44:33 supybot utilities shuffle called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T19:44:33 supybot apply called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T19:44:33 supybot utilities last called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T19:44:33 supybot string decode called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T19:45:17 supybot echo called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T19:46:30 supybot messageparser list called by "Letarumavza!Letarumavz@ABordeaux-654-1-136-226.w109-222.abo.wanadoo.fr".
+INFO 2014-05-23T19:49:14 supybot utilities shuffle called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T19:49:14 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T19:49:14 supybot utilities last called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T19:49:14 supybot string decode called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T19:49:14 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T19:49:14 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T19:51:02 supybot config list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T19:51:12 supybot config list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T19:51:18 supybot config list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T19:51:25 supybot config called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T19:58:42 supybot config called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T19:58:44 supybot config called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T19:58:55 supybot utilities shuffle called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T19:58:55 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T19:58:55 supybot utilities last called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T19:58:55 supybot string decode called by "adriens33!~arthur33@towncraft.art-software.fr".
+ERROR 2014-05-23T19:58:55 supybot Uncaught exception in ['string', 'decode'].
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1180, in _callCommand
+    self.callCommand(command, irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/utils/python.py", line 86, in g
+    f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1166, in callCommand
+    method(irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/commands.py", line 913, in newf
+    f(self, irc, msg, args, *state.args, **state.kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/plugins/String/plugin.py", line 82, in decode
+    irc.reply(text.decode(encoding).encode('utf-8'))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 9: ordinal not in range(128)
+ERROR 2014-05-23T19:58:55 supybot Exception id: 0xc37de
+INFO 2014-05-23T19:58:55 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T19:58:55 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:02:04 supybot config called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:02:12 supybot utilities shuffle called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:02:12 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:02:12 supybot utilities last called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:02:12 supybot string decode called by "adriens33!~arthur33@towncraft.art-software.fr".
+ERROR 2014-05-23T20:02:12 supybot Uncaught exception in ['string', 'decode'].
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1180, in _callCommand
+    self.callCommand(command, irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/utils/python.py", line 86, in g
+    f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1166, in callCommand
+    method(irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/commands.py", line 913, in newf
+    f(self, irc, msg, args, *state.args, **state.kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/plugins/String/plugin.py", line 82, in decode
+    irc.reply(text.decode(encoding).encode('utf-8'))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe0 in position 9: ordinal not in range(128)
+ERROR 2014-05-23T20:02:12 supybot Exception id: 0xc37de
+INFO 2014-05-23T20:02:12 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:02:12 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:02:43 supybot Checking for announcements at <http://feeds.feedburner.com/poneyblanc>
+INFO 2014-05-23T20:02:45 supybot utilities shuffle called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:02:45 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:02:45 supybot utilities last called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:02:45 supybot string decode called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:02:45 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:02:45 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:02:55 supybot utilities shuffle called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:02:55 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:02:55 supybot utilities last called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:02:55 supybot string decode called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:02:55 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:02:55 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:03:03 supybot utilities shuffle called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:03:03 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:03:03 supybot utilities last called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:03:03 supybot string decode called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:03:03 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:03:03 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:03:10 supybot utilities shuffle called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:03:10 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:03:10 supybot utilities last called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:03:10 supybot string decode called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:03:10 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:03:10 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:04:14 supybot config called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:04:19 supybot utilities shuffle called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:04:19 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:04:19 supybot utilities last called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:04:19 supybot string decode called by "adriens33!~arthur33@towncraft.art-software.fr".
+ERROR 2014-05-23T20:04:19 supybot Uncaught exception in ['string', 'decode'].
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1180, in _callCommand
+    self.callCommand(command, irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/utils/python.py", line 86, in g
+    f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1166, in callCommand
+    method(irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/commands.py", line 913, in newf
+    f(self, irc, msg, args, *state.args, **state.kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/plugins/String/plugin.py", line 82, in decode
+    irc.reply(text.decode(encoding).encode('utf-8'))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe0 in position 9: ordinal not in range(128)
+ERROR 2014-05-23T20:04:19 supybot Exception id: 0xc37de
+INFO 2014-05-23T20:04:19 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:04:19 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:04:34 supybot utilities shuffle called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:04:34 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:04:34 supybot utilities last called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:04:34 supybot string decode called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:04:34 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:04:34 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:04:44 supybot utilities shuffle called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:04:44 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:04:44 supybot utilities last called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:04:44 supybot string decode called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:04:44 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:04:44 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:05:31 supybot utilities shuffle called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:05:31 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:05:31 supybot utilities last called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:05:31 supybot string decode called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:05:31 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:05:31 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:05:37 supybot utilities shuffle called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:05:37 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:05:37 supybot utilities last called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:05:37 supybot string decode called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:05:37 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:05:37 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:05:43 supybot utilities shuffle called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:05:43 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:05:43 supybot utilities last called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:05:43 supybot string decode called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:05:43 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:05:43 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:06:07 supybot utilities shuffle called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:06:07 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:06:07 supybot utilities last called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:06:07 supybot string decode called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:06:07 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:06:07 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:06:17 supybot utilities shuffle called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:06:17 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:06:17 supybot utilities last called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:06:17 supybot string decode called by "adriens33!~arthur33@towncraft.art-software.fr".
+ERROR 2014-05-23T20:06:17 supybot Uncaught exception in ['string', 'decode'].
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1180, in _callCommand
+    self.callCommand(command, irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/utils/python.py", line 86, in g
+    f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1166, in callCommand
+    method(irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/commands.py", line 913, in newf
+    f(self, irc, msg, args, *state.args, **state.kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/plugins/String/plugin.py", line 82, in decode
+    irc.reply(text.decode(encoding).encode('utf-8'))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe0 in position 9: ordinal not in range(128)
+ERROR 2014-05-23T20:06:17 supybot Exception id: 0xc37de
+INFO 2014-05-23T20:06:17 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:06:17 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:06:42 supybot config called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:08:09 supybot utilities shuffle called by "heuzef!~Thunderbi@main.firewall-services.com".
+INFO 2014-05-23T20:08:09 supybot apply called by "heuzef!~Thunderbi@main.firewall-services.com".
+INFO 2014-05-23T20:08:09 supybot utilities last called by "heuzef!~Thunderbi@main.firewall-services.com".
+INFO 2014-05-23T20:08:09 supybot string decode called by "heuzef!~Thunderbi@main.firewall-services.com".
+INFO 2014-05-23T20:08:09 supybot apply called by "heuzef!~Thunderbi@main.firewall-services.com".
+INFO 2014-05-23T20:08:09 supybot echo called by "heuzef!~Thunderbi@main.firewall-services.com".
+INFO 2014-05-23T20:08:44 supybot config called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:09:12 supybot rss called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:09:15 supybot rss called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:09:18 supybot rss announce list called by "adriens33!~arthur33@towncraft.art-software.fr".
+ERROR 2014-05-23T20:09:18 supybot Uncaught exception in ['rss', 'announce', 'list'].
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1180, in _callCommand
+    self.callCommand(command, irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/utils/python.py", line 86, in g
+    f(self, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/callbacks.py", line 1166, in callCommand
+    method(irc, msg, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/commands.py", line 913, in newf
+    f(self, irc, msg, args, *state.args, **state.kwargs)
+  File "/usr/lib/python2.7/site-packages/supybot/plugins/RSS/plugin.py", line 338, in list
+    feeds = format('%L', list(announce.get(channel)()))
+  File "/usr/lib/python2.7/site-packages/supybot/registry.py", line 218, in get
+    return self.__getattr__(attr)
+  File "/usr/lib/python2.7/site-packages/supybot/registry.py", line 208, in __getattr__
+    return self.__makeChild(attr, str(self))
+  File "/usr/lib/python2.7/site-packages/supybot/registry.py", line 201, in __makeChild
+    self.register(attr, v)
+  File "/usr/lib/python2.7/site-packages/supybot/registry.py", line 239, in register
+    if not isValidRegistryName(name):
+  File "/usr/lib/python2.7/site-packages/supybot/registry.py", line 143, in isValidRegistryName
+    return len(name.split()) == 1 and not name.startswith('_')
+AttributeError: 'NoneType' object has no attribute 'split'
+ERROR 2014-05-23T20:09:18 supybot Exception id: 0x54744
+INFO 2014-05-23T20:09:40 supybot list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:09:49 supybot leponeyblanc called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:11:13 supybot list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:11:19 supybot rss add called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:11:38 supybot utilities shuffle called by "heuzef!~Thunderbi@main.firewall-services.com".
+INFO 2014-05-23T20:11:38 supybot apply called by "heuzef!~Thunderbi@main.firewall-services.com".
+INFO 2014-05-23T20:11:38 supybot utilities last called by "heuzef!~Thunderbi@main.firewall-services.com".
+INFO 2014-05-23T20:11:38 supybot string decode called by "heuzef!~Thunderbi@main.firewall-services.com".
+INFO 2014-05-23T20:11:38 supybot apply called by "heuzef!~Thunderbi@main.firewall-services.com".
+INFO 2014-05-23T20:11:38 supybot echo called by "heuzef!~Thunderbi@main.firewall-services.com".
+INFO 2014-05-23T20:11:39 supybot rss add called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:11:44 supybot rss announce add called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:11:51 supybot rss announce add called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:13:47 supybot list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:13:50 supybot ding called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:13:50 supybot utilities shuffle called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:13:50 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:13:50 supybot utilities last called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:13:50 supybot string decode called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:13:55 supybot welcome called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:13:55 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:13:59 supybot why called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:13:59 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:15:13 supybot utilities shuffle called by "adriens31!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:15:13 supybot apply called by "adriens31!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:15:13 supybot utilities last called by "adriens31!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:15:13 supybot string decode called by "adriens31!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:15:13 supybot apply called by "adriens31!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:15:13 supybot echo called by "adriens31!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:17:20 supybot help called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:17:24 supybot list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:17:34 supybot list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:17:46 supybot list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:17:54 supybot help called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:18:20 supybot list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:18:25 supybot list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:18:32 supybot list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:18:39 supybot help called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:18:55 supybot list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:19:11 supybot list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:19:15 supybot list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:19:45 supybot load called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:19:52 supybot list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:20:00 supybot config list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:20:10 supybot config called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:20:32 supybot list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:20:43 supybot list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:20:52 supybot admin capability add called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:21:01 supybot admin capability add called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:21:10 supybot admin capability add called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:21:14 supybot admin capability add called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:21:35 supybot admin capability add called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:21:40 supybot admin capability add called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:21:42 supybot utilities shuffle called by "sebwhooves!52420673@gateway/web/cgi-irc/kiwiirc.com/ip.82.66.6.115".
+INFO 2014-05-23T20:21:42 supybot apply called by "sebwhooves!52420673@gateway/web/cgi-irc/kiwiirc.com/ip.82.66.6.115".
+INFO 2014-05-23T20:21:42 supybot utilities last called by "sebwhooves!52420673@gateway/web/cgi-irc/kiwiirc.com/ip.82.66.6.115".
+INFO 2014-05-23T20:21:42 supybot string decode called by "sebwhooves!52420673@gateway/web/cgi-irc/kiwiirc.com/ip.82.66.6.115".
+INFO 2014-05-23T20:21:42 supybot apply called by "sebwhooves!52420673@gateway/web/cgi-irc/kiwiirc.com/ip.82.66.6.115".
+INFO 2014-05-23T20:21:42 supybot echo called by "sebwhooves!52420673@gateway/web/cgi-irc/kiwiirc.com/ip.82.66.6.115".
+INFO 2014-05-23T20:21:46 supybot admin capability add called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:22:01 supybot user register called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:22:10 supybot user hostmask add called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:22:25 supybot admin capability add called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:22:33 supybot welcome called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:22:33 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:22:49 supybot admin capability add called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:23:02 supybot admin capability add called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:23:05 supybot admin capability add called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:23:10 supybot admin capability add called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:23:13 supybot flush called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:23:35 supybot deop called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:24:43 supybot echo called by "wildfier!~wildfier@i16-lef01-ix2-212-195-71-177.ft.lns.abo.bbox.fr".
+INFO 2014-05-23T20:26:36 supybot list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:26:39 supybot list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:26:42 supybot list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:26:49 supybot list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:27:08 supybot user list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:27:19 supybot stats called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:27:23 supybot user stats called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:27:28 supybot user stats called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:28:11 supybot ding called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:28:11 supybot utilities shuffle called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:28:11 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:28:11 supybot utilities last called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:28:11 supybot string decode called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:28:30 supybot ding called by "sebwhooves!52420673@gateway/web/cgi-irc/kiwiirc.com/ip.82.66.6.115".
+INFO 2014-05-23T20:28:30 supybot utilities shuffle called by "sebwhooves!52420673@gateway/web/cgi-irc/kiwiirc.com/ip.82.66.6.115".
+INFO 2014-05-23T20:28:30 supybot apply called by "sebwhooves!52420673@gateway/web/cgi-irc/kiwiirc.com/ip.82.66.6.115".
+INFO 2014-05-23T20:28:30 supybot utilities last called by "sebwhooves!52420673@gateway/web/cgi-irc/kiwiirc.com/ip.82.66.6.115".
+INFO 2014-05-23T20:28:30 supybot string decode called by "sebwhooves!52420673@gateway/web/cgi-irc/kiwiirc.com/ip.82.66.6.115".
+INFO 2014-05-23T20:29:01 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:29:28 supybot Not replying to who, not a command.
+INFO 2014-05-23T20:29:35 supybot why called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:29:35 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:30:03 supybot voice called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:30:15 supybot voice called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:30:22 supybot voice called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:30:30 supybot voice called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:30:34 supybot voice called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:30:38 supybot voice called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:30:46 supybot utilities shuffle called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:30:46 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:30:46 supybot utilities last called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:30:46 supybot string decode called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:30:46 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:30:46 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:30:46 supybot Sending auto-op of adriens33!~arthur33@towncraft.art-software.fr in #bronycub.
+INFO 2014-05-23T20:30:56 supybot deop called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:31:41 supybot Flushers flushed and garbage collected.
+INFO 2014-05-23T20:31:45 supybot whoami called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:32:00 supybot Not replying to setdefault, not a command.
+INFO 2014-05-23T20:32:04 supybot help called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:32:11 supybot help called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:32:35 supybot voice called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:32:50 supybot Checking for announcements at <http://feeds.feedburner.com/poneyblanc>
+INFO 2014-05-23T20:37:22 supybot user called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:37:29 supybot user called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:37:37 supybot capability list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:37:42 supybot capability list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:37:57 supybot capability set called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:38:07 supybot capability set called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:38:19 supybot utilities shuffle called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:38:19 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:38:19 supybot utilities last called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:38:19 supybot string decode called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:38:19 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:38:19 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:38:19 supybot Sending auto-op of adriens33!~arthur33@towncraft.art-software.fr in #bronycub.
+INFO 2014-05-23T20:38:26 supybot deop called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:38:37 supybot capability list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:38:40 supybot capability list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:38:56 supybot ding called by "sebwhooves!52420673@gateway/web/cgi-irc/kiwiirc.com/ip.82.66.6.115".
+INFO 2014-05-23T20:38:56 supybot utilities shuffle called by "sebwhooves!52420673@gateway/web/cgi-irc/kiwiirc.com/ip.82.66.6.115".
+INFO 2014-05-23T20:38:56 supybot apply called by "sebwhooves!52420673@gateway/web/cgi-irc/kiwiirc.com/ip.82.66.6.115".
+INFO 2014-05-23T20:38:56 supybot utilities last called by "sebwhooves!52420673@gateway/web/cgi-irc/kiwiirc.com/ip.82.66.6.115".
+INFO 2014-05-23T20:38:56 supybot string decode called by "sebwhooves!52420673@gateway/web/cgi-irc/kiwiirc.com/ip.82.66.6.115".
+INFO 2014-05-23T20:38:59 supybot capability unset called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:39:04 supybot capability list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:40:48 supybot capabilities called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:41:30 supybot config list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:41:38 supybot config list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:41:41 supybot config called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:41:53 supybot config called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:41:56 supybot config called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:42:04 supybot config called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:42:27 supybot utilities shuffle called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:42:27 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:42:27 supybot utilities last called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:42:27 supybot string decode called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:42:27 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:42:27 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:42:27 supybot Sending auto-voice of adriens33!~arthur33@towncraft.art-software.fr in #bronycub.
+INFO 2014-05-23T20:43:23 supybot voice called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:43:30 supybot voice called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:43:34 supybot voice called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:43:41 supybot utilities shuffle called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:43:41 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:43:41 supybot utilities last called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:43:41 supybot string decode called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:43:41 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:43:41 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:43:41 supybot Sending auto-voice of adriens33!~arthur33@towncraft.art-software.fr in #bronycub.
+INFO 2014-05-23T20:44:16 supybot utilities shuffle called by "jeankevindu33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:44:16 supybot apply called by "jeankevindu33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:44:16 supybot utilities last called by "jeankevindu33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:44:16 supybot string decode called by "jeankevindu33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:44:16 supybot apply called by "jeankevindu33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:44:16 supybot echo called by "jeankevindu33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:46:13 supybot whoami called by "jeankevindu33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:46:41 supybot utilities shuffle called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:46:41 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:46:41 supybot utilities last called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:46:41 supybot string decode called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:46:41 supybot apply called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:46:41 supybot echo called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:46:41 supybot Sending auto-voice of adriens33!~arthur33@towncraft.art-software.fr in #bronycub.
+INFO 2014-05-23T20:47:00 supybot list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:47:06 supybot list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:47:16 supybot channel capability list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:47:19 supybot channel capability list called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:47:31 supybot channel mode called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:47:39 supybot channel mode called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:50:23 supybot channel mode called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:50:37 supybot devoice called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:50:57 supybot voice called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:51:05 supybot voice called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:52:26 supybot say called by "adriens33!~arthur33@towncraft.art-software.fr".
+INFO 2014-05-23T20:52:26 supybot Saying "You will be banished to the moon !" in #bronycub due to adriens33!~arthur33@towncraft.art-software.fr.

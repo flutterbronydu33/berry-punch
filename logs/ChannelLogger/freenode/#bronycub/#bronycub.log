@@ -1046,3 +1046,1061 @@
 2014-05-23T13:53:32  <adriens33> plus qu'à versioner
 2014-05-23T13:53:34  <adriens33> *versionner
 2014-05-23T13:53:47  <adriens33> par contre comme y'a des mdp dans le fichier de conf je vais devoir les cacher :)
+2014-05-23T14:14:08  *** Berry-Punch has joined #bronycub
+2014-05-23T14:14:08  *** ChanServ sets mode: +o Berry-Punch
+2014-05-23T14:14:09  *** ChanServ sets mode: +o Berry-Punch
+2014-05-23T14:14:11  <Berry-Punch> Oh ! Y'a quelqu'un !
+2014-05-23T14:14:17  <heuzef> Ouiiii ^^
+2014-05-23T14:14:28  <adriens33> !welcome Letarumavza
+2014-05-23T14:14:28  <Berry-Punch> Salut Letarumavza ! Bienvenue sur le chan de *hic*... de bronycub ! Amuse-toi bien *hic* !
+2014-05-23T14:14:41  <Letarumavza> Sans compter que ce que j'ai pu récupérer quelques infos sur les "cours" et les modules.
+2014-05-23T14:15:22  <Letarumavza> Et... bah... J'ai l'impression que je vais m'emmerder là-bas...
+2014-05-23T14:15:28  <Letarumavza> Et toi ça va coté boulot ?
+2014-05-23T14:15:46  <Letarumavza> (question aussi valable pour toi adrien)
+2014-05-23T14:16:07  <heuzef> Ba ouais ça roule
+2014-05-23T14:21:03  <Letarumavza> Question débile, flo, t'as un compte steam ?
+2014-05-23T14:21:43  <heuzef> oui il me semble
+2014-05-23T14:21:49  <heuzef> Si c'est le cas => heuzef
+2014-05-23T14:24:19  <Letarumavza> Trouvé !
+2014-05-23T14:29:23  <heuzef> Et donc ? ^^
+2014-05-23T14:30:40  *** Berry-Punch` has joined #bronycub
+2014-05-23T14:30:40  <Berry-Punch> Oh ! Y'a quelqu'un !
+2014-05-23T14:30:40  *** Berry-Punch has quit IRC
+2014-05-23T14:30:40  *** Berry-Punch` has joined #bronycub
+2014-05-23T14:30:40  <Berry-Punch> Oh ! Y'a quelqu'un !
+2014-05-23T14:30:40  *** Berry-Punch has quit IRC
+2014-05-23T14:30:41  *** Berry-Punch` is now known as Berry-Punch
+2014-05-23T14:30:42  *** ChanServ sets mode: +o Berry-Punch
+2014-05-23T14:30:43  *** ChanServ sets mode: +o Berry-Punch
+2014-05-23T14:30:45  <Berry-Punch> Tu veux un verre Berry-Punch` ?
+2014-05-23T14:30:49  *** Berry-Punch` has joined #bronycub
+2014-05-23T14:30:49  <Berry-Punch> Oh ! Y'a quelqu'un !
+2014-05-23T14:30:49  *** Berry-Punch has quit IRC
+2014-05-23T14:30:49  *** Berry-Punch` has joined #bronycub
+2014-05-23T14:30:49  <Berry-Punch> Oh ! Y'a quelqu'un !
+2014-05-23T14:30:49  *** Berry-Punch has quit IRC
+2014-05-23T14:30:50  *** Berry-Punch` is now known as Berry-Punch
+2014-05-23T14:30:51  *** ChanServ sets mode: +o Berry-Punch
+2014-05-23T14:30:52  *** ChanServ sets mode: +o Berry-Punch
+2014-05-23T14:30:54  <Berry-Punch> Tu veux un verre Berry-Punch` ?
+2014-05-23T14:30:58  *** Berry-Punch` has joined #bronycub
+2014-05-23T14:30:58  <Berry-Punch> Salut *hic* Berry-Punch` !
+2014-05-23T14:30:58  *** Berry-Punch has quit IRC
+2014-05-23T14:30:58  *** Berry-Punch` has joined #bronycub
+2014-05-23T14:30:58  *** Berry-Punch has quit IRC
+2014-05-23T14:30:59  *** Berry-Punch` is now known as Berry-Punch
+2014-05-23T14:31:07  *** Berry-Punch has joined #bronycub
+2014-05-23T14:31:07  *** ChanServ sets mode: +o Berry-Punch
+2014-05-23T14:31:08  *** ChanServ sets mode: +o Berry-Punch
+2014-05-23T14:31:12  <Berry-Punch> Ooh *hic... Ca fait longtemps qu'on s'est pas vus Berry-Punch !
+2014-05-23T14:31:44  *** Berry-Punch has joined #bronycub
+2014-05-23T14:31:44  *** ChanServ sets mode: +o Berry-Punch
+2014-05-23T14:31:45  *** ChanServ sets mode: +o Berry-Punch
+2014-05-23T14:31:47  <Berry-Punch> Tu veux un verre Berry-Punch ?
+2014-05-23T14:31:58  <adriens33> ok je l'avais relancée en double --"
+2014-05-23T14:32:08  <adriens33> heuzef: t'as reçu mon e-mail ?
+2014-05-23T14:34:25  <Letarumavza> Tentative d'annimer le canal en faisant discuter des bots entre eux ? ^^
+2014-05-23T14:34:41  <adriens33> non, juste moi qui suis pas doué xD
+2014-05-23T14:35:01  <adriens33> ou alors c'est berry punch qui a trop bu ?
+2014-05-23T14:35:01  <Berry-Punch> Non c'est pas *hic* vrai !
+2014-05-23T14:35:43  <heuzef> ^^
+2014-05-23T14:35:47  <heuzef> Oui j'ai bien reçu
+2014-05-23T14:35:49  <heuzef> Merci
+2014-05-23T14:35:54  <heuzef> Je tenterais ça à l'occas
+2014-05-23T14:37:13  <Letarumavza> Tu l'as script comment ton bot ?
+2014-05-23T14:39:56  <adriens33> c'est un bot déjà fait en python
+2014-05-23T14:40:07  <adriens33> t'as des plugins divers et variés que tu peux conf
+2014-05-23T14:40:14  <adriens33> et éventuellement ajouter des plugins
+2014-05-23T14:40:28  <adriens33> je pense que je ferai ça, ça sera une excellente occase pour me mettre au python
+2014-05-23T14:42:04  <Letarumavza> Tu comptes t'attaquer à du python 3.3 ou 2.7 ?
+2014-05-23T14:42:25  <adriens33> bah supybot est en python2
+2014-05-23T14:42:36  <adriens33> donc python 3 c'est pas pour tout de suite :/
+2014-05-23T14:42:57  <Letarumavza> J'ai une préférence pour le Python 3 perso.
+2014-05-23T14:43:11  <Letarumavza> La syntaxe est un poil plus stricte, mais l'exécution est plus rapide.
+2014-05-23T14:43:11  <adriens33> Y'a quoi comme changements ?
+2014-05-23T14:43:18  <adriens33> ah ok
+2014-05-23T14:43:49  <adriens33> ah propos @heuzef sur le serveur, le bot tourne dans une instance de tmux
+2014-05-23T14:43:59  <heuzef> tmux = ?
+2014-05-23T14:44:00  <adriens33> pour récupérer c'est tmux a -t ircbot
+2014-05-23T14:44:06  <adriens33> tu connais GNU Screen ?
+2014-05-23T14:44:31  <Letarumavza> Un GNU c'est pas une sorte de bovidé africain ?
+2014-05-23T14:44:36  <adriens33> --"
+2014-05-23T14:44:36  * Letarumavza se cache.
+2014-05-23T14:44:46  <adriens33> tmux c'est un terminal multiplexer
+2014-05-23T14:44:56  <adriens33> en gros comme un émulateur de terminal, mais en console
+2014-05-23T14:45:02  <adriens33> du coup tu peux lancer des trucs dedans
+2014-05-23T14:45:05  <adriens33> détacher la console
+2014-05-23T14:45:07  <adriens33> te barrer
+2014-05-23T14:45:09  <adriens33> revenir
+2014-05-23T14:45:12  <adriens33> réattacher la console
+2014-05-23T14:45:14  <Letarumavza> Beurk, encore un truc de linuxien.
+2014-05-23T14:45:15  <adriens33> ça tourne toujours
+2014-05-23T14:45:23  <adriens33> bah en attendant c'est méga pratique
+2014-05-23T14:46:15  <heuzef> ok mais quel avantage d'utiliser ça à la place d'un simple deamon ?
+2014-05-23T14:46:45  <heuzef> Tu lance ton process en BG ça revient au même non ?
+2014-05-23T14:46:47  <Letarumavza> Ou d'en faire un simple exécutable (en python c'est plutot facile)
+2014-05-23T14:47:32  <adriens33> non
+2014-05-23T14:47:37  <adriens33> parce que là il est pas en bg
+2014-05-23T14:47:44  <adriens33> je peux le rattacher directement
+2014-05-23T14:47:55  <adriens33> et tu peux ouvrir plusieurs fenêtres
+2014-05-23T14:48:02  <adriens33> ça évite d'avoir à se connecter x fois au serveur
+2014-05-23T14:48:24  <adriens33> pour attacher la console c'est tmux a -t ircbot
+2014-05-23T14:48:36  <adriens33> quand t'es dedans poru en sortir c'est Ctrl-B → d
+2014-05-23T14:48:43  <adriens33> c'est tout :)
+2014-05-23T14:49:06  <adriens33> au pire je te fais des scripts qui feront ça tout seuls
+2014-05-23T14:49:26  <Letarumavza> Perso j'aurai rendu le truc exécutable en préchargant les paramètres de log.
+2014-05-23T14:49:47  <adriens33> quewa ?
+2014-05-23T14:50:39  <Letarumavza> Tu as un module pour python dédié à irc.
+2014-05-23T14:51:25  <Letarumavza> Donc tu peux facilement créer un prog qui se logera au canal pour intéragir avec.
+2014-05-23T14:51:56  <adriens33> mais je commprends pas ce que tu veux dire en fairt
+2014-05-23T14:51:58  <adriens33> *fai
+2014-05-23T14:52:00  <adriens33> *fait
+2014-05-23T14:52:25  <adriens33> tu veux créer un bot en python à partir de 0 ?
+2014-05-23T14:52:32  <adriens33> y'a pas besoin, là
+2014-05-23T14:53:12  <Letarumavza> Bah c'est toi qui a dit que tu ferais peut-être ça pour te mettre au python.
+2014-05-23T14:53:54  <adriens33> nan, je disais que après je ferais sans doute des plugins pour supybot pour me faire la main
+2014-05-23T14:54:05  <adriens33> il fait pas que juste répondre
+2014-05-23T14:54:16  <adriens33> il permet tout ce qui est gestion du canal/des users
+2014-05-23T14:54:29  <adriens33> je vais pas m'embêter à recoder tout ça alors que ça existe déjà :)
+2014-05-23T14:54:56  <Letarumavza> Ah ok.
+2014-05-23T14:55:37  <Letarumavza> Je pensais que tu voulais coder un bot complet, étant donné l'api dispo pour IRC ça me paraissait pas surprenant.
+2014-05-23T14:56:00  <adriens33> ah
+2014-05-23T14:56:03  <adriens33> pourquoi pas…
+2014-05-23T15:01:08  <Letarumavza> La dernière fois que j'ai codé ce genre de choses c'était pour hydrairc, et ça date de 2007, l'api a du être améliorée depuis.
+2014-05-23T15:02:31  <adriens33> ^^
+2014-05-23T15:02:36  <adriens33> oh la blague
+2014-05-23T15:02:53  <adriens33> je viens d'apprendre que j'ai 24 jours de congés à poser avant fin août (fin de mon contrat)
+2014-05-23T15:02:56  <adriens33> c'est bon ça
+2014-05-23T15:05:53  <heuzef> ^^
+2014-05-23T15:14:40  * Berry-Punch s'endort
+2014-05-23T15:18:57  <heuzef> Berry-Punch ?
+2014-05-23T15:18:57  <Berry-Punch> heuzef: Oui *hic* ?
+2014-05-23T15:19:10  <heuzef> Tu ronfle ^^
+2014-05-23T15:31:42  *** Gordfang has joined #bronycub
+2014-05-23T15:31:42  <Berry-Punch> Tu veux un verre Gordfang ?
+2014-05-23T15:31:53  <Gordfang> re les gens
+2014-05-23T15:33:14  <adriens33> re
+2014-05-23T15:38:10  <Letarumavza> salut
+2014-05-23T15:38:37  *** Gordfang has quit IRC
+2014-05-23T15:42:39  <Letarumavza> Ah bah c'était un passage express ^^
+2014-05-23T15:43:11  <heuzef> :P
+2014-05-23T15:44:38  <Letarumavza> Tien, je suis entrain de regarder deux trois trucs coté minecraft
+2014-05-23T15:46:24  <adriens33> du genre ?
+2014-05-23T15:46:39  <Letarumavza> Du genre les packs préconfigurés sous forge.
+2014-05-23T15:46:54  <Letarumavza> Forge est opensource, pas bukkit.
+2014-05-23T15:49:03  <heuzef> Quoi qu'il en soit, on à plein de gens calé sur MC et on est pas foutu de trouver LE pigeons qui va relever les manches pour s'en occuper
+2014-05-23T15:49:13  *** Gordfang has joined #bronycub
+2014-05-23T15:49:13  <Berry-Punch> Ooh *hic... Ca fait longtemps qu'on s'est pas vus Gordfang !
+2014-05-23T15:49:25  <heuzef> Tous ce que je veux c'est un truc fonctionnel qu'on puisse joindre sur le domaine bronycub.org
+2014-05-23T15:49:44  <heuzef> Gordfang: ça parle Minecraft si tu veux savoir ^^
+2014-05-23T15:50:27  <Gordfang> k
+2014-05-23T15:50:39  <Gordfang> d'ailleur on en est ou de ca?
+2014-05-23T15:50:39  <adriens33> bah moi je veux bien :)
+2014-05-23T15:50:51  <Letarumavza> Bah je veux bien m'en charger
+2014-05-23T15:50:56  <Gordfang> il marche?
+2014-05-23T15:51:01  <adriens33> oui et non
+2014-05-23T15:51:06  <Letarumavza> Mais le truc c'est que j'ai pas trop le temps
+2014-05-23T15:51:07  <adriens33> si t'es tout seul oui
+2014-05-23T15:51:14  <Letarumavza> Non il marche pas du tout là ^^
+2014-05-23T15:51:17  <adriens33> si un deuxième péon se connecte ça crashe
+2014-05-23T15:51:29  <Gordfang> XD
+2014-05-23T15:51:47  <adriens33> ce qui, pour un serveur multijoueur limite sérieusement son intérêt.
+2014-05-23T15:52:04  <Letarumavza> Le gros problème lié au passage sous forge, c'est que j'ai un prepack disponible, mais c'est du 1.5.2
+2014-05-23T15:52:18  <heuzef> adriens33: tu es déjà responsable de l'IRC, on doit déléguer un max rappel toi
+2014-05-23T15:52:36  <heuzef> Letarumavza: ne semble lui pas avoir assez de temps
+2014-05-23T15:52:47  <heuzef> Lezarius et Ragator on déjà fait assez de merde
+2014-05-23T15:52:54  <heuzef> C'est pas gagner
+2014-05-23T15:53:04  <adriens33> mouais
+2014-05-23T15:53:18  <adriens33> après irc+mc c'est pas forcément super lourd non plus
+2014-05-23T15:53:24  <Letarumavza> Hum...
+2014-05-23T15:53:28  <Letarumavza> irc ça va...
+2014-05-23T15:53:29  <adriens33> surtout que vous avez pas 15 mille plugins ici ^^
+2014-05-23T15:53:33  <Letarumavza> MC c'est... autre chose...
+2014-05-23T15:53:43  <heuzef> Ouais mais si tu pouvais te concentrer à 200% sur l'IRC ça serais pas du luxe ;)
+2014-05-23T15:54:00  <Letarumavza> Le mieux reste encore de passer sur un pack pré-configuré et déjà testé (et stable)
+2014-05-23T15:54:18  <adriens33> et si possible avec un backup de la map
+2014-05-23T15:54:28  <Letarumavza> Le problème c'est la 1.7.2
+2014-05-23T15:54:29  <heuzef> Letarumavza: t'es sur que t'as pas le temps de gérer le MC ? Tu semble pourtant bien opé la dessus :(
+2014-05-23T15:54:47  <heuzef> Y'a déjà un script de backup bien branlé (codé par mes soins)
+2014-05-23T15:54:54  <Gordfang> en gros vous voulez créer un serveur sur une de nos machine?
+2014-05-23T15:55:19  <heuzef> Non sur un serveur qui envoie du paté de preférence
+2014-05-23T15:55:40  <Letarumavza> Bah le problème c'est la création de mon site et le fait que j'ai pas ma machine encore.
+2014-05-23T15:55:54  <Letarumavza> (Je vais avoir ma nouvelle bête sous peu)
+2014-05-23T15:56:26  <heuzef> Je demande pas non plus le bass canon de vinyl en puissance, ceci pour Minecraft mon dédié ne suffit pas ... (2Go de Ram avec Atom)
+2014-05-23T15:56:31  <Letarumavza> Après, une fois que l'interface du site et ses fonctions seront codé, je serai dispo en attendant que la database soit faite.
+2014-05-23T15:56:35  <Letarumavza> Eux...
+2014-05-23T15:56:38  <Letarumavza> euxh*
+2014-05-23T15:56:46  <Letarumavza> Je vous dis ma nouvelle config ?
+2014-05-23T15:57:31  <Letarumavza> I7 4960K, 64GB RAM, 1TO SSD, 2TO HDD (7200rpm), et Gtx Titan black x2 (en SLI)
+2014-05-23T15:57:40  <adriens33> awé
+2014-05-23T15:57:40  <Letarumavza> Mais j'ai une connexion à chier ^^'
+2014-05-23T15:58:12  <heuzef> Arg .....
+2014-05-23T15:58:33  <Letarumavza> 20 Tflops de puissance brute
+2014-05-23T15:58:37  <heuzef> !do vide sa bouteille
+2014-05-23T15:58:37  * Berry-Punch vide sa bouteille
+2014-05-23T15:58:55  <adriens33> @heuzef avec un /msg Berry-Punch ça serait mieux ^^
+2014-05-23T15:58:55  <Berry-Punch> adriens33: Qui veut un *hic* verre ?
+2014-05-23T15:59:17  * Berry-Punch en cherche une autre
+2014-05-23T15:59:58  <Letarumavza> Bah flo, t'es au courrant que je fais de la crypto et de l'IA, non ?
+2014-05-23T16:00:46  <Letarumavza> M'enfion ceci dit j'ai commandé ma machine y'a un mois, j'ai toujours pas reçu ma RAM...
+2014-05-23T16:01:01  <heuzef> je file
+2014-05-23T16:01:05  <Letarumavza> ++
+2014-05-23T16:01:17  <adriens33> !bye heuzef
+2014-05-23T16:01:17  <Berry-Punch> Tchao heuzef !
+2014-05-23T16:01:19  <heuzef> Letarumavza: refléchis bien à cette proposition
+2014-05-23T16:01:27  <heuzef> On en reparle
+2014-05-23T16:01:42  *** heuzef has quit IRC
+2014-05-23T16:01:49  <Letarumavza> Remarque...
+2014-05-23T16:01:50  *** Gordfang has quit IRC
+2014-05-23T16:02:05  <Letarumavza> Flo sait coder en html+css non ?
+2014-05-23T16:02:29  <adriens33> sans doute, le site c'est lui ^^
+2014-05-23T16:05:13  <Letarumavza> Hum... Dans ce cas je vais voir avec lui si il peut se charger d'une part de l'interface de mon site, ça devrait me permettre de dégager le temps nécéssaire à se charger du serveur MC.
+2014-05-23T16:05:33  <Letarumavza> Il a bien plus la main que moi en html je pense.
+2014-05-23T16:06:37  <Letarumavza> Moi je fais plus partie des trucs collés à un pc dont on pige un mot sur six et qui sont capable de faire des trucs qu'on comprend pas en un temps ultra rapide sans être capables de faire quelque chose simplement. (du moins, c'est ce à quoi cela doit ressembler de l'extérieur)
+2014-05-23T16:08:11  <adriens33> ^^
+2014-05-23T16:10:11  <adriens33> miam, j'adore les sites en asp.net pour lesquels il faut prendre un congé pour afficher une page.
+2014-05-23T16:10:24  <adriens33> surtout quand le site en question… c'est le site pour poser ses congés
+2014-05-23T16:24:33  <Letarumavza> LOOOOOOL
+2014-05-23T16:24:38  <Letarumavza> désolé, réflexe.
+2014-05-23T16:32:20  <adriens33> :p
+2014-05-23T16:34:22  <Letarumavza> Bon je file sur LoL moi.
+2014-05-23T16:35:47  <adriens33> amuse toi bien :)
+2014-05-23T16:58:06  *** heuzef has joined #bronycub
+2014-05-23T16:58:06  <Berry-Punch> Salut *hic* heuzef !
+2014-05-23T16:58:12  <heuzef> Re
+2014-05-23T16:58:40  <heuzef> Letarumavza: alors tu as réfléchit ? ^^
+2014-05-23T16:59:44  <Letarumavza> gné, euh ouaip, dès que j'ai ma new machine je devrais pouvoir m'y atteler, ceci dit, j'aurai besoin de ton aide concernant mon site pour me libérer un peu de temps pour le serveur MC
+2014-05-23T17:00:00  <Letarumavza> Y'a juste deux trois templates à faire et une page d'acceuil.
+2014-05-23T17:00:10  <heuzef> Hmmm
+2014-05-23T17:00:27  <heuzef> J'ai quelque chose qui devrais te plaire
+2014-05-23T17:00:43  <Letarumavza> Le truc c'est : Html 5, W3C
+2014-05-23T17:01:02  <Letarumavza> Mais bon, je sais que tu codes déjà de manière propre donc ça va ^^
+2014-05-23T17:01:15  <heuzef> Voici un accès aux catalogue de ma collection de template
+2014-05-23T17:01:18  <heuzef> https://icebergs.com/p?531212699598f
+2014-05-23T17:01:38  <heuzef> Si l'un d'eux te plaît, il est à toi, gratos
+2014-05-23T17:01:58  <Letarumavza> Génial !
+2014-05-23T17:02:07  <Letarumavza> Punaise tu me fais économiser un temps fou
+2014-05-23T17:02:23  <heuzef> ;)
+2014-05-23T17:02:40  <Letarumavza> Bon, dans ce cas je m'atelle tout de suite à faire un comparatif des solutions pour MC, mais je pourrais pas setup avant d'avoir ma nouvelle machine.
+2014-05-23T17:03:00  <Letarumavza> (en ce moment je me tape des BSOD à répétition et j'ai pas envie de perdre de données... pas encore...)
+2014-05-23T17:03:07  <heuzef> La question technique que je ne suis pas capable de répondre actuellement
+2014-05-23T17:03:18  <heuzef> C'est concernant le NDD bronycb.org
+2014-05-23T17:03:31  <Letarumavza> C'est à dire ?
+2014-05-23T17:03:50  <heuzef> C'est possible de faire pointer avec le port sur un autre serveur pour qu'on puisse se connecter avec le même domaine ?
+2014-05-23T17:04:08  <heuzef> Les gens se connect actuellement avec bronycub.org port par defaut
+2014-05-23T17:04:28  <heuzef> Je tiens à ce que ça ne change pas si on doit migrer sur un serv plus puissant
+2014-05-23T17:04:43  <Letarumavza> Je ne pense pas, mais c'est possible de faire une redirection automatique d'un flux arrivant sur un port défini.
+2014-05-23T17:05:00  <Letarumavza> ...
+2014-05-23T17:05:05  <heuzef> Donc c'est possible ?
+2014-05-23T17:05:10  <Letarumavza> Bah oui.
+2014-05-23T17:05:20  <heuzef> Evidement, mais je n'ai jamais fait ça
+2014-05-23T17:05:25  <adriens33> au fait Letarumavza
+2014-05-23T17:05:30  <adriens33> bukkit c'est opensource
+2014-05-23T17:05:31  <heuzef> Cependant cela m'intresse beaucoup
+2014-05-23T17:05:32  <adriens33> https://github.com/Bukkit/CraftBukkit
+2014-05-23T17:05:46  <Letarumavza> Ah, ils l'étaient pas au début adri
+2014-05-23T17:05:49  <adriens33> (désolé j'arrive comme un cheveu sur la soupe :p)
+2014-05-23T17:05:57  <Letarumavza> merci de me mettre au courrant
+2014-05-23T17:06:12  <adriens33> ^^
+2014-05-23T17:06:38  <Letarumavza> Concernant la redirection ça marche comme un proxy
+2014-05-23T17:07:19  <Letarumavza> C'est pas ultra dur à setup il me semble, ceci dit, j'ai jamais fait pour l'instant.
+2014-05-23T17:07:26  <heuzef> Letarumavza: la manip demande à ce que je modifie la zone du NDD alors ?
+2014-05-23T17:07:43  <Letarumavza> en fait c'est plus simple que ça
+2014-05-23T17:08:11  <adriens33> ça serait pas du NAT que tu cherches par hasard ?
+2014-05-23T17:08:52  <Letarumavza> Lorsque du envoies la requette "bronycub.org" tu es ramené sur le serveur de bronycub, si tu envoies "bronycub.org:<port en question>" tu es ramené vers le serveur bronycub, qui à son tour te reroute vers le serveur final.
+2014-05-23T17:09:08  <Letarumavza> C'est une simple redirection.
+2014-05-23T17:09:44  <Letarumavza> C'est même très souvent utilisé en pishing.
+2014-05-23T17:09:53  <heuzef> J'aimerais que le client n'indique que bronycub.org, pas de port
+2014-05-23T17:10:22  <Letarumavza> Hum...
+2014-05-23T17:10:45  <Letarumavza> Tu veux qu'on se connecte via le client MC sans indiquer le port ?
+2014-05-23T17:10:47  <adriens33> si tu n'indique pas de port, ça prend le 25565 par défaut il me semble
+2014-05-23T17:10:58  <adriens33> donc il suffit de faire la redirection sur le port 25565
+2014-05-23T17:11:05  <Letarumavza> Pas forcément, j'ai le 8800 par défaut.
+2014-05-23T17:11:26  <heuzef> 25565 je confirme
+2014-05-23T17:11:33  <Letarumavza> Pas mal de firewall ont tendance à changer le port par défaut de minecraft pour le grouper avec d'autres protocoles.
+2014-05-23T17:11:43  <Letarumavza> Comodo fait ça par exemple.
+2014-05-23T17:11:53  <adriens33> gné ?
+2014-05-23T17:12:08  <Letarumavza> Woops, désolé, je dors à moitié.
+2014-05-23T17:12:18  <Letarumavza> Je pensais au port de sortie, pas d'entrée ^^'
+2014-05-23T17:12:26  <adriens33> ^^
+2014-05-23T17:12:45  <adriens33> le port de sortie il est random normalement non ?
+2014-05-23T17:12:50  <Letarumavza> Ceci dit, bien pensé le client IRC intégré au site, ça devrait être plutot simple.
+2014-05-23T17:13:10  <Letarumavza> Bah il est configurable.
+2014-05-23T17:13:41  <heuzef> Quand le serveur MC sera opé j'aurais une mission de la mort a vous confier en combo adriens33 / Letarumavza
+2014-05-23T17:13:52  <Letarumavza> ?
+2014-05-23T17:13:58  <Letarumavza> Cramer une forêt ?
+2014-05-23T17:14:00  <heuzef> Synchronisation du client IRC avec le tchat MC
+2014-05-23T17:14:04  <adriens33> heuuu
+2014-05-23T17:14:06  <Letarumavza> Super facile
+2014-05-23T17:14:16  <Letarumavza> Y'a un mod via forge qui le fait
+2014-05-23T17:14:20  <adriens33> ah ^^
+2014-05-23T17:14:24  <heuzef> ^^
+2014-05-23T17:14:25  <adriens33> s'il y a un plugin poru ça
+2014-05-23T17:14:28  <adriens33> *pour
+2014-05-23T17:14:30  <Letarumavza> Je peux même syncro twiter.
+2014-05-23T17:14:47  <heuzef> Ouais enfin perso je suis pas trop fan des plugin, moins y'en à plus c'est stable
+2014-05-23T17:14:55  <Letarumavza> Pas vraiment.
+2014-05-23T17:15:09  <Letarumavza> Forge est une api, donc peu de conflits
+2014-05-23T17:15:25  <Letarumavza> Et là on partirait sur un pack de plugins pré-testé qui plus est.
+2014-05-23T17:15:35  <heuzef> On peux tricher en passant les logs de MC et en injectant ça sur IRC via Berry-Punch par exemple ^^
+2014-05-23T17:15:35  <Berry-Punch> heuzef: Qui veut un *hic* verre ?
+2014-05-23T17:16:01  <adriens33> sinon y'a plein de plugins pour faire ça sur bukkit
+2014-05-23T17:16:03  <adriens33> http://plugins.bukkit.org/?q=IRC&category=None
+2014-05-23T17:16:03  <Letarumavza> Tu devrais faire répondre Berry-Punch à Berry
+2014-05-23T17:16:03  <Berry-Punch> Letarumavza: Oui *hic* ?
+2014-05-23T17:16:10  <Letarumavza> ça serait encore plus drole. ^^
+2014-05-23T17:16:13  <adriens33> faut voir
+2014-05-23T17:16:22  <heuzef> Enfin ceci dis la synchronisation avec les Réseaux Sociaux ça peux être très sexy aussi
+2014-05-23T17:16:42  <Letarumavza> Y'a la version intégrée au gameplay (computercraft)
+2014-05-23T17:17:33  <adriens33> ça nécessite un mod client ça non ?
+2014-05-23T17:17:34  <Letarumavza> Ou des versions intégrées à l'UI, mais j'ai pas le nom en tête.
+2014-05-23T17:17:55  <adriens33> parce que autan les plugins serveur ça va, sur bukkit généralement c'est assez stable
+2014-05-23T17:18:09  <adriens33> par contre dès qu'il faut un mod client ça devient plus risqué
+2014-05-23T17:18:19  <adriens33> et du coup faut un mc patché pour que ça march
+2014-05-23T17:18:21  <adriens33> *marche
+2014-05-23T17:18:30  <Letarumavza> Oui et non, si tu utilises un plugin, pas besoin du client mod.
+2014-05-23T17:18:45  <adriens33> ben les plugins qui ajoutent des blocs par exemple t'as psa trop le choix ^^
+2014-05-23T17:18:48  <Letarumavza> Après, rien n'empèche de passer sur un client avec un modpack stable, comme celui de brohoof.
+2014-05-23T17:19:02  <heuzef> Letarumavza:
+2014-05-23T17:19:08  <Letarumavza> ?
+2014-05-23T17:19:29  <heuzef> Que tu fasse joujou à mort avec le Serv MC ok c'est hyper cool et ça va animer et dynamiser le machin
+2014-05-23T17:19:41  <heuzef> Mais attention à toujours garder un truc stable en prod
+2014-05-23T17:20:08  <heuzef> J'ai plus envie de revivre le bide monumentale du serveur MC actuel
+2014-05-23T17:20:25  <Letarumavza> Hey, je ne me permettrait pas de faire un taf de merde.
+2014-05-23T17:20:33  <Letarumavza> C'est pas dans mes habitudes.
+2014-05-23T17:20:51  <heuzef> Il nous faux un truc en béton, sutout si on interagie après avec plein d'autre services : Réseaux Sociaux, IRC, Site, ...
+2014-05-23T17:20:55  <adriens33> berry ?
+2014-05-23T17:21:00  <adriens33> Berry Punch
+2014-05-23T17:21:00  <Berry-Punch> adriens33: Qui veut un *hic* verre ?
+2014-05-23T17:21:05  <adriens33> Berry
+2014-05-23T17:21:07  <adriens33> shit
+2014-05-23T17:21:36  <Letarumavza> Justment, c'est pour ça que j'ai tendance à privilégier un pack déjà testé et fonctionel.
+2014-05-23T17:21:53  <adriens33> Berry ?
+2014-05-23T17:21:58  <Letarumavza> ça fait pas mal de temps que je suis en lien avec la commu feed the beast.
+2014-05-23T17:22:06  <heuzef> Plus ça va et plus je pense qu'on va fatalement passer sur une BDD pour le site
+2014-05-23T17:22:11  <adriens33> berry punch
+2014-05-23T17:22:11  <Berry-Punch> adriens33: Qui me *hic* parle ?
+2014-05-23T17:22:14  <adriens33> berry-punch
+2014-05-23T17:22:14  <Berry-Punch> adriens33: Oui *hic* ?
+2014-05-23T17:22:26  <adriens33> berry
+2014-05-23T17:22:29  <adriens33> Berry
+2014-05-23T17:22:41  <Letarumavza> Au fait, tu lui a défini un sexe à ce bot ?
+2014-05-23T17:22:43  <adriens33> Berry
+2014-05-23T17:22:43  <Berry-Punch> adriens33: Oui *hic* ?
+2014-05-23T17:22:56  <heuzef> Je souhaiterais également qu'on synchronise automatiquement les pseudos des membres avec la white-list MC
+2014-05-23T17:23:07  <Letarumavza> euh...
+2014-05-23T17:23:13  <adriens33> ben berry punch c'est *une* pony nan ?
+2014-05-23T17:23:13  <Berry-Punch> adriens33: Qui veut un *hic* verre ?
+2014-05-23T17:23:25  <Letarumavza> ça nécéssite qu'ils usent du même pseudo sur bronycub et MC
+2014-05-23T17:23:28  <adriens33> vais manger
+2014-05-23T17:23:28  <Berry-Punch> bon appétit *hic*
+2014-05-23T17:23:30  <adriens33> yay
+2014-05-23T17:23:33  <Letarumavza> gg
+2014-05-23T17:23:50  <heuzef> http://fr.mlp.wikia.com/wiki/Berryshine
+2014-05-23T17:23:50  <Berry-Punch> heuzef: Qui veut un *hic* verre ?
+2014-05-23T17:24:12  <heuzef> C'est le but, c'est pour ça que je fait chier tous le monde avec Gravatar
+2014-05-23T17:24:21  <Letarumavza> ...
+2014-05-23T17:24:28  <heuzef> Y'a des infos très sympa à exploiter avec ce service
+2014-05-23T17:24:29  <Letarumavza> T'es chiant avec le Gravatar
+2014-05-23T17:24:43  <Letarumavza> Bon t'as raison
+2014-05-23T17:24:47  <heuzef> http://fr.gravatar.com/heuzef.xml
+2014-05-23T17:24:49  <Letarumavza> Mais c'est quand même chiant ^^
+2014-05-23T17:24:58  <heuzef> Je sais mais bon
+2014-05-23T17:25:01  <heuzef> ^^
+2014-05-23T17:25:48  <Letarumavza> Bon, ceci dit on va pas pouvoir passer aux choses sérieuses tant que j'ai pas ma nouvelle machine (fuck les retards)
+2014-05-23T17:25:52  <adriens33> bah sur la partie php tu maintiens la liste des users dans un fichier texte
+2014-05-23T17:26:17  <adriens33> et du coté du serv mc un script qui tourne et quand il voit un nouvel user il modifie les fichiers de conf
+2014-05-23T17:26:26  <adriens33> (c'est le plus simple que je voieà
+2014-05-23T17:26:28  <adriens33> *)
+2014-05-23T17:26:35  <Letarumavza> J'ai commandé les pieces le 19 avril... La ram est toujours pas arrivé, à croire qu'elle vient à pieds...
+2014-05-23T17:26:39  * Letarumavza râle.
+2014-05-23T17:26:47  <adriens33> ou un plugin minecraft qui look le fichier de la liste des users
+2014-05-23T17:27:03  <adriens33> par contre pour le nick sur minecraft faut le préciser
+2014-05-23T17:27:08  <adriens33> vu qu'on ne *peut pas* le changer…
+2014-05-23T17:27:17  <Letarumavza> Euh...
+2014-05-23T17:27:19  <adriens33> et que les gens n'ont pas forcément le même
+2014-05-23T17:27:22  <adriens33> (genre moi)
+2014-05-23T17:27:28  <Letarumavza> Bientôt si (à la sortie de la 1.8 il me semble)
+2014-05-23T17:27:38  <adriens33> ben le nick sur un serveur donné oui
+2014-05-23T17:27:49  <adriens33> mais pas du coté des serveurs d'authentification chez mojang
+2014-05-23T17:27:51  <Letarumavza> Pour le script de reconaissance, je pensais un lancement auto au reboot + un appel possible.
+2014-05-23T17:27:55  <adriens33> c'est ton ID
+2014-05-23T17:28:10  <adriens33> le seul moyen d'en changer c'est d'acheter un autre compte :)
+2014-05-23T17:28:21  <adriens33> (pour le coup c'est mal fait ça…=)
+2014-05-23T17:28:22  <Letarumavza> Bah apparement ça va devenir possible de changer ton nom de compte
+2014-05-23T17:28:26  <adriens33> ah
+2014-05-23T17:28:35  <Letarumavza> Il me semble que jeb a laché ça sur reddit y'a un mois
+2014-05-23T17:28:37  <Letarumavza> approx
+2014-05-23T17:29:03  <Letarumavza> Entre deux salades de billets de notch ^^
+2014-05-23T17:29:19  * Letarumavza est un troll.
+2014-05-23T17:30:09  <Letarumavza> Bon, ceci dit, niveau traveaux préliminaire, au niveau du cuboidage et de la protection de zones, on protège le spawn, ou pas ?
+2014-05-23T17:30:26  <Berry-Punch> attention aux trolls, Letarumavza…
+2014-05-23T17:30:27  <heuzef> D'ailleurs adriens33 un truc qui serait cool c'est de trouver une solution pour obliger les gens à utiliser leur vrais pseudo unique sur l'IRC
+2014-05-23T17:30:40  <adriens33> ben chaque nouvel arrivant
+2014-05-23T17:30:48  <heuzef> Letarumavza demande à Letarumavza pour ça, c'est lui qui gère ça
+2014-05-23T17:30:53  <heuzef> ;)
+2014-05-23T17:30:53  <adriens33> on le donne à berry
+2014-05-23T17:30:53  <Berry-Punch> adriens33: Qui veut un *hic* verre ?
+2014-05-23T17:31:01  <adriens33> et tous les inconnus elle les kick :p
+2014-05-23T17:31:19  <Letarumavza> C'est un peuv iolent...
+2014-05-23T17:31:21  <Letarumavza> J'aime
+2014-05-23T17:31:22  <heuzef> adriens33: un peu bourrin ta méthode,
+2014-05-23T17:31:41  <Letarumavza> Non, mais on peut faire autrement.
+2014-05-23T17:31:44  <adriens33> ah ?
+2014-05-23T17:31:46  <adriens33> comment ?
+2014-05-23T17:31:50  <Letarumavza> Seul les pseudos uniques sont en +v
+2014-05-23T17:31:56  <adriens33> ah pas con
+2014-05-23T17:32:01  <heuzef> Exelente idée !
+2014-05-23T17:32:01  <adriens33> j'avais pas pensé au voice
+2014-05-23T17:32:09  <Letarumavza> 0o
+2014-05-23T17:32:24  <Letarumavza> J'ai dit un truc intelligent. Vite une bière !
+2014-05-23T17:32:36  <adriens33> bière ?
+2014-05-23T17:32:39  <adriens33> alcool ?
+2014-05-23T17:32:43  <adriens33> hey ><
+2014-05-23T17:32:48  <adriens33> Berry Punch Debout !!!
+2014-05-23T17:32:48  <Berry-Punch> adriens33: Qui me *hic* parle ?
+2014-05-23T17:33:04  <adriens33> tu bois trop
+2014-05-23T17:33:04  <Berry-Punch> Non c'est pas *hic* vrai !
+2014-05-23T17:33:11  <heuzef> !do aime bien quand Letarumavza à de bonne idées, ça le rend sexy
+2014-05-23T17:33:11  * Berry-Punch aime bien quand Letarumavza à de bonne idées, ça le rend sexy
+2014-05-23T17:33:23  <heuzef> Marche pas le /msg ><
+2014-05-23T17:33:29  <heuzef> Bref je dois filer je re
+2014-05-23T17:33:34  <Letarumavza> @+
+2014-05-23T17:33:37  <adriens33> faut faire /msg Berry-Punch do #bronycub
+2014-05-23T17:33:37  <Berry-Punch> adriens33: Oui *hic* ?
+2014-05-23T17:33:42  <adriens33> !bye heuzef
+2014-05-23T17:33:42  <Berry-Punch> Tchao heuzef !
+2014-05-23T17:33:57  <adriens33> biere
+2014-05-23T17:34:21  <Letarumavza> Au fait Berry est déjà paramétrée pour les injures & autres ?
+2014-05-23T17:34:21  <Berry-Punch> Letarumavza: Oui *hic* ?
+2014-05-23T17:34:26  <adriens33> not yet
+2014-05-23T17:34:37  <adriens33> vodka
+2014-05-23T17:34:37  <Berry-Punch> Vous me donnez soif *hic* les gens !
+2014-05-23T17:34:43  <adriens33> verre
+2014-05-23T17:34:53  <adriens33> !messageparser list
+2014-05-23T17:34:54  <Berry-Punch> adriens33: "([vV]odka|[wW]hisky)" (3),"(bois trop|trop bu)" (2),"(verre|alcool|bi(e|è|é)re|sak(e|é))" (1),"[bB]erry(|[ \-]?[pP]unch)" (5),"vais.*(manger|nourrir)" (4)
+2014-05-23T17:35:07  <adriens33> !unload messageparser
+2014-05-23T17:35:07  <Berry-Punch> adriens33: The operation succeeded.
+2014-05-23T17:35:12  <adriens33> !load messageparser
+2014-05-23T17:35:12  <Berry-Punch> adriens33: Error: No plugin named "messageparser" exists.
+2014-05-23T17:35:18  <adriens33> !load MessageParser
+2014-05-23T17:35:18  <Berry-Punch> adriens33: The operation succeeded.
+2014-05-23T17:35:21  <adriens33> !messageparser list
+2014-05-23T17:35:22  <Berry-Punch> adriens33: "([vV]odka|[wW]hisky)" (3),"(bois trop|trop bu)" (2),"(verre|alcool|bi(e|è|é)re|sak(e|é))" (1),"[bB]erry(|[ \-]?[pP]unch)" (5),"vais.*(manger|nourrir)" (4)
+2014-05-23T17:35:27  <adriens33> mieux.
+2014-05-23T17:35:30  <adriens33> verre
+2014-05-23T17:35:34  <adriens33> méheu
+2014-05-23T17:35:42  <Letarumavza> ^^
+2014-05-23T17:35:54  * heuzef est afk
+2014-05-23T17:36:02  <adriens33> verre
+2014-05-23T17:36:02  <Berry-Punch> Miam:p j'en veux !
+2014-05-23T17:36:12  <Letarumavza> Tu comptes faire quoi pour les injures ?
+2014-05-23T17:36:24  <adriens33> je sais pas
+2014-05-23T17:36:25  <adriens33> une idée
+2014-05-23T17:36:27  <adriens33> ?
+2014-05-23T17:36:32  <Letarumavza> un kick ? un ban temporaire ? un -v ?
+2014-05-23T17:36:33  <adriens33> biere
+2014-05-23T17:36:36  <adriens33> verre
+2014-05-23T17:36:46  <adriens33> verre
+2014-05-23T17:36:50  <adriens33> biere
+2014-05-23T17:36:52  <Letarumavza> Bah déjà j'aurai tendance à pas tout traiter de manière équivalente.
+2014-05-23T17:37:02  <adriens33> biere
+2014-05-23T17:37:09  <Letarumavza> Mais ça nécéssite des scripts complexes.
+2014-05-23T17:37:18  <adriens33> biere
+2014-05-23T17:37:18  <Berry-Punch> Miam:p j'en veux !
+2014-05-23T17:37:23  <adriens33> c'est à dire ?
+2014-05-23T17:37:47  <adriens33> je suis trop con sérieux
+2014-05-23T17:37:52  <adriens33> j'avais juste foiré ma regexp
+2014-05-23T17:37:57  <adriens33> un caractère qui manque
+2014-05-23T17:37:58  <adriens33> --"
+2014-05-23T17:38:18  <Letarumavza> Bah je pense pas qu'il faut traiter de la même manière un mec qui lache juste un "merde" et un autre qui injurie quelqu'un.
+2014-05-23T17:38:32  <adriens33> ah ben oui, là c'est une histoire de catégorie :p
+2014-05-23T17:38:43  <Letarumavza> Bon ceci dit, un mec qui en injurie un autre ici mérite un coups de latte dans le fion...
+2014-05-23T17:38:49  <adriens33> non
+2014-05-23T17:39:06  <Letarumavza> ?
+2014-05-23T17:39:07  <Berry-Punch> Banished to the Moon !!
+2014-05-23T17:39:14  <Letarumavza> Ah !
+2014-05-23T17:39:29  <Letarumavza> ça revient au même, j'ai des rangers taille 47
+2014-05-23T17:39:32  <adriens33> xD
+2014-05-23T17:39:47  <adriens33> alcool
+2014-05-23T17:39:47  <Berry-Punch> Miam:p j'en veux !
+2014-05-23T17:39:49  <adriens33> saké
+2014-05-23T17:39:49  <Berry-Punch> Miam:p j'en veux !
+2014-05-23T17:40:18  <adriens33> !apply echo "a"
+2014-05-23T17:40:18  <Berry-Punch> a
+2014-05-23T17:40:29  *** ValCab33 has joined #bronycub
+2014-05-23T17:40:29  <Berry-Punch> Tu veux un verre ValCab33 ?
+2014-05-23T17:40:39  <ValCab33> Non merci
+2014-05-23T17:40:43  <adriens33> !apply echo [utilities last [shuffle "a" "b" "c"]]
+2014-05-23T17:40:43  <Berry-Punch> adriens33: Error: The command "shuffle" is available in the Topic and Utilities plugins.  Please specify the plugin whose command you wish to call by using its name as a command before "shuffle".
+2014-05-23T17:40:50  <adriens33> !apply echo [utilities last [utilities shuffle "a" "b" "c"]]
+2014-05-23T17:40:50  <Berry-Punch> a c b
+2014-05-23T17:40:56  <adriens33> !apply echo "[utilities last [utilities shuffle "a" "b" "c"]]"
+2014-05-23T17:40:56  <Berry-Punch> adriens33: Error: Spurious "]".  You may want to quote your arguments with double quotes in order to prevent extra brackets from being evaluated as nested commands.
+2014-05-23T17:41:00  <adriens33> !apply echo '[utilities last [utilities shuffle "a" "b" "c"]]'
+2014-05-23T17:41:00  <Berry-Punch> ' a c b '
+2014-05-23T17:41:22  <Letarumavza> Je peux lui mettre ses 5700ms de Δv nécéssaire.
+2014-05-23T17:41:39  <adriens33> xD
+2014-05-23T17:41:40  <Letarumavza> m/s*
+2014-05-23T17:41:48  <Letarumavza> m.s ?
+2014-05-23T17:41:53  <Letarumavza> Euh...
+2014-05-23T17:41:56  <adriens33> m/s pour la vitesse
+2014-05-23T17:41:57  * Letarumavza doute.
+2014-05-23T17:42:09  <Letarumavza> là c'est une accélération.
+2014-05-23T17:42:16  <adriens33> m/s^2
+2014-05-23T17:42:24  <adriens33> ou m*s^-2
+2014-05-23T17:42:30  <adriens33> pardon : m⋅s^-2
+2014-05-23T17:42:38  <Letarumavza> Euh...
+2014-05-23T17:42:42  <adriens33> pardon : m⋅s^-²
+2014-05-23T17:42:49  <Letarumavza> Berry ! Vodka !
+2014-05-23T17:42:49  <Berry-Punch> Vous me donnez soif *hic* les gens !
+2014-05-23T17:42:49  <ValCab33> Exact
+2014-05-23T17:42:50  <Berry-Punch> Letarumavza: Qui veut un *hic* verre ?
+2014-05-23T17:43:27  <Letarumavza> J'ai passé trops de temps sur KSP, ça commence à déteindre ^^
+2014-05-23T17:43:57  <ValCab33> Faudrait que je me l'achète ce jeu...
+2014-05-23T17:44:10  <Letarumavza> Franchement, il vaut le coups
+2014-05-23T17:44:19  <Letarumavza> un peu dur à prendre en main et un peu beugé
+2014-05-23T17:44:26  <Letarumavza> (c'est une beta)
+2014-05-23T17:44:33  <Letarumavza> Mais poilant à mort.
+2014-05-23T17:44:48  <Letarumavza> D'autant plus que quand tu exploite les bugs tu peux faire des trucs débiles.
+2014-05-23T17:45:05  <Letarumavza> J'ai réussi à faire un vaisseau supraluminique avec un kraken drive.
+2014-05-23T17:45:17  <ValCab33> x)
+2014-05-23T17:45:18  <Letarumavza> (kraken c'est le surnom des bugs du moteur physique)
+2014-05-23T17:45:46  <Letarumavza> J'ai fait un micromodule qui génère une force fantome d'accélération infinie croissante.
+2014-05-23T17:45:53  <adriens33> ouaaat
+2014-05-23T17:46:02  <ValCab33> Fuck la logique
+2014-05-23T17:46:30  <Letarumavza> Bah KSP c'est un peu "les lapins crétins ont unprogramme spatial"
+2014-05-23T17:46:46  <Letarumavza> Ceci dit, quand on va pas provoquer les bugs le jeu est super intéréssant.
+2014-05-23T17:47:01  <Letarumavza> C'est peut-être le meilleur simulateur spatial que j'ai vu.
+2014-05-23T17:47:34  <Letarumavza> Après comme c'est un moteur unity, les collisions créent des forces fantomes exploitables, donc si on joue avec ça devient très vite très très très con.
+2014-05-23T17:48:20  <adriens33> verre
+2014-05-23T17:48:20  <Berry-Punch> 2 1 3
+2014-05-23T17:48:23  <adriens33> verre
+2014-05-23T17:48:23  <Berry-Punch> 3 1 2
+2014-05-23T17:48:44  <Letarumavza> Mais bon, jusqu'à maintenant, sans usebug, j'ai réussi à me poser et revenir des deux satellites de kerbin, à envoyer une sonde en orbite solaire, et à faire un rendez-vous en orbite basse.
+2014-05-23T17:48:47  <adriens33> verre
+2014-05-23T17:48:47  <Berry-Punch> 2
+2014-05-23T17:48:50  <adriens33> verre
+2014-05-23T17:48:50  <Berry-Punch> 2
+2014-05-23T17:48:51  <adriens33> verre
+2014-05-23T17:48:51  <Berry-Punch> 2
+2014-05-23T17:48:53  <adriens33> verre
+2014-05-23T17:48:53  <Berry-Punch> 1
+2014-05-23T17:48:58  <ValCab33> Verre
+2014-05-23T17:49:29  <Letarumavza> J'ai aussi tenté d'envoyer une sonde sur eve (l'équivalent de venus) mais j'ai un peu oublié un élément qui a mené à un aterrisage un peu abrupt...
+2014-05-23T17:49:47  <Letarumavza> (ouais, bon, j'avais en peu oublié les parachutes)
+2014-05-23T17:49:55  <ValCab33> xD
+2014-05-23T17:50:34  <Letarumavza> Ceci dit j'ai fait un slingshot avec assistance d'un satellite de kerbin directement dans une trajectoire d'aerobreaking sur eve !
+2014-05-23T17:50:49  <Letarumavza> Et sans orbite d'attente. ^^
+2014-05-23T17:50:54  <adriens33> verre
+2014-05-23T17:50:54  <Berry-Punch> string decode base64 SidhaSBzb2lmLi4u
+2014-05-23T17:50:58  <adriens33> oups
+2014-05-23T17:51:02  <Letarumavza> Fail
+2014-05-23T17:51:10  <adriens33> oups
+2014-05-23T17:51:12  <adriens33> verre
+2014-05-23T17:51:12  <Berry-Punch> String decode base64 TW9pIG1vaSBtb2kgIQ==
+2014-05-23T17:51:14  <adriens33> gnéé
+2014-05-23T17:51:20  <ValCab33> verre
+2014-05-23T17:51:20  <Berry-Punch> String decode base64 SidhaSBzb2lmLi4u
+2014-05-23T17:51:28  <Letarumavza> Bah voila, t'as bourré Berry
+2014-05-23T17:51:28  <Berry-Punch> Letarumavza: Qui me *hic* parle ?
+2014-05-23T17:51:43  <adriens33> verre
+2014-05-23T17:52:10  <adriens33> verre
+2014-05-23T17:52:10  <Berry-Punch> J'ai soif...Miam :p j'en veux :)
+2014-05-23T17:52:15  <adriens33> verre
+2014-05-23T17:52:15  <Berry-Punch> An error has occurred and has been logged. Please contact this bot's administrator for more information.
+2014-05-23T17:52:22  <ValCab33> X)
+2014-05-23T17:52:28  <Letarumavza> gg
+2014-05-23T17:52:31  <adriens33> verre
+2014-05-23T17:52:31  <Berry-Punch> An error has occurred and has been logged. Please contact this bot's administrator for more information.
+2014-05-23T17:52:33  <adriens33> verre
+2014-05-23T17:52:33  <Berry-Punch> An error has occurred and has been logged. Please contact this bot's administrator for more information.
+2014-05-23T17:52:36  <Letarumavza> Alors là !
+2014-05-23T17:52:47  <ValCab33> T'as cassé Berry
+2014-05-23T17:52:47  <Berry-Punch> ValCab33: Oui *hic* ?
+2014-05-23T17:53:17  *** Gordfang has joined #bronycub
+2014-05-23T17:53:17  <Berry-Punch> Bonjour !
+2014-05-23T17:53:30  <Letarumavza> http://d24w6bsrhbeh9d.cloudfront.net/photo/ajrvyxw_460s.jpg
+2014-05-23T17:53:41  <adriens33> verre
+2014-05-23T17:53:41  <Berry-Punch> An error has occurred and has been logged. Please contact this bot's administrator for more information.
+2014-05-23T17:53:48  <adriens33> verre
+2014-05-23T17:53:48  <Berry-Punch> An error has occurred and has been logged. Please contact this bot's administrator for more information.
+2014-05-23T17:53:55  <adriens33> verre
+2014-05-23T17:53:55  <Berry-Punch> An error has occurred and has been logged. Please contact this bot's administrator for more information.
+2014-05-23T17:54:03  <adriens33> verre
+2014-05-23T17:54:03  <Berry-Punch> Miam :p j'en veux :)
+2014-05-23T17:54:18  <adriens33> verre
+2014-05-23T17:54:18  <Berry-Punch> J'ai soif...Moi moi moi \!
+2014-05-23T17:54:21  <adriens33> ><
+2014-05-23T17:54:27  <Letarumavza> ?
+2014-05-23T17:54:37  <Letarumavza> C'est pas ce qu'elle était sensée dire ?
+2014-05-23T17:54:49  <adriens33> non
+2014-05-23T17:54:54  <adriens33> y'en a deux mélangées
+2014-05-23T17:54:56  <adriens33> verre
+2014-05-23T17:54:56  <Berry-Punch> An error has occurred and has been logged. Please contact this bot's administrator for more information.
+2014-05-23T17:55:12  * Letarumavza se marre.
+2014-05-23T17:55:20  <adriens33> verre
+2014-05-23T17:55:20  <Berry-Punch> Moi moi moi \!
+2014-05-23T17:55:29  <Letarumavza> Tu veux mon avis : Elle est pas encore au point !
+2014-05-23T17:55:34  <Letarumavza> verre ?
+2014-05-23T17:55:34  <Berry-Punch> Moi moi moi \!
+2014-05-23T17:55:41  <adriens33> verre
+2014-05-23T17:55:41  <Berry-Punch> [String decode base64 [utilities last [utilities shuffle TWlhbSA6cCBqJ2VuIHZldXggOik= SidhaSBzb2lmLi4u TW9pIG1vaSBtb2kgXCE= UXVpIGEgcGFybMOpIGRlICQxID8=]]]
+2014-05-23T17:55:42  <Letarumavza> Plus qu'à virer le \
+2014-05-23T17:55:47  <Letarumavza> ...
+2014-05-23T17:55:55  <Letarumavza> J'ai rien dit.
+2014-05-23T17:56:02  <adriens33> je peux pas, si je l'enlève ça plante
+2014-05-23T17:56:11  <Letarumavza> ...
+2014-05-23T17:56:13  <adriens33> alcool
+2014-05-23T17:56:13  <Berry-Punch> An error has occurred and has been logged. Please contact this bot's administrator for more information.
+2014-05-23T17:56:30  <Letarumavza> attends...
+2014-05-23T17:57:15  <Letarumavza> verre ?
+2014-05-23T17:57:15  <Berry-Punch> J'ai soif...Miam :p j'en veux :)
+2014-05-23T17:57:35  <heuzef> re
+2014-05-23T17:57:50  <heuzef> Putain tu y va en base64 t'es un bourrin
+2014-05-23T17:58:02  <adriens33> bah
+2014-05-23T17:58:02  <Letarumavza> re, adrien essaye de perfectioner berry, avec plus ou moins de réslutats...
+2014-05-23T17:58:03  <Berry-Punch> Letarumavza: Oui *hic* ?
+2014-05-23T17:58:05  <adriens33> si je met la string direct
+2014-05-23T17:58:06  <Letarumavza> plutot moins...
+2014-05-23T17:58:18  <adriens33> il me coupe la string au premier espace
+2014-05-23T17:58:23  <adriens33> verre
+2014-05-23T17:58:23  <Berry-Punch> adriens33: Moi moi moi \!
+2014-05-23T17:58:27  <Letarumavza> "string"
+2014-05-23T17:58:28  <adriens33> verre
+2014-05-23T17:58:28  <Berry-Punch> adriens33: Moi moi moi \!
+2014-05-23T17:58:30  <adriens33> verre
+2014-05-23T17:58:30  <Berry-Punch> adriens33: J'ai soif...
+2014-05-23T17:58:32  <adriens33> verre
+2014-05-23T17:58:32  <Berry-Punch> adriens33: J'ai soif...
+2014-05-23T17:58:34  <adriens33> verre
+2014-05-23T17:58:34  <Berry-Punch> adriens33: Miam :p j'en veux :)
+2014-05-23T17:58:47  <adriens33> good enough.
+2014-05-23T17:58:55  <Gordfang> re les gens
+2014-05-23T17:59:03  <Letarumavza> Donc flo, tu notes, berry coupe le string d'adrien.
+2014-05-23T17:59:04  <Berry-Punch> Letarumavza: Qui me *hic* parle ?
+2014-05-23T17:59:22  <adriens33> ><
+2014-05-23T17:59:25  <adriens33> verre
+2014-05-23T17:59:25  <Berry-Punch> adriens33: J'ai soif...
+2014-05-23T17:59:27  <adriens33> verre
+2014-05-23T17:59:27  <Berry-Punch> adriens33: An error has occurred and has been logged. Please contact this bot's administrator for more information.
+2014-05-23T17:59:29  <adriens33> verre
+2014-05-23T17:59:29  <Berry-Punch> adriens33: Miam :p j'en veux :)
+2014-05-23T17:59:32  <adriens33> verre
+2014-05-23T17:59:32  <Berry-Punch> adriens33: Miam :p j'en veux :)
+2014-05-23T17:59:46  <adriens33> echo "!"
+2014-05-23T17:59:52  <adriens33> echo !
+2014-05-23T17:59:53  <Letarumavza> Bon, je suis sur LoL, je re après ^^
+2014-05-23T17:59:55  <adriens33> echo ha !
+2014-05-23T17:59:58  <adriens33> echo ha \!
+2014-05-23T18:00:01  <adriens33> !echo ha \!
+2014-05-23T18:00:01  <Berry-Punch> ha \!
+2014-05-23T18:00:03  <adriens33> !echo ha !
+2014-05-23T18:00:03  <Berry-Punch> ha !
+2014-05-23T18:00:08  <adriens33> !echo "ha !"
+2014-05-23T18:00:08  <Berry-Punch> ha !
+2014-05-23T18:00:08  <ValCab33> echo 2
+2014-05-23T18:00:22  <adriens33> verre
+2014-05-23T18:00:23  <Berry-Punch> String decode base64 TWlhbSA6cCBqJ2VuIHZldXggOik=
+2014-05-23T18:00:35  <adriens33> verre
+2014-05-23T18:00:35  <Berry-Punch> Miam :p j'en veux :)
+2014-05-23T18:00:38  <adriens33> verre
+2014-05-23T18:00:38  <Berry-Punch> An error has occurred and has been logged. Please contact this bot's administrator for more information.
+2014-05-23T18:00:44  <adriens33> verre
+2014-05-23T18:00:44  <Berry-Punch> An error has occurred and has been logged. Please contact this bot's administrator for more information.
+2014-05-23T18:00:55  <adriens33> verre
+2014-05-23T18:00:55  <Berry-Punch> J'ai soif...
+2014-05-23T18:00:58  <adriens33> verre
+2014-05-23T18:00:58  <Berry-Punch> An error has occurred and has been logged. Please contact this bot's administrator for more information.
+2014-05-23T18:01:13  <adriens33> verre
+2014-05-23T18:01:13  <Berry-Punch> Miam :p j'en veux :)
+2014-05-23T18:01:15  <adriens33> verre
+2014-05-23T18:01:15  <Berry-Punch> Moi, moi, moi !
+2014-05-23T18:01:17  <adriens33> verre
+2014-05-23T18:01:17  <Berry-Punch> Miam :p j'en veux :)
+2014-05-23T18:01:19  <adriens33> verre
+2014-05-23T18:01:20  <Berry-Punch> Miam :p j'en veux :)
+2014-05-23T18:01:23  <adriens33> alcool ?
+2014-05-23T18:01:23  <Berry-Punch> An error has occurred and has been logged. Please contact this bot's administrator for more information.
+2014-05-23T18:01:37  <adriens33> vodka ?
+2014-05-23T18:01:37  <Berry-Punch> Vous me donnez soif, les gens !
+2014-05-23T18:01:40  <adriens33> alcool
+2014-05-23T18:01:40  <Berry-Punch> J'ai soif...
+2014-05-23T18:01:42  <adriens33> alcool
+2014-05-23T18:01:42  <Berry-Punch> Miam :p j'en veux :)
+2014-05-23T18:01:44  <adriens33> alcool
+2014-05-23T18:01:44  <Berry-Punch> J'ai soif...
+2014-05-23T18:01:50  <adriens33> (comment je la maltraite :( )
+2014-05-23T18:01:53  <adriens33> alcool
+2014-05-23T18:01:53  <Berry-Punch> J'ai soif...
+2014-05-23T18:02:08  <Gordfang> pauvre berry ^^
+2014-05-23T18:02:08  <Berry-Punch> Gordfang: Qui veut un *hic* verre ?
+2014-05-23T18:02:23  <Berry-Punch> New news from leponeyblanc: Saison 5 : Le début... du début, car tous a un début !
+2014-05-23T18:02:33  <adriens33> verre
+2014-05-23T18:02:33  <Berry-Punch> Moi moi moi \!
+2014-05-23T18:02:36  <adriens33> verre
+2014-05-23T18:02:36  <Berry-Punch> Miam :p j'en veux :)
+2014-05-23T18:02:37  <adriens33> verre
+2014-05-23T18:02:37  <Berry-Punch> J'ai soif...
+2014-05-23T18:02:39  <adriens33> verre
+2014-05-23T18:02:39  <Berry-Punch> Moi moi moi \!
+2014-05-23T18:02:41  <adriens33> verre
+2014-05-23T18:02:41  <Berry-Punch> J'ai soif...
+2014-05-23T18:02:44  <adriens33> verre !
+2014-05-23T18:02:44  <Berry-Punch> Miam :p j'en veux :)
+2014-05-23T18:02:48  <heuzef> Yay le flux RSS avec LPB est bien !
+2014-05-23T18:02:58  <Gordfang> ouai j'ai vu il marhe
+2014-05-23T18:03:02  <Gordfang> marche*
+2014-05-23T18:03:04  <heuzef> A optimisé si possible
+2014-05-23T18:03:11  <adriens33> avec le lien par exemple ?
+2014-05-23T18:03:13  <adriens33> ^^
+2014-05-23T18:03:18  <heuzef> Un titre plus jolie et un lien
+2014-05-23T18:03:34  <Gordfang> +2
+2014-05-23T18:03:44  <heuzef> Un un peu de RP pour Berry
+2014-05-23T18:03:44  <Berry-Punch> heuzef: Qui me *hic* parle ?
+2014-05-23T18:03:48  <Gordfang> et si possible de quoi sa traite
+2014-05-23T18:04:00  <adriens33> là après c'est le plugin
+2014-05-23T18:04:05  <adriens33> ça affiche le titre
+2014-05-23T18:04:18  <adriens33> si ça mettait la description je sais pas si ça resterait lisible ^^
+2014-05-23T18:04:23  <adriens33> @heuzef du genre ?
+2014-05-23T18:04:28  <adriens33> verre
+2014-05-23T18:04:28  <Berry-Punch> J'ai soif...
+2014-05-23T18:04:30  <adriens33> verre
+2014-05-23T18:04:30  <Berry-Punch> Moi moi moi \!
+2014-05-23T18:04:48  <heuzef> L'idéal pour moi :
+2014-05-23T18:04:54  <Gordfang> au fait j'ai trouver un lien pour un web comic simpa et y a un jolie référence
+2014-05-23T18:05:07  <adriens33> verre
+2014-05-23T18:05:07  <Berry-Punch> An error has occurred and has been logged. Please contact this bot's administrator for more information.
+2014-05-23T18:05:24  <Gordfang> http://tapastic.com/episode/18086 elle est genre a la 4eme vignette un truc du genre
+2014-05-23T18:07:58  *** ELiDYROS has joined #bronycub
+2014-05-23T18:07:58  <Berry-Punch> Oh ! Y'a quelqu'un !
+2014-05-23T18:08:02  <Gordfang> salut
+2014-05-23T18:08:34  <ELiDYROS> yo
+2014-05-23T18:09:18  <adriens33> bon je rentre chez moi
+2014-05-23T18:09:22  <Gordfang> k
+2014-05-23T18:09:23  <adriens33> à tout à l'heure les gens
+2014-05-23T18:09:23  <Gordfang> a tte
+2014-05-23T18:09:37  <ValCab33> @+
+2014-05-23T18:09:39  <adriens33> !part maison
+2014-05-23T18:09:39  *** Berry-Punch has left #bronycub
+2014-05-23T18:09:50  *** Berry-Punch has joined #bronycub
+2014-05-23T18:09:50  *** ChanServ sets mode: +o Berry-Punch
+2014-05-23T18:09:51  *** ChanServ sets mode: +o Berry-Punch
+2014-05-23T18:09:54  <Berry-Punch> Bonjour !
+2014-05-23T18:09:57  *** adriens33 has left #bronycub
+2014-05-23T18:10:03  <Gordfang> XD
+2014-05-23T18:21:42  *** heuzef1 has joined #bronycub
+2014-05-23T18:21:42  <Berry-Punch> Tu veux un verre heuzef1 ?
+2014-05-23T18:25:56  *** heuzef1 has quit IRC
+2014-05-23T18:27:08  <Letarumavza> re
+2014-05-23T18:27:27  *** ELiDYROS has quit IRC
+2014-05-23T18:28:47  *** adriens33 has joined #bronycub
+2014-05-23T18:28:47  <Berry-Punch> Bonjour !
+2014-05-23T18:28:47  *** ChanServ sets mode: +o adriens33
+2014-05-23T18:28:48  <Berry-Punch> Coucou toi !
+2014-05-23T18:29:31  <adriens33> !channel nicks
+2014-05-23T18:29:31  <Berry-Punch> adriens33: adriens33, Berry-Punch, Gordfang, heuzef, Letarumavza, and ValCab33
+2014-05-23T18:29:42  <adriens33> Re les gens
+2014-05-23T18:29:49  <ValCab33> Rheu
+2014-05-23T18:30:03  <adriens33> Vive la 3g
+2014-05-23T18:30:17  <adriens33> !deop
+2014-05-23T18:30:17  *** Berry-Punch sets mode: -o adriens33
+2014-05-23T18:30:17  <Letarumavza> ?
+2014-05-23T18:30:44  <adriens33> Je suis sur mon tel là
+2014-05-23T18:32:29  <Berry-Punch> New news from leponeyblanc: Saison 5 : Le début... du début, car tout a un début !
+2014-05-23T18:32:31  <adriens33> Yay une semaine de vacances \o/
+2014-05-23T18:33:47  <Letarumavza> cool
+2014-05-23T18:34:43  *** wildfier has joined #bronycub
+2014-05-23T18:34:43  <Berry-Punch> Salut *hic* wildfier !
+2014-05-23T18:34:49  <wildfier> yop !
+2014-05-23T18:34:55  <adriens33> Hello
+2014-05-23T18:35:04  <adriens33> !welcome
+2014-05-23T18:35:04  <Berry-Punch> adriens33: (welcome <an alias, 1 argument>) -- Alias for "echo Salut $1 ! Bienvenue sur le chan de *hic*... de bronycub ! Amuse-toi bien *hic* !".
+2014-05-23T18:35:23  <adriens33> !welcome wildfier
+2014-05-23T18:35:23  <Berry-Punch> Salut wildfier ! Bienvenue sur le chan de *hic*... de bronycub ! Amuse-toi bien *hic* !
+2014-05-23T18:35:53  <Gordfang> yo
+2014-05-23T18:36:37  <wildfier> XD
+2014-05-23T18:36:41  <wildfier> that délire avec ce bot
+2014-05-23T18:40:40  <adriens33> Excuse la, elle a un peu trop bu
+2014-05-23T18:40:40  *** ELiDYROS has joined #bronycub
+2014-05-23T18:40:41  <adriens33> Je retire ce que j'ai dit, la 3g c'est pas stable :/
+2014-05-23T18:40:43  <Berry-Punch> Non c'est pas *hic* vrai !
+2014-05-23T18:40:44  <Berry-Punch> Tu veux un verre ELiDYROS ?
+2014-05-23T18:41:31  <adriens33> Elle aime bien prendre un verre de temps en temps :)
+2014-05-23T18:41:31  <Berry-Punch> Miam :p j'en veux :)
+2014-05-23T18:41:32  <wildfier> http://www.equestriadaily.com/2014/05/berry-punchs-quest-part-1.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+EquestriaDaily+%28Equestria+Daily%29
+2014-05-23T18:41:32  <Berry-Punch> wildfier: Qui me *hic* parle ?
+2014-05-23T18:45:25  <wildfier> tellement random cette vidéo
+2014-05-23T18:45:41  <wildfier> (je l'ai juste posté à cause du perso principal XD)
+2014-05-23T18:45:53  <adriens33> :p
+2014-05-23T18:55:13  *** heuzef1 has joined #bronycub
+2014-05-23T18:55:13  <Berry-Punch> Tu veux un verre heuzef1 ?
+2014-05-23T18:57:37  *** adriens33 has quit IRC
+2014-05-23T18:57:45  *** adriens33 has joined #bronycub
+2014-05-23T18:57:45  <Berry-Punch> Oh ! Y'a quelqu'un !
+2014-05-23T18:57:45  *** ChanServ sets mode: +o adriens33
+2014-05-23T18:57:46  <Berry-Punch> Coucou toi !
+2014-05-23T18:58:10  <wildfier> c'est random dans une liste ce qu'elle dis ?
+2014-05-23T19:00:21  <Gordfang> me semble
+2014-05-23T19:05:17  <Letarumavza> reuh
+2014-05-23T19:05:24  <Letarumavza> euh...
+2014-05-23T19:05:57  *** heuzef has quit IRC
+2014-05-23T19:06:19  *** heuzef1 has left #bronycub
+2014-05-23T19:09:38  *** heuzef has joined #bronycub
+2014-05-23T19:09:38  <Berry-Punch> Bonjour !
+2014-05-23T19:17:38  *** adriens33 has quit IRC
+2014-05-23T19:26:50  <Letarumavza> grumpf ?
+2014-05-23T19:27:15  <Letarumavza> adrien a fini de bidouiller berry ?
+2014-05-23T19:27:15  <Berry-Punch> Letarumavza: Oui *hic* ?
+2014-05-23T19:32:54  <wildfier> il voulait l'utiliser pour quoi le bot ?
+2014-05-23T19:33:26  <ValCab33> Pour détruire le monde.
+2014-05-23T19:33:26  <Letarumavza> Elle va se charger de la modération automatique du canal
+2014-05-23T19:33:32  <wildfier> XD
+2014-05-23T19:34:05  <Letarumavza> Comme vérifier que seuls les personnes log sous le bon nom peuvent parler
+2014-05-23T19:34:15  <wildfier> ok
+2014-05-23T19:34:26  <wildfier> du coup obligé de register ?
+2014-05-23T19:34:36  <Letarumavza> Pas pour l'instant
+2014-05-23T19:34:52  <Letarumavza> Adrien n'a même pas encore décidé comment gérer ça.
+2014-05-23T19:35:13  <Letarumavza> Le fait est que je reprendrais les règles du canal IRC pour le serveur minecraft
+2014-05-23T19:35:24  <wildfier> nice
+2014-05-23T19:35:40  <Letarumavza> avec un affichage du canal IRC dans minecraft.
+2014-05-23T19:35:51  <wildfier> il vas peut être arriver à me refaire jouer à MC ^^
+2014-05-23T19:35:59  <wildfier> depuis le temps
+2014-05-23T19:36:05  <Letarumavza> Bah adrien se charge d'IRC
+2014-05-23T19:36:12  <Letarumavza> Je me chargerai du serveur MC
+2014-05-23T19:36:40  <Letarumavza> Pour l'instant j'ai prévu une intégration d'irc et peut-être de twitter.
+2014-05-23T19:37:15  <ValCab33> Serieux IRC dans MC ?
+2014-05-23T19:37:26  <Letarumavza> Et je réfléchis encore à peut-être préparer un launcher minecraft pour pour bronycub.
+2014-05-23T19:38:06  <Letarumavza> Histoire de coller deux mods particuliers dedans, le ponymod (qui transforme le modèle du joueur en pony) et un mod d'agriculture.
+2014-05-23T19:38:10  <Letarumavza> yep
+2014-05-23T19:38:13  <ValCab33> Yay
+2014-05-23T19:38:36  <ELiDYROS> ça va pas faire bizarre de tout mélanger pour ceux qui ne jouent pas à Minecraft ?
+2014-05-23T19:39:01  <Letarumavza> bah non, au contraire, ils ne se sentiront pas isolés
+2014-05-23T19:39:04  <wildfier> XD http://cheezburger.com/8197021440?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+MyLittleBrony+%28My+Little+Brony%29
+2014-05-23T19:39:16  <ELiDYROS> je demande par rapport au contexte
+2014-05-23T19:39:39  <Letarumavza> Je doute qu'on fusionne le canal IRC et le tchat minecraft
+2014-05-23T19:39:50  <wildfier> bas par intégration ça veut pas dire que quand tu parle sur mc ça se voit sur l'irc si ?
+2014-05-23T19:40:32  <Letarumavza> En fait je pense plutot à un plugin qui permette de permuter entre le tchat MC et le tchat IRC.
+2014-05-23T19:40:43  <Letarumavza> via une commande /irc par exemple.
+2014-05-23T19:41:17  <wildfier> pas con
+2014-05-23T19:41:34  <Letarumavza> Il existe plusieur plugins pour l'intégration d'irc, je ferai un comparatif.
+2014-05-23T19:42:57  <Letarumavza> M'enfin il me faut encore récupérer ma nouvelle machine...
+2014-05-23T19:43:15  <Letarumavza> Et comme ma ram semble venir à pieds, ça me gonfle...
+2014-05-23T19:43:56  *** adriens33 has joined #bronycub
+2014-05-23T19:43:56  <Berry-Punch> Oh ! Y'a quelqu'un !
+2014-05-23T19:43:56  *** ChanServ sets mode: +o adriens33
+2014-05-23T19:43:57  <Berry-Punch> Coucou toi !
+2014-05-23T19:44:14  *** adriens33 has quit IRC
+2014-05-23T19:44:20  <Letarumavza> ...
+2014-05-23T19:44:33  <Letarumavza> Berry, bière ?
+2014-05-23T19:44:33  <Berry-Punch> Letarumavza: Qui veut un *hic* verre ?
+2014-05-23T19:44:42  <wildfier> moi !
+2014-05-23T19:44:54  <ELiDYROS> le bot va finir par parler plus que les utilisateurs
+2014-05-23T19:45:05  <wildfier> ^^
+2014-05-23T19:45:09  <Letarumavza> Boarf...
+2014-05-23T19:45:13  <Letarumavza> Attends...
+2014-05-23T19:45:17  <Letarumavza> vodka ?
+2014-05-23T19:45:17  <Berry-Punch> Vous me donnez soif, les gens !
+2014-05-23T19:46:12  *** ValCab33 has quit IRC
+2014-05-23T19:46:30  <Letarumavza> !messageparser list
+2014-05-23T19:46:31  <Berry-Punch> Letarumavza: "([vV]odka|[wW]hisky)" (3),"(bois trop|trop bu)" (2),"(verre|bi[eèé]re|alcool|sak[ée])" (1),"[bB]erry(|[ \-]?[pP]unch)" (5),"vais.*(manger|nourrir)" (4)
+2014-05-23T19:49:14  *** adriens33 has joined #bronycub
+2014-05-23T19:49:14  <Berry-Punch> Ooh *hic... Ca fait longtemps qu'on s'est pas vus adriens33 !
+2014-05-23T19:49:27  *** ChanServ sets mode: +o adriens33
+2014-05-23T19:58:51  *** adriens33 has left #bronycub
+2014-05-23T19:58:55  *** adriens33 has joined #bronycub
+2014-05-23T19:58:55  <Berry-Punch> An error has occurred and has been logged. Please contact this bot's administrator for more information.
+2014-05-23T19:58:55  *** ChanServ sets mode: +o adriens33
+2014-05-23T19:58:56  <Berry-Punch> Coucou toi !
+2014-05-23T20:00:45  <Letarumavza> fail
+2014-05-23T20:01:21  <adriens33> c'est parce qu'il y a des caractères unicode
+2014-05-23T20:01:31  <adriens33> apparemment le bot les supporte pas dans certaines conditions
+2014-05-23T20:02:07  *** adriens33 has left #bronycub
+2014-05-23T20:02:12  *** adriens33 has joined #bronycub
+2014-05-23T20:02:12  <Berry-Punch> An error has occurred and has been logged. Please contact this bot's administrator for more information.
+2014-05-23T20:02:12  *** ChanServ sets mode: +o adriens33
+2014-05-23T20:02:43  *** adriens33 has left #bronycub
+2014-05-23T20:02:45  *** adriens33 has joined #bronycub
+2014-05-23T20:02:45  <Berry-Punch> New news from leponeyblanc: Vendredi des cosplays #16
+2014-05-23T20:02:45  *** ChanServ sets mode: +o adriens33
+2014-05-23T20:02:46  <Berry-Punch> Bonjour !
+2014-05-23T20:02:52  *** adriens33 has left #bronycub
+2014-05-23T20:02:55  *** adriens33 has joined #bronycub
+2014-05-23T20:02:55  <Berry-Punch> Coucou adriens33 !
+2014-05-23T20:02:55  *** ChanServ sets mode: +o adriens33
+2014-05-23T20:03:02  *** adriens33 has left #bronycub
+2014-05-23T20:03:03  *** adriens33 has joined #bronycub
+2014-05-23T20:03:03  <Berry-Punch> Oh ! Y'a quelqu'un ! *hic*
+2014-05-23T20:03:03  *** ChanServ sets mode: +o adriens33
+2014-05-23T20:03:07  *** adriens33 has left #bronycub
+2014-05-23T20:03:10  *** adriens33 has joined #bronycub
+2014-05-23T20:03:10  <Berry-Punch> Coucou adriens33 !
+2014-05-23T20:03:10  *** ChanServ sets mode: +o adriens33
+2014-05-23T20:04:18  *** adriens33 has left #bronycub
+2014-05-23T20:04:19  *** adriens33 has joined #bronycub
+2014-05-23T20:04:19  <Berry-Punch> An error has occurred and has been logged. Please contact this bot's administrator for more information.
+2014-05-23T20:04:27  *** ChanServ sets mode: +o adriens33
+2014-05-23T20:04:31  *** adriens33 has left #bronycub
+2014-05-23T20:04:34  *** adriens33 has joined #bronycub
+2014-05-23T20:04:34  <Berry-Punch> Coucou adriens33 !
+2014-05-23T20:04:34  *** ChanServ sets mode: +o adriens33
+2014-05-23T20:04:41  *** adriens33 has left #bronycub
+2014-05-23T20:04:44  *** adriens33 has joined #bronycub
+2014-05-23T20:04:44  <Berry-Punch> Tu veux un verre adriens33 ?
+2014-05-23T20:04:44  *** ChanServ sets mode: +o adriens33
+2014-05-23T20:05:28  *** adriens33 has left #bronycub
+2014-05-23T20:05:31  *** adriens33 has joined #bronycub
+2014-05-23T20:05:31  <Berry-Punch> Coucou adriens33 !
+2014-05-23T20:05:31  *** ChanServ sets mode: +o adriens33
+2014-05-23T20:05:35  *** adriens33 has left #bronycub
+2014-05-23T20:05:37  *** adriens33 has joined #bronycub
+2014-05-23T20:05:37  <Berry-Punch> Coucou adriens33 !
+2014-05-23T20:05:37  *** ChanServ sets mode: +o adriens33
+2014-05-23T20:05:41  *** adriens33 has left #bronycub
+2014-05-23T20:05:43  *** adriens33 has joined #bronycub
+2014-05-23T20:05:43  <Berry-Punch> Ooh *hic*... Ca fait longtemps qu'on s'est pas vu, adriens33 !
+2014-05-23T20:05:43  *** ChanServ sets mode: +o adriens33
+2014-05-23T20:06:05  *** adriens33 has left #bronycub
+2014-05-23T20:06:07  *** adriens33 has joined #bronycub
+2014-05-23T20:06:07  <Berry-Punch> Coucou adriens33 !
+2014-05-23T20:06:07  *** ChanServ sets mode: +o adriens33
+2014-05-23T20:06:14  *** adriens33 has left #bronycub
+2014-05-23T20:06:17  *** adriens33 has joined #bronycub
+2014-05-23T20:06:17  <Berry-Punch> An error has occurred and has been logged. Please contact this bot's administrator for more information.
+2014-05-23T20:06:17  *** ChanServ sets mode: +o adriens33
+2014-05-23T20:07:48  *** heuzef has quit IRC
+2014-05-23T20:08:09  *** heuzef has joined #bronycub
+2014-05-23T20:08:09  <Berry-Punch> Ooh *hic*... Ca fait longtemps qu'on s'est pas vu, heuzef !
+2014-05-23T20:08:56  <adriens33> re
+2014-05-23T20:09:03  <adriens33> elle est mieux comme ça la phrase ?
+2014-05-23T20:11:13  *** heuzef has quit IRC
+2014-05-23T20:11:38  *** heuzef has joined #bronycub
+2014-05-23T20:11:38  <Berry-Punch> Coucou heuzef !
+2014-05-23T20:15:13  *** adriens31 has joined #bronycub
+2014-05-23T20:15:13  <Berry-Punch> Bonjour !
+2014-05-23T20:15:36  *** adriens33 is now known as Guest3524
+2014-05-23T20:15:36  *** adriens31 is now known as adriens33
+2014-05-23T20:15:47  *** ChanServ sets mode: +o adriens33
+2014-05-23T20:21:42  *** sebwhooves has joined #bronycub
+2014-05-23T20:21:42  <Berry-Punch> Oh ! Y'a quelqu'un ! *hic*
+2014-05-23T20:21:50  <sebwhooves> eeeeyup
+2014-05-23T20:21:51  <adriens33> hello
+2014-05-23T20:22:02  <sebwhooves> salut
+2014-05-23T20:22:33  <adriens33> !welcome sebwhooves
+2014-05-23T20:22:33  <Berry-Punch> Salut sebwhooves ! Bienvenue sur le chan de *hic*... de bronycub ! Amuse-toi bien *hic* !
+2014-05-23T20:22:50  <sebwhooves> oui j'espere
+2014-05-23T20:23:35  <adriens33> !deop
+2014-05-23T20:23:36  *** Berry-Punch sets mode: -o adriens33
+2014-05-23T20:24:02  <adriens33> commence à y avoir un peu de monde là, ça fait plaisir :)
+2014-05-23T20:24:22  *** heuzef has quit IRC
+2014-05-23T20:24:27  <ELiDYROS> faut juste que ça s'anime
+2014-05-23T20:24:33  <adriens33> voilà
+2014-05-23T20:24:40  <wildfier> je re
+2014-05-23T20:24:43  <wildfier> vais manger
+2014-05-23T20:24:43  <Berry-Punch> Bon appétit *hic* :p
+2014-05-23T20:24:55  <sebwhooves> bon app'
+2014-05-23T20:25:18  <Gordfang> bon ap
+2014-05-23T20:25:27  <wildfier> thx
+2014-05-23T20:27:12  <sebwhooves> quoi de neuf les bronies?
+2014-05-23T20:27:56  <adriens33> moi je suis en train de configurer le bot dont tu as eu la joie de faire la connaissance tout à l'heure :)
+2014-05-23T20:28:04  <adriens33> (du coup des fois ça foire un peu mais bon)
+2014-05-23T20:28:11  <adriens33> hein Berry ?
+2014-05-23T20:28:11  <Berry-Punch> adriens33: Qui veut un *hic* verre ?
+2014-05-23T20:28:30  <sebwhooves> berry punch est un bot?
+2014-05-23T20:28:30  <Berry-Punch> sebwhooves: Oui *hic* ?
+2014-05-23T20:28:40  <adriens33> yup
+2014-05-23T20:28:59  <sebwhooves> un bot bourré c'est original lol
+2014-05-23T20:29:01  <adriens33> qui a un peu trop bu ^^
+2014-05-23T20:29:01  <Berry-Punch> Non c'est pas *hic* vrai !
+2014-05-23T20:29:25  <adriens33> ah
+2014-05-23T20:29:28  <adriens33> !who
+2014-05-23T20:29:33  <adriens33> zuc
+2014-05-23T20:29:35  <adriens33> !why
+2014-05-23T20:29:35  <Berry-Punch> En fait *hic* à la base je devais m'appeler Pinot noir *hic*, c'est le vin favori de Lauren Faust. *hic* Mais elle a préféré le nom que les fans m'ont donnée *hic*. Et comme Bordeaux c'est la ville du vin ben la mascotte c'est moi ! *hic*
+2014-05-23T20:29:44  <adriens33> (idée de heuzef)
+2014-05-23T20:30:03  <adriens33> !voice adriens33
+2014-05-23T20:30:03  *** Berry-Punch sets mode: +v adriens33
+2014-05-23T20:30:15  <adriens33> !voice ELiDYROS
+2014-05-23T20:30:15  *** Berry-Punch sets mode: +v ELiDYROS
+2014-05-23T20:30:22  <adriens33> !voice Gordfang
+2014-05-23T20:30:22  *** Berry-Punch sets mode: +v Gordfang
+2014-05-23T20:30:30  <adriens33> !voice Letarumavza
+2014-05-23T20:30:30  *** Berry-Punch sets mode: +v Letarumavza
+2014-05-23T20:30:34  <adriens33> !voice sebwhooves
+2014-05-23T20:30:34  *** Berry-Punch sets mode: +v sebwhooves
+2014-05-23T20:30:38  <adriens33> !voice wildfier
+2014-05-23T20:30:38  *** Berry-Punch sets mode: +v wildfier
+2014-05-23T20:30:39  *** adriens33 has left #bronycub
+2014-05-23T20:30:46  *** adriens33 has joined #bronycub
+2014-05-23T20:30:46  *** ChanServ sets mode: +o adriens33
+2014-05-23T20:30:46  *** Berry-Punch sets mode: +o adriens33
+2014-05-23T20:30:47  <Berry-Punch> Ooh *hic*... Ca fait longtemps qu'on s'est pas vu, adriens33 !
+2014-05-23T20:30:48  <Berry-Punch> Coucou toi !
+2014-05-23T20:30:56  <adriens33> !deop
+2014-05-23T20:30:56  *** Berry-Punch sets mode: -o adriens33
+2014-05-23T20:31:46  <ELiDYROS> pour ma part j'ai fini mon boulot sur my little karaoke et je vais essayer de produire des artworks pour quand je serai aux
+2014-05-23T20:31:47  <ELiDYROS> ux
+2014-05-23T20:31:49  <ELiDYROS> us*
+2014-05-23T20:32:27  <ELiDYROS> le truc c'est que j'ai pas de badge visiteur pour everfree
+2014-05-23T20:32:35  <ELiDYROS> euh badge vendeur*
+2014-05-23T20:32:35  <adriens33> !voice
+2014-05-23T20:32:36  *** Berry-Punch sets mode: +v adriens33
+2014-05-23T20:32:50  <ELiDYROS> du coup tout sera à ma charge je pourrai pas vendre
+2014-05-23T20:33:23  <sebwhooves> ah mince
+2014-05-23T20:33:56  <ELiDYROS> j'aurais aimé vendre un artbook ou des cartes au prix de l'impression en gros
+2014-05-23T20:34:33  <ELiDYROS> enfin je dis ça je pars dans moins un mois ça me laisse que peu de temps
+2014-05-23T20:34:41  <ELiDYROS> mois
+2014-05-23T20:34:45  <ELiDYROS> j'ai du mal
+2014-05-23T20:34:45  <sebwhooves> oui c'est sur c'est juste
+2014-05-23T20:35:20  <ELiDYROS> pour ça je vais quand même essayer de pondre un truc de 3 ou 4 pages avant du fanart de poney et des productions originales
+2014-05-23T20:35:26  <ELiDYROS> pour me faire un peu de pub
+2014-05-23T20:36:14  <sebwhooves> ok cool
+2014-05-23T20:37:14  <ELiDYROS> je sais plus écrire aujourd'hui diantre
+2014-05-23T20:38:13  *** adriens33 has left #bronycub
+2014-05-23T20:38:19  *** adriens33 has joined #bronycub
+2014-05-23T20:38:19  *** ChanServ sets mode: +o adriens33
+2014-05-23T20:38:19  *** Berry-Punch sets mode: +o adriens33
+2014-05-23T20:38:20  <Berry-Punch> Coucou adriens33 !
+2014-05-23T20:38:26  <adriens33> !deop
+2014-05-23T20:38:26  *** Berry-Punch sets mode: -o adriens33
+2014-05-23T20:38:56  <sebwhooves> t'as trop frequente Berry Punch je crois^^
+2014-05-23T20:38:56  <Berry-Punch> sebwhooves: Qui veut un *hic* verre ?
+2014-05-23T20:40:29  <sebwhooves> pas moi je ne bois pas
+2014-05-23T20:42:24  *** adriens33 has left #bronycub
+2014-05-23T20:42:27  *** adriens33 has joined #bronycub
+2014-05-23T20:42:27  *** ChanServ sets mode: +o adriens33
+2014-05-23T20:42:27  *** Berry-Punch sets mode: +v adriens33
+2014-05-23T20:42:28  <Berry-Punch> Salut *hic* adriens33 !
+2014-05-23T20:42:29  <Berry-Punch> Coucou toi !
+2014-05-23T20:42:59  *** ChanServ sets mode: -vvv Letarumavza Gordfang sebwhooves
+2014-05-23T20:43:23  <adriens33> !voice Letarumavza
+2014-05-23T20:43:24  *** Berry-Punch sets mode: +v Letarumavza
+2014-05-23T20:43:30  <adriens33> !voice Gordfang
+2014-05-23T20:43:30  *** Berry-Punch sets mode: +v Gordfang
+2014-05-23T20:43:34  <adriens33> !voice sebwhooves
+2014-05-23T20:43:34  *** Berry-Punch sets mode: +v sebwhooves
+2014-05-23T20:43:37  *** adriens33 has left #bronycub
+2014-05-23T20:43:41  *** adriens33 has joined #bronycub
+2014-05-23T20:43:41  *** Berry-Punch sets mode: +v adriens33
+2014-05-23T20:43:42  <Berry-Punch> Ooh *hic*... Ca fait longtemps qu'on s'est pas vu, adriens33 !
+2014-05-23T20:43:47  <Letarumavza> meuh ?
+2014-05-23T20:43:54  <adriens33> je configure le voice
+2014-05-23T20:44:06  *** adriens33 has left #bronycub
+2014-05-23T20:44:16  *** jeankevindu33 has joined #bronycub
+2014-05-23T20:44:16  <Berry-Punch> Oh ! Y'a quelqu'un ! *hic*
+2014-05-23T20:44:31  <jeankevindu33> bon, là, techniquement je suis pas censé pouvoir parle
+2014-05-23T20:44:54  <sebwhooves> pourquoi?
+2014-05-23T20:45:24  <jeankevindu33> ben l'idée du voice
+2014-05-23T20:45:37  <jeankevindu33> c'est d'empêcher certaines personnes de parler
+2014-05-23T20:45:47  <Letarumavza> place le canal en "modéré"
+2014-05-23T20:45:51  <jeankevindu33> mais je l'ia pas conf encore
+2014-05-23T20:45:52  <jeankevindu33> voilà
+2014-05-23T20:46:20  *** jeankevindu33 has quit IRC
+2014-05-23T20:46:41  *** adriens33 has joined #bronycub
+2014-05-23T20:46:41  *** Berry-Punch sets mode: +v adriens33
+2014-05-23T20:46:42  <Berry-Punch> Coucou adriens33 !
+2014-05-23T20:50:23  *** Berry-Punch sets mode: +m 
+2014-05-23T20:50:34  <adriens33> test un deux
+2014-05-23T20:50:37  <adriens33> !devoice
+2014-05-23T20:50:37  *** Berry-Punch sets mode: -v adriens33
+2014-05-23T20:51:05  *** Berry-Punch set
