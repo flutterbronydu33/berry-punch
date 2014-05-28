@@ -1,6 +1,6 @@
 <?php
 header('Content-Type: text/plain; charset=utf8');
-$handle = popen("grep -v 'sets mode:' /home/berry-punch/logs/ChannelLogger/freenode/#bronycub/#bronycub.log 2>&1 | tail -n 10", 'r');
+$handle = popen("grep -v 'sets mode:' /home/berry-punch/logs/ChannelLogger/freenode/#bronycub/#bronycub.log 2>&1 | tail -n 8", 'r');
 
 while (!feof($handle)) {
 	$buffer = substr(fgets($handle), 21);
