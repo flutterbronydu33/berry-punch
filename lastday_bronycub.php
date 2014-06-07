@@ -1,6 +1,6 @@
 <?php
 header('Content-Type: text/plain; charset=utf8');
-$handle = popen('grep "$(date +%Y-%m-%d)" /home/berry-punch/logs/ChannelLogger/freenode/#bronycub/#bronycub.log 2>&1', 'r');
+$handle = popen('grep "$(date +%Y-%m-%d)" /home/berry-punch/logs/ChannelLogger/freenode/#bronycub/#bronycub.log 2>&1|sort -nr', 'r');
 
 while (!feof($handle)) {
 	$buffer = substr(fgets($handle),11);
