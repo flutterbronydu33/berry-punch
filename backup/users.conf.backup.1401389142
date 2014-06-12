@@ -1,0 +1,204 @@
+user 1
+  name adriens33
+  ignore False
+  secure False
+  hashed True
+  password b47afe60|9847c9184d3041f1a133204d83df217a6dbff33d
+  capability owner
+  capability admin
+  capability #bronycub,op
+  capability #bronycub,voice
+  hostmask sebwhooves!*@*
+  hostmask adriens33!*@*
+  hostmask adriens33!5140c842@gateway/web/cgi-irc/kiwiirc.com/ip.81.64.200.66
+
+user 2
+  name heuzef
+  ignore False
+  secure False
+  hashed True
+  password 5b00c9c7|3ea43561cc41d1ca0a6aaac8b244e6d80cbb9705
+  capability admin
+  capability #bronycub,op
+  capability #bronycub,voice
+  hostmask heuzef!*@*
+
+user 3
+  name Gordfang
+  ignore False
+  secure False
+  hashed True
+  password 54d96465|c4196e04e603086a4e69a57af726362e88d1b4c8
+  capability #bronycub,voice
+  hostmask Gordfang!*@*
+
+user 4
+  name Rei
+  ignore False
+  secure False
+  hashed True
+  password bc866d92|32943be4125e6a62effc76082ce229cb48fba68a
+  capability #bronycub,voice
+  hostmask Rei!*@gateway/web/cgi-irc/kiwiirc.com/*
+
+user 5
+  name ValCab33
+  ignore False
+  secure False
+  hashed True
+  password 3ffc81f4|b3549fefe1282cf4544de612f206b5f32c4dd636
+  capability #bronycub,voice
+  hostmask ValCab33!*@*
+
+user 6
+  name Eclipse2212
+  ignore False
+  secure False
+  hashed True
+  password 49125cb0|4b53358b0c0edb140b7d9adb6a2cd15c29101fe1
+  capability #bronycub,voice
+  hostmask Eclipse2212!*@*
+
+user 7
+  name wildfier
+  ignore False
+  secure False
+  hashed True
+  password dceffbc2|2bdc4b2d0f5911a91e176c8aa233ff314f4de20b
+  capability #bronycub,voice
+  hostmask wildfier!*@*
+
+user 8
+  name ELiDYROS
+  ignore False
+  secure False
+  hashed True
+  password cf1f7d79|24637a3d9943fd773dad284cf057c555b85a1fce
+  capability #bronycub,voice
+  hostmask ELiDYROS!*@*
+
+user 10
+  name Madfox40
+  ignore False
+  secure False
+  hashed True
+  password 5c17f12f|e10695059a5c392334c910dba062acae452c1f4e
+  capability #bronycub,voice
+  hostmask Madfox40!*@*
+
+user 11
+  name sebwhooves
+  ignore False
+  secure False
+  hashed True
+  password 16c8a72a|c051ffa5e7222dd966c6b8a65b4cc7f0c0981df3
+  capability #bronycub,voice
+
+user 12
+  name ravien
+  ignore False
+  secure False
+  hashed True
+  password c91d208b|2889f007eb2ffdc910b7758094f2c245b58b8dcd
+  capability #bronycub,voice
+  hostmask ravien!*@gateway/web/cgi-irc*
+
+user 13
+  name Gigotdarnaud
+  ignore False
+  secure False
+  hashed True
+  password 54a11e67|200a479f2afb2931d10637e3869fea3b31415a9f
+  capability #bronycub,voice
+  hostmask Gigotdarnaud!*@*
+
+user 14
+  name Letarumavza
+  ignore False
+  secure False
+  hashed True
+  password 31cdb6d0|95cd4a32769137c3c91917de275a7bce3d723f5d
+  capability #bronycub,voice
+  hostmask Letarumavza!*@*
+
+user 15
+  name maitrepanda
+  ignore False
+  secure False
+  hashed True
+  password d27e6a19|a3509c6c69201f97c2c4dd2adbfce4ddea2fec52
+  capability #bronycub,voice
+  hostmask maitrepanda!*@*
+
+user 16
+  name Ragator
+  ignore False
+  secure False
+  hashed True
+  password 12c7b631|6c98c4352d28ada1fc24e1ab30093e4e08aa2cca
+  capability #bronycub,voice
+  hostmask Ragator!*@gateway*
+
+user 17
+  name Wolfsbane
+  ignore False
+  secure False
+  hashed True
+  password 63b64fa7|194d6e0d59e3bc788bf5621836c2ec94c7282ba5
+  capability #bronycub,voice
+  hostmask Wolfsbane!*@*
+
+user 18
+  name Shinsaber
+  ignore False
+  secure False
+  hashed True
+  password def7388e|387748dcb33ad93835c1b7a5500dd5a00441f2d6
+  capability #bronycub,voice
+  hostmask Shinsaber!*@*
+
+user 19
+  name lezarius
+  ignore False
+  secure False
+  hashed True
+  password 2add8b94|22ded6ebbf67e7ea8df004aa209cc807588b5d9b
+  capability #bronycub,voice
+  hostmask lezarius!*@*
+
+user 20
+  name KLM
+  ignore False
+  secure False
+  hashed True
+  password 24932c8c|51aad9ee7f94ba98531ee3679bd41db795d526f1
+  capability #bronycub,voice
+  hostmask KLM!*@gateway*
+
+user 21
+  name pandaa
+  ignore False
+  secure False
+  hashed True
+  password 0b304470|613e2206f923e886798e6c8046b482c8aff671ec
+  capability #bronycub,voice
+  hostmask pandaa!*@gateway/web/cgi-irc/kiwiirc*
+
+user 22
+  name Gig
+  ignore False
+  secure False
+  hashed True
+  password 49715343|59ec0478c8c77b9f22926a2442403b647b2c3c75
+  capability #bronycub,voice
+  hostmask Gig!*@gateway*
+
+user 23
+  name BronyCUB
+  ignore False
+  secure False
+  hashed True
+  password bfd56dd4|1a28f756abdc2cad9d792372eb2b2640de887083
+  capability #bronycub,voice
+  hostmask BronyCUB!*@*
+
