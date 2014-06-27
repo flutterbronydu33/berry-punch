@@ -16,7 +16,7 @@ set (bin_out_dir ${root_dir}/bin)
 set (CMAKE_RUNTIME_OUTPUT_DIRECTORY	${bin_out_dir})
 
 # Main project
-project(app)
+project(berrypunch)
 
 	# Sources & flags
 	file (GLOB_RECURSE sources ${src_in_dir}/*.c)
@@ -26,8 +26,8 @@ project(app)
 	include_directories (${include_in_dir})
 
 	# Config
-	# add_definitions (-DVAR="val")
+	add_definitions (-DVERSION_MAJ=0 -DVERSION_MIN=0 -DVERSION_REL=1 )
 
 	# Build app
 	add_executable (${PROJECT_NAME} ${sources} ${headers})
-	#target_link_libraries (${PROJECT_NAME})
+	target_link_libraries (${PROJECT_NAME} -lircclient)
