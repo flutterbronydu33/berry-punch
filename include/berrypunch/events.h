@@ -8,6 +8,7 @@
 #include <libircclient/libircclient.h>
 #include <libircclient/libirc_rfcnumeric.h>
 
+#include <berrypunch/config.h>
 #include <berrypunch/events/connect.h>
 #include <berrypunch/events/message.h>
 #include <berrypunch/events/numeric.h>

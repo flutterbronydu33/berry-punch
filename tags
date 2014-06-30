@@ -4,14 +4,35 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
+IRC_CHAN	include/berrypunch/config.h	9;"	d
+IRC_NICK	include/berrypunch/config.h	6;"	d
+IRC_PORT	include/berrypunch/config.h	5;"	d
+IRC_REALNAME	include/berrypunch/config.h	8;"	d
+IRC_SERV	include/berrypunch/config.h	4;"	d
+IRC_USERNAME	include/berrypunch/config.h	7;"	d
+__anon1::nb	include/berrypunch/msgtrigger.h	/^	unsigned int nb;$/;"	m	struct:__anon1	access:public
+__anon1::str_regexp	include/berrypunch/msgtrigger.h	/^	char ** str_regexp;$/;"	m	struct:__anon1	access:public
+__anon2::grp	include/berrypunch/msgtrigger.h	/^	trigger_group_t * grp;$/;"	m	struct:__anon2	access:public
+__anon2::nb	include/berrypunch/msgtrigger.h	/^	unsigned int nb;$/;"	m	struct:__anon2	access:public
+__bp_config_h__	include/berrypunch/config.h	2;"	d
 __bp_events_connect_h__	include/berrypunch/events/connect.h	2;"	d
 __bp_events_h__	include/berrypunch/events.h	2;"	d
 __bp_events_message_h__	include/berrypunch/events/message.h	2;"	d
 __bp_events_numeric_h__	include/berrypunch/events/numeric.h	2;"	d
+__bp_regex_h__	include/berrypunch/msgtrigger.h	2;"	d
 event_connect	include/berrypunch/events/connect.h	/^void event_connect(irc_session_t * session, const char *event, const char *origin, const char **params, unsigned int count);$/;"	p	signature:(irc_session_t * session, const char *event, const char *origin, const char **params, unsigned int count)
 event_connect	src/events/connect.c	/^void event_connect(irc_session_t * session, const char *event, const char *origin, const char **params, unsigned int count)$/;"	f	signature:(irc_session_t * session, const char *event, const char *origin, const char **params, unsigned int count)
 event_messg	include/berrypunch/events/message.h	/^void event_messg(irc_session_t * session, const char *event, const char *origin, const char **params, unsigned int count);$/;"	p	signature:(irc_session_t * session, const char *event, const char *origin, const char **params, unsigned int count)
 event_messg	src/events/message.c	/^void event_messg(irc_session_t * session, const char *event, const char *origin, const char **params, unsigned int count)$/;"	f	signature:(irc_session_t * session, const char *event, const char *origin, const char **params, unsigned int count)
 event_numeric	include/berrypunch/events/numeric.h	/^void event_numeric(irc_session_t * session, unsigned int event, const char * origin, const char ** params, unsigned int count);$/;"	p	signature:(irc_session_t * session, unsigned int event, const char * origin, const char ** params, unsigned int count)
 event_numeric	src/events/numeric.c	/^void event_numeric(irc_session_t * session, unsigned int event, const char * origin, const char ** params, unsigned int count)$/;"	f	signature:(irc_session_t * session, unsigned int event, const char * origin, const char ** params, unsigned int count)
+grp	include/berrypunch/msgtrigger.h	/^	trigger_group_t * grp;$/;"	m	struct:__anon2	access:public
 main	src/main.c	/^int main()$/;"	f
+msgtrigger_detect_group	include/berrypunch/msgtrigger.h	/^unsigned int msgtrigger_detect_group(triggers_t * t, const char * message);$/;"	p	signature:(triggers_t * t, const char * message)
+msgtrigger_init	include/berrypunch/msgtrigger.h	/^triggers_t * msgtrigger_init();$/;"	p	signature:()
+nb	include/berrypunch/msgtrigger.h	/^	unsigned int nb;$/;"	m	struct:__anon1	access:public
+nb	include/berrypunch/msgtrigger.h	/^	unsigned int nb;$/;"	m	struct:__anon2	access:public
+regex_test	src/msgtrigger.c	/^int regex_test(const char * message)$/;"	f	signature:(const char * message)
+str_regexp	include/berrypunch/msgtrigger.h	/^	char ** str_regexp;$/;"	m	struct:__anon1	access:public
+trigger_group_t	include/berrypunch/msgtrigger.h	/^} trigger_group_t;$/;"	t	typeref:struct:__anon1
+triggers_t	include/berrypunch/msgtrigger.h	/^} triggers_t;$/;"	t	typeref:struct:__anon2

@@ -5,6 +5,7 @@
 #include <libircclient/libircclient.h>
 #include <libircclient/libirc_rfcnumeric.h>
 
+#include <berrypunch/config.h>
 #include <berrypunch/events.h>
 
 int main()
@@ -24,7 +25,7 @@ int main()
 	}
 
 	irc_option_set(session, LIBIRC_OPTION_STRIPNICKS);
-	if (irc_connect(session, "irc.freenode.net", 6667, 0, "arthur33", "BerryPunch", "Berry Punch")) {
+	if (irc_connect(session, IRC_SERV, IRC_PORT, 0, IRC_NICK, IRC_USERNAME, IRC_REALNAME)) {
 		fprintf(stderr, "[ERROR] %s (%d)\n", irc_strerror(irc_errno(session)), irc_errno(session));
 		return 2;
 	}
