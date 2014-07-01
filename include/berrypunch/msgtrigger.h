@@ -36,11 +36,12 @@ typedef struct {
 
 // ------------------------------- Fonctions ------------------------------- //
 // Gestion des groupes
-void msgtrigger_group_add_regex(trigger_group_t * g, const char * regex);
-void msgtrigger_group_add_resp(trigger_group_t * g, const char * resp);
+void msgtrigger_group_add_regex(trigger_group_t * g, char * regex);
+void msgtrigger_group_add_resp(trigger_group_t * g, char * resp);
+void msgtrigger_add_group(triggers_t * t, trigger_group_t * g);
 
 // Gestion de la config globale
 triggers_t * msgtrigger_init();
-void msgtrigger_add_group(triggers_t * t, trigger_group_t * g);
+trigger_group_t * msgtrigger_group_init();
 
 #endif
